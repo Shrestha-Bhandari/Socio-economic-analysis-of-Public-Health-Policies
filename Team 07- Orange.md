@@ -1,11 +1,13 @@
-# Name of the Project
+# Socio-economic analysis of Public Health Policies
 
 ## About 
 <P>Term: Spring 2025
-<P>Team: Team Name
-<P>Students
+<P>Team: Team 7-Orange
+<P>Yash Nayi
+<P>Parin Patel
+<P>Shrestha Bhandari
 
-#️⃣ **Keywords**:  Section 0010, MLOps, Python, Xcode, Raspberry Pi Pico, iOS Application
+#️⃣ **Keywords**:  MLOps, Python, LLM
 
 ## 💻 Project Abstract:  
 <P>Lorem ipsum odor amet, consectetuer adipiscing elit. Tellus nunc vulputate ornare dignissim faucibus accumsan per; pretium ante. Fringilla aptent posuere conubia ut montes urna a quis. Ligula mattis venenatis platea venenatis, scelerisque porttitor habitant orci etiam. Sodales pharetra libero sit sed libero cras nostra suscipit. Quam massa vivamus; orci turpis rhoncus vestibulum ullamcorper habitasse. Magnis feugiat conubia lacinia, mauris ac lacinia eget conubia aliquet. Laoreet viverra aptent dictum nascetur arcu velit maximus ridiculus ligula. </P>
