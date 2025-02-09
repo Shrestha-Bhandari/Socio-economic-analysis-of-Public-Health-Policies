@@ -10,8 +10,7 @@
 #️⃣ **Keywords**:  MLOps, Python, LLM
 
 ## 💻 Project Abstract:  
-<P>Introduction
-Public health policies play a crucial role in shaping healthcare access and outcomes, yet their socioeconomic impact is often unclear. This project leverages data science and NLP techniques to analyze how public health policies affect different socioeconomic groups. By integrating structured datasets , we aim to build an AI-driven system that evaluates policy effectiveness. A fine-tuned language model  will summarize policies, detect misinformation, and correlate policy implementation with socioeconomic indicators.
+<P>Public health policies play a crucial role in shaping healthcare access and outcomes, yet their socioeconomic impact is often unclear. This project leverages data science and NLP techniques to analyze how public health policies affect different socioeconomic groups. By integrating structured datasets , we aim to build an AI-driven system that evaluates policy effectiveness. A fine-tuned language model  will summarize policies, detect misinformation, and correlate policy implementation with socioeconomic indicators.
 </P>
 <P>Lorem ipsum odor amet, consectetuer adipiscing elit. Tellus nunc vulputate ornare dignissim faucibus accumsan per; pretium ante. Fringilla aptent posuere conubia ut montes urna a quis. Ligula mattis venenatis platea venenatis, scelerisque porttitor habitant orci etiam. Sodales pharetra libero sit sed libero cras nostra suscipit. Quam massa vivamus; orci turpis rhoncus vestibulum ullamcorper habitasse. Magnis feugiat conubia lacinia, mauris ac lacinia eget conubia aliquet. Laoreet viverra aptent dictum nascetur arcu velit maximus ridiculus ligula. </P>
 
