@@ -11,16 +11,15 @@
 
 ## 💻 Project Abstract:  
 <P>Public health policies play a crucial role in shaping healthcare access and outcomes, yet their socioeconomic impact is often unclear. This project leverages data science and NLP techniques to analyze how public health policies affect different socioeconomic groups. By integrating structured datasets , we aim to build an AI-driven system that evaluates policy effectiveness. A fine-tuned language model  will summarize policies, detect misinformation, and correlate policy implementation with socioeconomic indicators.
-</P>
-<P>Lorem ipsum odor amet, consectetuer adipiscing elit. Tellus nunc vulputate ornare dignissim faucibus accumsan per; pretium ante. Fringilla aptent posuere conubia ut montes urna a quis. Ligula mattis venenatis platea venenatis, scelerisque porttitor habitant orci etiam. Sodales pharetra libero sit sed libero cras nostra suscipit. Quam massa vivamus; orci turpis rhoncus vestibulum ullamcorper habitasse. Magnis feugiat conubia lacinia, mauris ac lacinia eget conubia aliquet. Laoreet viverra aptent dictum nascetur arcu velit maximus ridiculus ligula. </P>
+
 
 ### 🫧 Background
 
 Public health policies such as Medicaid expansion, vaccination programs, and mental health funding aim to improve healthcare access and outcomes. However, their socioeconomic impact is not always clear. This project seeks to analyze how these policies affect different socioeconomic groups using a combination of structured data analysis and NLP-based policy summarization.
 
 ## High Level Requirement
-<P>Lorem ipsum odor amet, consectetuer adipiscing elit. Tellus nunc vulputate ornare dignissim faucibus accumsan per; pretium ante. Fringilla aptent posuere conubia ut montes urna a quis. Ligula mattis venenatis platea venenatis, scelerisque porttitor habitant orci etiam. Sodales pharetra libero sit sed libero cras nostra suscipit. Quam massa vivamus; orci turpis rhoncus vestibulum ullamcorper habitasse. Magnis feugiat conubia lacinia, mauris ac lacinia eget conubia aliquet. Laoreet viverra aptent dictum nascetur arcu velit maximus ridiculus ligula. </P>
-<P>Lorem ipsum odor amet, consectetuer adipiscing elit. Tellus nunc vulputate ornare dignissim faucibus accumsan per; pretium ante. Fringilla aptent posuere conubia ut montes urna a quis. Ligula mattis venenatis platea venenatis, scelerisque porttitor habitant orci etiam. Sodales pharetra libero sit sed libero cras nostra suscipit. Quam massa vivamus; orci turpis rhoncus vestibulum ullamcorper habitasse. Magnis feugiat conubia lacinia, mauris ac lacinia eget conubia aliquet. Laoreet viverra aptent dictum nascetur arcu velit maximus ridiculus ligula. </P>
+<P>To effectively measure the socioeconomic impact of public health policies, the project requires a robust system integrating data acquisition, processing, and AI modeling. First, structured and unstructured data sources must be gathered, including health statistics, economic indicators, policy documents, and public sentiment data. Data processing will involve cleaning, feature engineering, and pipeline automation to ensure scalability. An LLM/SLM will be fine-tuned for policy summarization, misinformation detection, and sentiment analysis, while predictive models will assess policy effectiveness by correlating socioeconomic indicators. The system will be designed for scalability and integration, ensuring efficient handling of large datasets and adaptability for further expansion. </P>
+
 
 ### 📋 Functional Requirements
 
