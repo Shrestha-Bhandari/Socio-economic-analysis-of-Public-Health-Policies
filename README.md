@@ -3,9 +3,9 @@
 ## About 
 <P>Term: Spring 2025
 <P>Team: Team 7-Orange
-## Yash Nayi
-## Parin Patel
-## Shrestha Bhandari
+<p> Yash Nayi
+<p> Parin Patel
+<p> Shrestha Bhandari
 
 #️⃣ **Keywords**:  MLOps, Python, LLM
 
