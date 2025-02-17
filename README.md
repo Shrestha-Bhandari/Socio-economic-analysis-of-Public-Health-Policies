@@ -23,14 +23,9 @@ This project investigates whether public health policies reduce or reinforce soc
 
 ### 📋 Functional Requirements
 
-This project will produce software or system that does following things :
+<P>We are currently focusing on the World Bank as our primary data source, the system must be designed to efficiently extract, preprocess, and analyze datasets available through the World Bank Open Data portal. This includes key socioeconomic indicators such as income distribution, healthcare access, employment rates, education levels, and poverty metrics. The system should support API-based data retrieval, automated updates to ensure real-time insights, and structured storage for seamless integration with our analytical models. Given the structured nature of World Bank data, preprocessing will involve handling missing values, standardizing formats, and ensuring compatibility with NLP and machine learning pipelines for summarization, comparative analysis, and predictive modeling of policy impacts. </P>
 
-<P>Lorem ipsum odor amet, consectetuer adipiscing elit. Tellus nunc vulputate ornare dignissim faucibus accumsan per; pretium ante. Fringilla aptent posuere conubia ut montes urna a quis. Ligula mattis venenatis platea venenatis, scelerisque porttitor habitant orci etiam. Sodales pharetra libero sit sed libero cras nostra suscipit. Quam massa vivamus; orci turpis rhoncus vestibulum ullamcorper habitasse. Magnis feugiat conubia lacinia, mauris ac lacinia eget conubia aliquet. Laoreet viverra aptent dictum nascetur arcu velit maximus ridiculus ligula. </P>
 
-- lorem ipsum
-- lorem ipsum
-- lorem ipsum
-- lorem ipsum
 
 ###  ✅ Non functional Requirements
 
