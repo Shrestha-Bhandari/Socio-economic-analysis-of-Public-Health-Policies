@@ -1,0 +1,95 @@
+URL: https://www.healthsystemtracker.org/brief/how-many-people-with-employer-sponsored-insurance-use-the-drugs-slated-for-medicare-price-negotiations/
+Title: How many people with employer-sponsored insurance use the drugs slated for Medicare price negotiations - Peterson-KFF Health System Tracker
+
+Paragraphs:
+ByDelaney Tevis,Justin Lo,Matthew RaeTwitter, andCynthia CoxKFF
+August 14, 2024
+Get the best of the Health System Tracker delivered to your inbox.
+Get the best of the Health System Tracker delivered to your inbox.
+Costs and affordability of retail prescription drugs have become increasingly important issues for consumers, healthcare providers, and policymakers alike. PreviousKFF polling in 2023showed that 82% of U.S. adults think the cost of prescription drugs is unreasonable, with 3 in every 4 adults agreeing that there is not as much regulation as there should be to limit prescription drug prices.
+TheInflation Reduction Act of 2022incorporates several provisions aimed at both reducing out-of-pocket prescription drug costs for individuals with Medicare and lowering federal Medicare spending on prescription drugs, including a provision that requires the federal government to negotiate prices for specified high- expenditure drugs — first for Medicare Part D drugs (starting in 2026) and later for Medicare Part B drugs (starting in 2028). (Part D covers retail outpatient prescription drugs and Part B covers physician-administered drugs.) InAugust 2023, the Centers for Medicare & Medicaid Services (CMS) released the list of the firstten drugsthat were selected for Medicare price negotiations. The next key deadline for CMS is to publish the negotiated maximum fair drug prices bySeptember 1, 2024.
+Although the Inflation Reduction Act enacted into law included drug-related policies that primarily affect Medicare,earlier drafts of the legislationincluded similar provisions that would have applied to the private insurance market, including making the government’s negotiated price available to both Medicare and private payers. This analysis uses the Merative MarketScan 2022 commercial claims to estimate the number of enrollees in the employer-sponsored insurance market who use one or more of the ten drugs selected for Medicare Part D price negotiations.
+Among the 167 million people with employer-sponsored insurance in 2022,3.4 million peopleused at least one of the ten drugs that have been identified for Medicare price negotiations.
+The number of employer plan enrollees taking a given drug varies greatly. The most common was Jardiance, a drug used to treat diabetes and heart failure, with over 911,000 enrollees; the least common was Imbruvica, a drug used to treat blood cancers with only 5,000 enrollees.
+Health Spending
+Health Spending
+Overall, fewer enrollees in the employer-sponsored market use at least one of the ten drugs slated for negotiation than in the Medicare Part D population, where7.7 millionenrollees took at least one of the ten drugs in 2022. On a drug-by-drug basis, all of the drugs except Stelara and Enbrel were used by fewer enrollees in the employer market than in Medicare.
+Of note, this analysis does not include an estimate of the number of people with health insurance through ACA marketplace plans who also take these drugs.
+In the future, the Medicare program will select additional drugs for negotiation, with another 15 Part D drugs selected for 2027, 15 Part D and Part B drugs selected for 2028, and another 20 Part B and Part D drugs selected for 2029 and future years. It is therefore likely that millions more people with private coverage will use at least one of the additional drugs slated for Medicare negotiation in the future.
+It isunclearhow lowering drug prices in Medicare may impact prices in the private insurance market. Some think the negotiated Medicare prices will serve as abenchmarkfor private insurers during negotiations with drug manufacturers and thus potentially decrease prices, while others are concerned that there will be“cost shifting”from Medicare to private payers, causing increased prices.Othershave advocated for expanding the drug-related provisions of the IRA to include the private market.
+Outpatient pharmaceutical claims from the Merative MarketScan Commercial Database were used to estimate the number of enrollees who, in 2022, had taken a drug that will be included in the Medicare price negotiations. These data include claims from both retail and mail-order pharmacies. We included all individuals who were ever enrolled in 2022 (i.e., enrolled during at least one month of the year). To make MarketScan data nationally representative, weights were applied to match counts in theCurrent Population Surveyby sex, age, and state, and included individuals with an employer-sponsored plan as either primary or secondary coverage.  The total of all weighted enrollees in 2022 was 167 million. This estimate includes people with dual coverage, and as a result, is higher than the totals publishedhere.  To identify claims for the drugs selected for Medicare negotiations, we used the National Drug Codes (NDCs) that CMS published and are available for downloadhere.
+The Peterson Center on Healthcare and KFF are partnering to monitor how well the U.S. healthcare system is performing in terms of quality and cost.
+Find out more details about U.S. healthcare from our updated dashboard.
+Get the best of the Health System Tracker delivered to your inbox.
+Get the best of the Health System Tracker delivered to your inbox.
+© 2025 PETERSON-KFF Health System Tracker   All Rights Reserved
+
+Links:
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/category/quality-of-care/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/interactives/
+https://www.healthsystemtracker.org/about-us/
+https://www.healthsystemtracker.org
+https://www.healthsystemtracker.org/tag/price-transparency/
+https://www.healthsystemtracker.org/tag/affordability/
+https://www.healthsystemtracker.org/tag/prescription-drugs/
+https://www.healthsystemtracker.org/tag/price-transparency/
+https://www.healthsystemtracker.org/tag/affordability/
+https://www.healthsystemtracker.org/tag/prescription-drugs/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/category/quality-of-care/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/interactives/
+https://www.healthsystemtracker.org/about-us/
+https://www.healthsystemtracker.org/category/access-affordability/
+
+https://www.kff.org/person/justin-lo/
+https://www.kff.org/person/matthew-rae/
+https://twitter.com/matthew_t_rae
+https://www.kff.org/person/cynthia-cox/
+https://www.facebook.com/sharer/sharer.php?u=https://www.healthsystemtracker.org/brief/how-many-people-with-employer-sponsored-insurance-use-the-drugs-slated-for-medicare-price-negotiations/
+http://twitter.com/share?text=How+many+people+with+employer-sponsored+insurance+use+the+drugs+slated+for+Medicare+price+negotiations&url=https://www.healthsystemtracker.org/brief/how-many-people-with-employer-sponsored-insurance-use-the-drugs-slated-for-medicare-price-negotiations/
+https://www.linkedin.com/sharing/share-offsite/?url=https://www.healthsystemtracker.org/brief/how-many-people-with-employer-sponsored-insurance-use-the-drugs-slated-for-medicare-price-negotiations/
+https://www.kff.org/health-costs/poll-finding/public-opinion-on-prescription-drugs-and-their-prices/
+https://www.congress.gov/bill/117th-congress/house-bill/5376
+https://www.cms.gov/newsroom/press-releases/statements-cms-leadership-historic-announcement-first-selected-drugs-medicare-drug-price-negotiation
+https://www.cms.gov/files/document/fact-sheet-medicare-selected-drug-negotiation-list-ipay-2026.pdf
+https://www.kff.org/medicare/issue-brief/faqs-about-the-inflation-reduction-acts-medicare-drug-price-negotiation-program/#Key_activities_timeline
+https://www.congress.gov/bill/117th-congress/house-bill/5376/text/rh
+https://www.healthsystemtracker.org/brief/how-much-and-why-aca-marketplace-premiums-are-going-up-in-2025/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/brief/how-much-and-why-aca-marketplace-premiums-are-going-up-in-2025/
+https://www.healthsystemtracker.org/chart-collection/how-much-is-health-spending-expected-to-grow/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/chart-collection/how-much-is-health-spending-expected-to-grow/
+https://aspe.hhs.gov/sites/default/files/documents/4bf549a55308c3aadc74b34abcb7a1d1/ira-drug-negotiation-report.pdf
+https://www.healthaffairs.org/content/forefront/medicare-negotiate-drug-prices-and-impact-have
+https://www.milliman.com/en/insight/medicare-price-negotiation-paradigm-shift-part-d-access-cost
+https://jamanetwork.com/journals/jama-health-forum/fullarticle/2787467
+https://www.americanprogress.org/article/federal-solutions-to-address-rising-costs-of-employer-sponsored-insurance/
+https://www.census.gov/programs-surveys/cps/data.html
+https://www.kff.org/other/state-indicator/nonelderly-0-64/?dataView=1&currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D
+https://www.cms.gov/inflation-reduction-act-and-medicare/medicare-drug-price-negotiation
+https://www.healthsystemtracker.org/about-us/
+https://petersonhealthcare.org/
+https://www.kff.org/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/brief/policy-issues-and-trends-2024/
+https://www.healthsystemtracker.org/brief/policy-issues-and-trends-2024/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/brief/how-financially-vulnerable-are-people-with-medical-debt/
+https://www.healthsystemtracker.org/brief/how-financially-vulnerable-are-people-with-medical-debt/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/dashboard/
+https://petersonhealthcare.org/
+https://www.kff.org/
+https://www.facebook.com/sharer/sharer.php?u=https://www.healthsystemtracker.org
+http://twitter.com/share?text=Peterson-KFF+Health+System+Tracker&url=https://www.healthsystemtracker.org
+https://www.linkedin.com/sharing/share-offsite/?url=https://www.healthsystemtracker.org
+https://www.healthsystemtracker.org/privacy-policy/
+https://www.healthsystemtracker.org/terms-of-use/

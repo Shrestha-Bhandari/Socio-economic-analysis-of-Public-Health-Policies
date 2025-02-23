@@ -1,0 +1,147 @@
+URL: https://www.healthsystemtracker.org/chart-collection/quality-u-s-healthcare-system-compare-countries/
+Title: How does the quality of the U.S. health system compare to other countries? - Peterson-KFF Health System Tracker
+
+Paragraphs:
+ByEmma WagerTwitter,Imani Telesford,Shameek Rakshit,Nisha Kurani, andCynthia CoxKFF
+October 9, 2024
+Despite spending nearlytwice as muchper capita on healthcare compared to similarly large and wealthy nations, the United States has a lower life expectancy than peer nations and has seen worsening measures of health outcomes since the COVID-19 pandemic.
+This chart collection combines various measures of quality of care in the United States and other large, high-income nations (based on gross domestic product and per capita GDP) to show how the U.S. stacks up against its peers and how that has changed over time.
+Generally, the U.S. performs worse in long-term health outcomes measures (such as life expectancy), certain treatment outcomes (such as maternal mortality and congestive heart failure hospital admissions), some patient safety measures (such as obstetric trauma with instrument and medication or treatment errors), and patient experiences of not getting care due to cost. The U.S. performs similarly to or better than peer nations in some other measures of treatment outcomes (such as mortality rates within 30 days of acute hospital treatment) and patient safety (such as rates of post-operative sepsis).
+Across a wide variety of measures of quality, the U.S. health system appears to perform worse than peer nations on more indicators than it does better. However, inconsistent and imperfect metrics make it difficult to firmly assess system-wide health quality. Some measures of quality – particularly long-term measures like life expectancy – are not only reflective of the health system itself, but also of differences in socioeconomic conditions and other differences between countries that are largely outside of the domain of the health system.
+Health & Wellbeing
+Access & Affordability
+As discussed in more detail in aseparate brief,life expectancy at birth was similar in the U.S. and peer countries on average in 1980 (73.7 and 74.6 years, respectively), but the gap has grown substantially in the following decades as peer nations saw more rapid improvement in life expectancy. The COVID-19 pandemic further widened this gap, and life expectancy in 2022 was nearly 5 years shorter in the U.S. than in peer countries (77.5 years in the U.S. versus 82.2 years in comparable countries, on average).
+The above data reflect period life expectancy estimates, based on excess mortality observed in each year. The period life expectancy at birth represents the average age a cohort is hypothetically expected to live if current conditions persisted into the future, not the mortality experience of a birth cohort.
+All-cause mortality rates — the number of deaths per 100,000 people, adjusted for age differences across countries — plateaued in the U.S. in the 2010s, while continuing to fall in other peer nations. From 1980 to 2021 (the latest year with comparable data), the overall mortality rate from all causes of death in the U.S. fell by about 17%, compared to a 44% decline in peer countries.
+The COVID-19 pandemic resulted in increased mortality in 2020 across most nations, though the U.S. saw a significantly higher increase than many other counties. Mortality rates also increased in 2021 from 2020 in the United States, despite declining in most peer nations. The gap in mortality rates between the U.S. and comparable countries, on average, was at its largest in 2021.
+
+In addition to overall mortality rates, the “years of life lost” metric marks the extent of premature deaths within a population by providing more weight to deaths at younger ages. The U.S. and comparable countries have made progress inreducing premature deathfrom 1990 to 2019 (down 24% and 42%, respectively), although the gap between the U.S. and comparable countries has increased over time.
+The U.S. had thehighest per capita rateof years of life lost among similarly large and wealthy countries in 2020 and 2021. The per capita premature excess death rate in the U.S. was over twice as high as the next closest peer country, the U.K. The higher rate of new premature deaths in the U.S. compared to peer countries was driven in part byracial disparitieswithin the U.S. The premature excess death rates for American Indian and Alaska Native, Black, Hispanic, and Native Hawaiian and other Pacific Islander populations in the U.S. were 3 times higher than the rates among White or Asian populations.
+Historically, the U.S. health system consistently results in higher rates ofmortality and premature deathsamong people of color.  Additionally, children and teens in the U.S. are less likely to make it to adulthood than in peer countries, with the U.S having higher rates ofmotor vehicle accidents,firearm deaths, andsuicidedeaths among children and teens.
+While premature death rates are a useful measure, examining disease burden can also reflect the quality of a country’s healthcare system in treating illness. Disease burden, which accounts for both premature death and years living with disability, is often measured using disability adjusted life years (DALYs).Between 1990 and 2019, the DALY ratedeclinedin the U.S. and comparable countries, though the U.S. continued to have higher age-adjusted disease burden rates than peer countries. In 2020, the DALY rate increased in the U.S. and its peer countries, reflecting a spike in mortality due to COVID-19. While, the DALY rate started to decline again, on average, in comparable countries in 2021, it continued to increase in the U.S. In 2021, the DALY rate was 46% higher in the U.S. than in comparable countries, on average.
+Health & Wellbeing
+Health & Wellbeing
+Mortality within 30 days of being admitted to a hospital is not entirely preventable, but high quality of care can reduce the mortality rate for certain diagnoses. The 30-day mortality rates after hospital admissions for heart attacks (acute myocardial infarction) and hemorrhagic stroke (caused by bleeding) are similar in the U.S. and comparable countries average. The 30-day mortality rates for ischemic strokes (caused by blood clots) was 4.3 deaths per 100 patients in the U.S. in 2020, compared to an average of 6.2 deaths per 100 patients in similar countries. While the U.S. has lower rates of mortality due to these conditions than the average across peer nations, it is important to note that several individual peer nations have lower mortality rates than the U.S.
+While wealth and economic prosperity are highly correlated with lower maternal mortality rates, the U.S. is an outlier with the highest rate of pregnancy-related deaths (22.3 deaths per 100,000 live births in 2022) when compared to peer countries (3.9 deaths per 100,000 live births).
+Within the U.S., there are significant racial disparities in maternal mortality rates. The maternal mortality rate for Black mothers is significantly higher than the rate for White mothers — a disparity that persists acrossage and socioeconomic groups. Every race and ethnicity, socioeconomic, and age group in the United States sees higher maternal mortality rates than the average in comparable countries. Maternal mortality in the U.S.has risensince the mid-2010s, sparking concern from the medical community and regulators.
+Health & Wellbeing
+Health & Wellbeing
+Hospital admissions for certain chronic diseases, such as cardiac conditions, chronic obstructive pulmonary diseases (COPD), asthma, and diabetes, can arise for a variety of reasons, but access to and use of primary care and preventive services can play a role in preventing some admissions.
+Hospital admission rates in the U.S. are higher than in comparable countries for congestive heart failure and complications due to diabetes, and some admissions for these chronic conditions could be minimized with adequate primary care. Admission rates in 2020 were impacted by the COVID-19 pandemic — patients were less likely to seek hospital treatment, and hospitals were at times overwhelmed and unable to admit patients who would have been admitted in a different year.
+Cesarean sections are one of the mostcommonlyperformed surgical procedures in the U.S. and have become a key indicator of quality of care in maternal health. Cesarean sections can be lifesaving — however, when they are not medically indicated, they can pose unnecessaryrisksfor mothers, including an increased chance of blood clots, infections, and other complications that require further surgery.
+The U.S. has consistently had higher cesarean section rates than most of its peers, though rates have plateaued slightly in recent years. In 2021, the rate of cesarean sections per 1,000 live births was 321 in the U.S. and an average of 242 in comparable countries.
+Obstetric trauma is more likely to occur in deliveries where medical instruments are utilized (i.e., forceps). The rate of obstetric trauma during deliveries with an instrument in the U.S. was 11.7 per 100 vaginal deliveries in 2020, higher than most comparable countries with available data. The rate of obstetric trauma during deliveries without an instrument in the U.S. was 1.7 per 100 vaginal deliveries in 2020, on the lower end among comparable countries with available data.
+
+Rates of post-operative complications are an important measure of hospital safety. Pulmonary embolisms and deep vein thrombosis can arise as  complications from surgeries or extended hospital stays. The prevalence of post-operative clots for these procedures is higher in the U.S. than in the U.K., Sweden, Belgium, and the Netherlands, but lower than in Australia.
+Sepsis is a serious complication for patients with infections, and effects can range from organ failure and shock to death in severe cases. Rates of post-operative infections and sepsis are an important marker of care quality for patients undergoing surgery, because this is a major source of morbidity and mortality that can sometimes be prevented. Prevention is multifactorial and can involve proper operative techniques and training, hygiene and safety protocols, and antibiotic utilization, amongst other things. The rate of post-operative sepsis following abdominal surgery is just under 2% in the U.S., lower than in most peer countries that report data.
+Patients in the U.S. are more likely than those in comparable countries to report experiencing a medication or medical error at some point during their care, according to asurveyby the Commonwealth Fund. In this case, medication errors include being given the wrong medication or dose, and treatment errors indicate that people thought a medical mistake had been made in their treatment or care. In 2020, 12.6% of patients in the U.S. reported experiencing a medical error compared to 11.4% of patients in similar countries.
+Unintentionally retained items or device fragments following surgical procedures can result in pain, infection and evenlife-threatening consequencesfor patients. The U.S. has the lowest rate of retained surgical items or unretrieved device fragments in 2020, at 1.6 per 100,000 surgical hospital discharges, compared to an average rate of 8.2 per 100,000 surgical hospital discharges in comparable countries.
+Patients in the U.S. are more likely to report missing consultations with their provider due to costs. In 2020, the share of the population (as measured by rate per 100 patients) reporting missing a consultation due to cost was 26.8% in the U.S., compared to and average of 7.0% among comparable countries. When patients choose not to meet with their physicians due to cost or any other reason, it can lead to worse health outcomes and more expensive care needed at later points in the patient’s life.  Healthcare utilizationfell in 2020due to the COVID-19 pandemic as healthcare resources were diverted to COVID-19 related care, normal care was paused temporarily, and appointments were delayed or forgone.
+Most data used here are sourced from the Organization for Economic Co-operation and Development (OECD), which compiles health quality statistics and data from member nations. Comparable countries include Australia, Austria, Belgium, Canada, France, Germany, Japan, the Netherlands, Sweden, Switzerland and the United Kingdom.
+All cause age-adjusted mortality data is unavailable for Australia in 2005. Belgium, France, Germany, and the United Kingdom are excluded from the comparable country average rate for all cause age-adjusted mortality for all years due to unavailable data in 2021.
+Age-standardized 30-day mortality rate datafor acute myocardial infarction, ischemic stroke, and hemorrhagic stroke, ages 45 and older, is unavailable for France, Germany, and Switzerland in 2020.
+Age-standardized hospital admission rate data for COPD and congestive heart failure is unavailable for Japan in 2020. Age-standardized hospital admission rate data for COPD, congestive heart failure, diabetes, and asthma are unavailable for France and Germany in 2020.
+Health & Wellbeing
+Health & Wellbeing
+C-section data is not available for Belgium and Sweden from 2000-2004 and Switzerland from 2000-2001. Data for the Netherlands in 2011 is missing and instead interpolated from 2010. Data for Belgium in 2015 is missing and instead interpolated from 2014. For countries without both an inpatient and day case C-section rate, the inpatient rate is used. Australia, Japan, Canada and the United Kingdom are excluded from the comparable country average for all years due to a lack of 2021 data.
+Throughout this chart collection, measures such as long-term health outcomes, treatment outcomes, hospital-related care, and patient safety are used to analyze the quality of health systems in the U.S. and 11 other countries identified as similarly wealthy based on total GDP and GDP per capita. While these indicators allow for cross-country comparisons, they do not necessarily provide a comprehensive overview of the quality of each country’s respective health system. Country-specific differences in population health, payment systems, survey metrics/methods, and demographics present barriers to cross country comparisons.
+The Peterson Center on Healthcare and KFF are partnering to monitor how well the U.S. healthcare system is performing in terms of quality and cost.
+Get the best of the Health System Tracker delivered to your inbox.
+Get the best of the Health System Tracker delivered to your inbox.
+Find out more details about U.S. healthcare from our updated dashboard.
+Get the best of the Health System Tracker delivered to your inbox.
+Get the best of the Health System Tracker delivered to your inbox.
+© 2025 PETERSON-KFF Health System Tracker   All Rights Reserved
+
+Links:
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/category/quality-of-care/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/interactives/
+https://www.healthsystemtracker.org/about-us/
+https://www.healthsystemtracker.org
+https://www.healthsystemtracker.org/tag/price-transparency/
+https://www.healthsystemtracker.org/tag/affordability/
+https://www.healthsystemtracker.org/tag/prescription-drugs/
+https://www.healthsystemtracker.org/tag/price-transparency/
+https://www.healthsystemtracker.org/tag/affordability/
+https://www.healthsystemtracker.org/tag/prescription-drugs/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/category/quality-of-care/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/interactives/
+https://www.healthsystemtracker.org/about-us/
+https://www.healthsystemtracker.org/category/quality-of-care/
+https://www.kff.org/person/emma-wager/
+https://twitter.com/emmawage
+
+https://www.kff.org/person/shameek-rakshit/
+https://www.kff.org/person/nisha-kurani/
+https://www.kff.org/person/cynthia-cox/
+https://www.facebook.com/sharer/sharer.php?u=https://www.healthsystemtracker.org/chart-collection/quality-u-s-healthcare-system-compare-countries/
+http://twitter.com/share?text=How+does+the+quality+of+the+U.S.+health+system+compare+to+other+countries%3F&url=https://www.healthsystemtracker.org/chart-collection/quality-u-s-healthcare-system-compare-countries/
+https://www.linkedin.com/sharing/share-offsite/?url=https://www.healthsystemtracker.org/chart-collection/quality-u-s-healthcare-system-compare-countries/
+#introduction
+https://www.healthsystemtracker.org/chart-collection/health-spending-u-s-compare-countries/
+https://www.healthsystemtracker.org/brief/premature-mortality-during-covid-19-in-the-u-s-and-peer-countries/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/brief/premature-mortality-during-covid-19-in-the-u-s-and-peer-countries/
+https://www.healthsystemtracker.org/brief/the-state-of-the-u-s-health-system-in-2022-and-the-outlook-for-2023/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/brief/the-state-of-the-u-s-health-system-in-2022-and-the-outlook-for-2023/
+https://www.healthsystemtracker.org/chart-collection/u-s-life-expectancy-compare-countries/
+https://www.healthsystemtracker.org/indicator/health-well-being/premature-death/
+https://www.healthsystemtracker.org/brief/premature-mortality-during-covid-19-in-the-u-s-and-peer-countries/#Years%20of%20life%20lost%20up%20to%20age%2075%20during%20the%20COVID-19%20pandemic%20per%20100,000%20people%20in%20the%20U.S.%20and%20peer%20countries,%202020-2021
+https://www.healthsystemtracker.org/brief/racial-disparities-in-premature-deaths-during-the-covid-19-pandemic/
+https://www.healthsystemtracker.org/brief/racial-disparities-in-premature-deaths-during-the-covid-19-pandemic/
+https://www.nejm.org/doi/full/10.1056/NEJMsr1804754
+https://www.kff.org/mental-health/issue-brief/child-and-teen-firearm-mortality-in-the-u-s-and-peer-countries/
+https://www.kff.org/mental-health/issue-brief/child-and-teen-firearm-mortality-in-the-u-s-and-peer-countries/
+https://www.healthsystemtracker.org/indicator/health-well-being/disability-adjusted-life-years/
+https://www.healthsystemtracker.org/brief/racial-disparities-in-premature-deaths-during-the-covid-19-pandemic/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/brief/racial-disparities-in-premature-deaths-during-the-covid-19-pandemic/
+https://www.healthsystemtracker.org/chart-collection/what-drives-differences-in-life-expectancy-between-the-u-s-and-comparable-countries/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/chart-collection/what-drives-differences-in-life-expectancy-between-the-u-s-and-comparable-countries/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6730892/
+https://www.healthsystemtracker.org/indicator/quality/maternal-mortality/#Maternal%20mortality%20rate%20per%20100,000%20live%20births,%C2%A0by%20race%20and%20ethnicity,%202018-2021
+https://www.healthsystemtracker.org/chart-collection/what-drives-differences-in-life-expectancy-between-the-u-s-and-comparable-countries/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/chart-collection/what-drives-differences-in-life-expectancy-between-the-u-s-and-comparable-countries/
+https://www.healthsystemtracker.org/brief/racial-disparities-in-premature-deaths-during-the-covid-19-pandemic/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/brief/racial-disparities-in-premature-deaths-during-the-covid-19-pandemic/
+https://www.ncbi.nlm.nih.gov/books/NBK574416/
+https://www.cdc.gov/nchs/data/nvsr/nvsr64/nvsr64_04.pdf
+https://www.commonwealthfund.org/publications/surveys/2020/dec/2020-international-survey-income-related-inequalities
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5320916/#:~:text=They%20have%20potentially%20harmful%20consequences,surgical%20staff%20during%20the%20process.
+https://www.healthsystemtracker.org/chart-collection/how-has-healthcare-utilization-changed-since-the-pandemic/
+https://www.healthsystemtracker.org/chart-collection/what-drives-differences-in-life-expectancy-between-the-u-s-and-comparable-countries/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/chart-collection/what-drives-differences-in-life-expectancy-between-the-u-s-and-comparable-countries/
+https://www.healthsystemtracker.org/brief/racial-disparities-in-premature-deaths-during-the-covid-19-pandemic/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/brief/racial-disparities-in-premature-deaths-during-the-covid-19-pandemic/
+https://www.healthsystemtracker.org/about-us/
+https://petersonhealthcare.org/
+https://www.kff.org/
+https://www.healthsystemtracker.org/category/quality-of-care/
+https://www.healthsystemtracker.org/chart-collection/u-s-health-care-resources-compare-countries/
+https://www.healthsystemtracker.org/chart-collection/u-s-health-care-resources-compare-countries/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/brief/the-state-of-the-u-s-health-system-in-2022-and-the-outlook-for-2023/
+https://www.healthsystemtracker.org/brief/the-state-of-the-u-s-health-system-in-2022-and-the-outlook-for-2023/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/dashboard/
+https://petersonhealthcare.org/
+https://www.kff.org/
+https://www.facebook.com/sharer/sharer.php?u=https://www.healthsystemtracker.org
+http://twitter.com/share?text=Peterson-KFF+Health+System+Tracker&url=https://www.healthsystemtracker.org
+https://www.linkedin.com/sharing/share-offsite/?url=https://www.healthsystemtracker.org
+https://www.healthsystemtracker.org/privacy-policy/
+https://www.healthsystemtracker.org/terms-of-use/

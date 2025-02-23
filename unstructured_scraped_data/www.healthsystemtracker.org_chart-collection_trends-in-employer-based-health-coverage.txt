@@ -1,0 +1,100 @@
+URL: https://www.healthsystemtracker.org/chart-collection/trends-in-employer-based-health-coverage/
+Title: What are the recent trends in employer-based health coverage? - Peterson-KFF Health System Tracker
+
+Paragraphs:
+ByGary ClaxtonandMatthew RaeTwitterKFF
+December 22, 2023
+Get the best of the Health System Tracker delivered to your inbox.
+Get the best of the Health System Tracker delivered to your inbox.
+Employer-sponsored health insurance (ESI) is the largest source of health coverage for non-elderly people, covering 60.4% of this population in March 2023. Not all workers have access to ESI, however; some workers are in jobs where the employer does not offer coverage (usually smaller employers) and some workers are not eligible for the coverage offered at their job. Additionally, some workers do not enroll in the ESI they are offered.
+This chart collection presents analysis of data from recent Annual Economic and Social (March) Supplements (ASEC) of the Current Population Survey (CPS) to examine who among non-elderly people has ESI and which workers are offered and eligible for coverage at their current jobs.[1]Coverage, work for an employer that offers coverage, and worker eligibility for offered coverage are each measured at the point in time of the survey.[2]A fuller description of the methods is included below.
+Key takeaways include:
+The workplace has long been a significant source of coverage for those in working families. A previous chartcollection, analyzing a different source of data (see methods), showed a nine percentage-point decline in the share of non-elderly people with ESI between 1998 and 2018. The data from the 2019 to 2023 ASEC show that the share of non-elderly people with ESI was largely stable over the period, despite the economic dislocations arising from the COVID-19 epidemic.[3]
+In March 2023, 60.4% of the non-elderly, or about 164.7 million people, had ESI. Of these, 84.2 million had ESI from their own job, 73.8 million were covered as a dependent by a someone within their household, and 6.7 million were covered as a dependent by someone outside of their household.
+A relatively small share of these people also held other coverage at that time: 3.2% were also covered by Medicaid or other public coverage and 0.6% were also covered by non-group coverage.
+ESI coverage varied dramatically with income. More than four in five (84.2%) non-elderly adults with incomes of 400 of poverty or more had ESI, compared to 59.0% with incomes between 200% and 399% of poverty and 23.9% with incomes below 200% of poverty.
+Among non-elderly people in March 2023, people in younger age groups were less likely than those in older age groups to have had ESI, and U.S. citizens were much more likely than non-citizens to have had ESI. ESI coverage also varied across race and ethnic categories: compared to Non-Hispanic White people, Hispanic people and Non-Hispanic people who are Black, American Indian or Alaskan Native or of mixed race were less likely to have had ESI.
+For workers to have access to ESI, they need to work for an employer that offers ESI and they need to be eligible to enroll in coverage offered at their job. About four in five (80.8%) adult non-elderly workers worked for an employer that offered ESI to at least some employees in March 2023. A large majority (93.1%) of these workers were eligible for the ESI offered at their job, so that, overall, about three-in-four workers were eligible to enroll in ESI offered at their job.
+Both the share of workers working for employers offering coverage and the share eligible for coverage at their jobs vary significantly by income. Among adult non-elderly workers, the share working for an employer offering ESI ranged from 60.6% for workers with incomes under 200% of poverty to 88.2% for workers with incomes of 400% of poverty or more while the share eligible for coverage ranged from 49.5% for workers with incomes under 200% of poverty to 84.6% for workers with incomes of 400% of poverty or more.
+The share of non-elderly adult workers working for an employer that offers ESI was steady between 2019 and 2023. The share of these workers eligible for ESI at their job rose modestly over period, from 73.4% in March 2019 to 75.3% in March 2023.
+Among non-elderly adult workers, those working in construction, service, sales, and farm, fishing and forestry-related occupations were less likely to be working for an employer offering ESI and to be eligible for ESI at their jobs in March 2023. Full-time workers were much more likely to be working for an employer offering ESI and to be eligible for coverage at their job.
+Among non-elderly adult workers, women, non-citizens and younger workers were less likely than their counterparts to be eligible for ESI at their job in March 2023. Compared to White Non-Hispanic people, Hispanic people and Non-Hispanic Black and American Indian/Alaskan Native people were less likely to be eligible for ESI at work. Eligibility rates were particularly low for younger and non-citizen workers.
+Among non-elderly adult workers who were eligible for ESI at their jobs in March 2023, 74.4% were ESI policyholders. Of those who did not have ESI from their own job, 14.6% had ESI as a dependent, 4.6% had Medicaid or other public coverage, 2.0% had non-group coverage, 1.1% had some other coverage and 3.7%were uninsured.
+A small share of workers with ESI from their job also had other coverage at the same time: 2.4% also had Medicaid or other public coverage and 0.6% also had non-group coverage.
+Among non-elderly adult workers who were eligible for ESI at work but did not take it, 66.9% said the reason was that they had other coverage and 28.0% said the reason was that it was too expensive, and small shares cited other reasons.
+About 33.1 million non-elderly adult workers were not eligible for ESI at their job in March 2023. Of these workers, about 22.1 million worked full time and 11.1 million worked part time. Fewer than one-in-four (22.5%) worked for an employer that offered coverage to other workers.
+Among non-elderly adult full-time workers who were not eligible for ESI at their job in March 2023, more than half worked in one of six occupations: construction and extraction, food preparation and serving, transportation and material moving, sales, office and administration, and management. One-in-nine of these workers, or 2.8 million people, work in construction and extraction occupations alone.
+Employer-based health coverage is the largest source of health coverage for non-elderly people, covering 164.7 million people in March 2023, but its reach is uneven. In particular, ESI covered only 23.9% of non-elderly people with incomes less than 200% of poverty, compared to 84.2% of people with incomes of 400% of poverty or more.
+People’s access to ESI depends on the availability and cost of coverage where they or a family member work. A large share (75.3%) of workers are eligible for coverage offered at their job, but this again is uneven. Workers with low incomes as well as workers who were younger, women, working part-time, or non-citizens were each less likely to be eligible for ESI at their jobs than their counterparts. There were also differences across race and ethnic groups, where Hispanic people and Non-Hispanic American Indian/Alaskan Native people had much lower rates of eligibility at work. Also, some workers eligible for ESI at work chose not to take it because they felt it was too expensive. For small businesses in particular, worker contributions for family coverage can be quiteexpensive.
+In the previous chartcollection, concern was raised that the job and other economic dislocations from COVID-19 could result in a meaningful loss of ESI. This did not occur, as the share of non-elderly people with ESI across the period has fluctuated only modestly (Chart 1). It is possible that COVID-19 interrupted an upward trend in ESI, but there is no way to know that. The share of workers eligible for ESI at their job increased over the period, from 73.4% in March 2019 to 75.3% in March 2023. This may portend higher ESI enrollment in future years, particularly if employment and job growth remain strong.
+
+[1]Data from the 2020 CPS ASEC was not included due to concerns about the COVID-19 impact on data collection and the reliability of the estimates for ESI, see:https://www.census.gov/content/dam/Census/library/working-papers/2020/demo/sehsd-wp2020-13.pdf
+[2]The ASEC asks about each type of health coverage held at the time of the survey and at any time during the prior year. This brief uses the time of survey response, which is consistent with the time period for the questions about offer and eligibility. The ASEC is collected between February and April of each year, with most of the interviews conducted in March. This chart collection refers to March as the timing of the survey for convenience.
+[3]As noted, the results from the 2020 ASEC are not included due to concerns about the impact of COVID-19 on data collection. The 2020 ASEC showed a statistically significant increase in the share of non-elderly people with ESI to 61.5%.
+The Peterson Center on Healthcare and KFF are partnering to monitor how well the U.S. healthcare system is performing in terms of quality and cost.
+Find out more details about U.S. healthcare from our updated dashboard.
+Get the best of the Health System Tracker delivered to your inbox.
+Get the best of the Health System Tracker delivered to your inbox.
+© 2025 PETERSON-KFF Health System Tracker   All Rights Reserved
+
+Links:
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/category/quality-of-care/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/interactives/
+https://www.healthsystemtracker.org/about-us/
+https://www.healthsystemtracker.org
+https://www.healthsystemtracker.org/tag/price-transparency/
+https://www.healthsystemtracker.org/tag/affordability/
+https://www.healthsystemtracker.org/tag/prescription-drugs/
+https://www.healthsystemtracker.org/tag/price-transparency/
+https://www.healthsystemtracker.org/tag/affordability/
+https://www.healthsystemtracker.org/tag/prescription-drugs/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/category/quality-of-care/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/interactives/
+https://www.healthsystemtracker.org/about-us/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.kff.org/person/gary-claxton/
+https://www.kff.org/person/matthew-rae/
+https://twitter.com/matthew_t_rae
+https://www.facebook.com/sharer/sharer.php?u=https://www.healthsystemtracker.org/chart-collection/trends-in-employer-based-health-coverage/
+http://twitter.com/share?text=What+are+the+recent+trends+in+employer-based+health+coverage%3F&url=https://www.healthsystemtracker.org/chart-collection/trends-in-employer-based-health-coverage/
+https://www.linkedin.com/sharing/share-offsite/?url=https://www.healthsystemtracker.org/chart-collection/trends-in-employer-based-health-coverage/
+#_ftn1
+#_ftn2
+https://www.healthsystemtracker.org/brief/long-term-trends-in-employer-based-coverage
+#_ftn3
+https://www.healthsystemtracker.org/tag/employer-based-coverage-affordability/
+https://www.healthsystemtracker.org/tag/employer-based-coverage-affordability/
+https://www.kff.org/health-costs/perspective/family-health-insurance-is-no-longer-affordable-through-small-employers/
+https://www.healthsystemtracker.org/brief/long-term-trends-in-employer-based-coverage
+https://www.healthsystemtracker.org/tag/employer-based-coverage-affordability/
+https://www.healthsystemtracker.org/tag/employer-based-coverage-affordability/
+#_ftnref1
+https://www.census.gov/content/dam/Census/library/working-papers/2020/demo/sehsd-wp2020-13.pdf
+#_ftnref2
+#_ftnref3
+https://www.healthsystemtracker.org/about-us/
+https://petersonhealthcare.org/
+https://www.kff.org/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/chart-collection/cost-affect-access-care/
+https://www.healthsystemtracker.org/chart-collection/cost-affect-access-care/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/brief/policy-issues-and-trends-2024/
+https://www.healthsystemtracker.org/brief/policy-issues-and-trends-2024/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/dashboard/
+https://petersonhealthcare.org/
+https://www.kff.org/
+https://www.facebook.com/sharer/sharer.php?u=https://www.healthsystemtracker.org
+http://twitter.com/share?text=Peterson-KFF+Health+System+Tracker&url=https://www.healthsystemtracker.org
+https://www.linkedin.com/sharing/share-offsite/?url=https://www.healthsystemtracker.org
+https://www.healthsystemtracker.org/privacy-policy/
+https://www.healthsystemtracker.org/terms-of-use/

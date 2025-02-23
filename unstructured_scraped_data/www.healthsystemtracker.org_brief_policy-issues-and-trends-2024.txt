@@ -1,0 +1,140 @@
+URL: https://www.healthsystemtracker.org/brief/policy-issues-and-trends-2024/
+Title: Health Cost and Affordability Policy Issues and Trends to Watch in 2024 - Peterson-KFF Health System Tracker
+
+Paragraphs:
+ByKrutika Amin,Emma WagerTwitter,Zachary Levinson,Juliette Cubanski, andCynthia CoxTwitterKFF
+January 24, 2024
+Get the best of the Health System Tracker delivered to your inbox.
+Get the best of the Health System Tracker delivered to your inbox.
+While issues of health care costs and affordability may not be at the forefront of this year’s election, they remain a majorconcernamong the public. Health spending in the United States isprojected to growby 5% between 2023 and 2024, to a total of $4.9 trillion. Here are key health costs and affordability policy issues and trends to watch in 2024.
+Payments for outpatient services frequently vary depending on the type of setting where they’re provided. For example, reimbursement rates are often higher for a given service when provided in a hospital outpatient department versus a freestanding physician office, even though in many of these circumstances care may be safe and appropriate in either setting. Policymakers and payers have expressed interest in aligning payments across care settings through “site-neutral payment reforms.” Through legislation and rulemaking, Medicare has aligned payments for office visits across freestanding physician offices and off-campus hospital outpatient departments—which often resemble physician offices—as well as for other services for relatively new off-campus facilities. The U.S. House of Representatives passed a bill in December 2023 (HR 5378) that would align Medicare payments for drugs administered in off-campus hospital outpatient departments and freestanding physician offices, which theCBOestimates would save $3.7 billion over 10 years. Other proposals, such as aligning payments for both on- and off-campus hospital outpatient departments with payments for ambulatory surgical centers or physician offices for certain services, could lead tomuch larger savings. Policymakers have alsoexploredreformsintended to address outpatient facility fees—which are on top of professional fees for a given service andcan add substantiallyto the total bill—charged by hospitals and other institutional providers in commercial markets. In addition to directly lowering costs for payers and individuals, site-neutral payment reform could reduce the incentive for hospitals to buy up physician practices, a practice which has been associated with higher commercial prices. Nonetheless, hospitals and other opponents have argued that there are differences in the patients that hospitals care for, the services they provide, and their cost structure that justify higher payment rates.
+Federalprice transparencyrequirements exist to allow consumers to compare prices across hospitals and providers. Health plans and employers may also be able to use some of the price transparency data to negotiate lower rates. There is bipartisan interest in price transparency and recently the U.S. House passed a bill (HR 5378) codifying existing price transparency regulations and extending the requirements to diagnostic labs, imaging services, and surgical centers. However, theCongressional Budget Officeexpects price transparency to have very little impact on health sector prices. State-levelstudiessuggest price transparency can result in unintended consequences if it results in competitors demanding higher prices. Additionally,fewconsumers use these tools to shop for care, and those who do try to price-shop may find that timely or convenient alternatives are not available. For price transparency to make a meaningful difference in costs for consumers, targeted approaches with a more limited set of services that consumers truly shop for may be most effective. Price transparency is a largely bipartisan issue, so federal solutions to these issues are not impossible in 2024.
+TheInflation Reduction Act of 2022included numerous provisions aimed atprescription drugspending in the Medicare program, including capping insulin cost-sharing to $35 a month (starting 2023), requiring pharmaceutical manufacturers to pay rebates if prices exceed inflation (starting 2023),capping Medicare Part D out-of-pocket drug spendingby eliminating the 5% coinsurance requirement for catastrophic coverage (in 2024) and adding a hard cap at $2,000 (starting in 2025) , and requiring the federal government to negotiate prices for some high-spend drugs (negotiated prices take effect in 2026). Before the Inflation Reduction Act, CMS projected aggregate out-of-pocket retail prescription drug spending to increase steadily throughout the 2020s. CMS now expects out-of-pocket drug spending to peak in 2023 at $52.5 billion and decline thereafter through 2027 as provisions take effect. By 2030, total out-of-pocket spending onretail prescription drugsis projected to be $48.1 billion, 18.5% lower than the $59.0 billion projected previously. While none of these provisions cover privately insured people, the effects of some of the Medicare drug price regulations may spill over to the private market, though the effects are highly uncertain, including whether manufacturers might attempt to make up for lost revenue in Medicare by raising prices for other payers.
+Many proposals have sought to increase transparency in pharmaceutical benefit manager (PBM) operations, for example, by requiring the disclosure of rebates and discounts negotiated with pharmaceutical manufacturers. Transparency measures are intended to provide more clarity on the pricing dynamics within the pharmaceutical supply chain. Other proposals are aimed at regulating how the PBM market operates; for example, banning PBMs from charging health plans more for a drug than the amount they reimburse pharmacies (a practice known as “spread pricing”), requiring PBMs to pass on all rebates received from manufacturers to health plans, or limiting compensation to PBMs based on a flat-dollar service fee, which would dampen current incentives around rebates based on high drug prices. Additional efforts have focused on market dynamics and competition among PBMs. For example, the Federal Trade Commission recently has deepened itsinquiryinto business practices of PBMs and rebate aggregators. These efforts may shed light on the impact of rebates and discounts on health care costs in the future. The House passedlegislationin December 2023 with several provisions targeting PBMs, but it is unclear which provisions could become law as part of broader health care or spending-related legislation this year.
+Health & Wellbeing
+Access & Affordability
+Obesity, one of the most common health conditions in the U.S., saw new treatments enter the spotlight in 2023 – most notably, the use of semaglutide and tirzepatide drugs forweight loss. While thecoverage of these drugs is still being debated by many health plans and the long-term effects have yet to be determined, they have become an extremely popular option for patients and shown promise in clinical trials. In 2024, more Americans will want access to these medications, and spending on them will continue to increase. Notably, however, Medicare does not cover drugs used for weight loss, so it remains an open question whether people with Medicare will enjoy broad access to these medications as long as this coverage restriction remains in place. At the same time, lifting Medicare’s coverage prohibition would lead tosubstantially higher Medicare spending, given the high price of these medications and expected demand. It remains to be seen if medication for obesity can lead to significant population-level health improvements and potentially reduce spending on care for related diseases, such as hypertension and diabetes. Privateinsurersand employers are figuring out whether and how to cover these new drugs—coverage and cost-sharing will likely vary by health plan. Additionally, new high-costcell and gene therapiesshow potential for improving health outcomes and may also affect total health spending; coverage for new treatments will also likely vary by payers and health plans.
+At the beginning of the COVID-19 pandemic, health care visits via telehealthincreasedsubstantially. Regulators and payers beganreimbursingfor virtual care, expanding clinician participation and patient access. Medicare removed restrictions on the use of telehealth that were in place prior to the pandemic,broadening accessto telehealth services for beneficiaries in both urban and rural areas, at home and in other settings, using audio-visual and audio-only technologies, and from a wide range of health care providers. Expanded access under Medicare is scheduled to expire at the end of 2024, though there are proposals to make these provisions permanent. Regulators also expanded clinicians’ ability to practice and prescribe over virtual consultations. Particularly when in-person care may not be safe, like during the pandemic, or where there are limits to accessing providers in-person, virtual care provides a convenient alternative. Additionally, new state-level restrictions on access to certain services, such as abortion drugs, have sparked interest in prescribing across state lines, which is currently heavily restricted. Howtelehealthand virtual care affect care coordination, quality of care, health outcomes, and overallcosts, remains to be seen in 2024.
+Severalstateshave introduced measures to curb health cost growth. States’ experimentation with health care cost controls could have a snowball effect if other states take up similar measures. Programs such as those inMassachusetts,Rhode Island, andMontanawere piloted in the 2010s and their long-term impact is beginning to take shape. The Biden Administration has made funds available for states planning multi-payer hospital global budgets or cost control strategies through theAHEADmodel. However, there are some limits on the extent to which states can address drivers of health spending. For example, states are the primary regulators of providers, but can only regulate fully-insured private health insurance plans, which cover just one-third ofworkersnationally. While there is not a singular national health care cost control strategy, states’ efforts could influence federal policy makers. In 2024, states with cost containment efforts are likely to put effort into demonstrating their effectiveness, and states without these programs may consider adding them.
+Among privately insured patients, about 1 in 5 emergency room visits and between 9% and 16% of in-network hospitalizations for non-emergency care were previously at risk of surprise bills from out-of-network providers. Congress passed a bill at the end of 2021 prohibiting mostsurprise bills. For out-of-network services and items covered under the law, plans and providers are no longer allowed to send patients surprise, out-of-network balance bills. How much out-of-network providers are paid is actively being disputed by provider groups in several legalchallenges. Outcomes of these challenges will affect payments to providers and health insurance premiums.
+Theuninsured ratehas decreased to a historic low as a result of continuous Medicaid enrollment during the COVID pandemic and expanded subsidies through the Affordable Care Act Marketplaces during the Biden Administration. However,affordabilityissues persist among people with health insurance. Many people don’t have enoughsavingsto pay for typical deductibles and out-of-pocket maximums. Additionally, millions of Medicaid enrollees have beendisenrolled, which is likely to increase the uninsured rate. With higher uninsurance rates, health care affordability issues may increase. Medical debt also remains a significant issue in the U.S., including among people with health insurance. The Consumer Finance Protection Bureau is planning to require credit reporting agencies to removemedical debtfrom credit reports, as well as cracking down on collection practices that either skip informing patients of outstanding medical bills or put undue pressure on consumers for payments. These measures will free up credit for living expenses. However, unexpected and large health care bills will still occur, particularly for people with significant health care needs and lower income. Some states have similarly acted to remove medical debt from consumers’ credit reports. States and local municipalities have also taken action to buy their residents’ medical debt, in part with remaining COVID relief funds. While these efforts help some consumers, they don’t change the root cause of medical debt – high health care costs and underinsurance.
+For over a decade, there has been significanteffort to shiftfrom fee-for-service payment models to value-based payment or pay-for-performance models. The intention is to shift some of the cost risk from payers to providers, and engage providers in improving quality while lowering costs. These payment models vary in structure. Some pay for a bundle of services or on a capitated per enrollee basis, adjusted for case-mix. Others adjust a portion of payments based on various quality and patient care measures. At least a third of providerpaymentsacross Medicare, Medicaid, and commercial payers are now based on quality- or value-based models. While some of Medicare’s value-based payment models have demonstrated cost savings, amajorityhave resulted in increased costs with little to no change in quality. Some quality-based payment models (for example, Medicare’s value-based payment program for clinicians)have been criticizedfor increasing administrative burden and costs on providers, which mayreduce physicians’ incentivesto participate. According to CBO, the activities of Medicare’s innovation center (CMMI) increased federal spending by$5.4 billionfrom 2011 to 2020, which CBO attributes in part to the mixed success of many models at generating sufficient savings to offset their high upfront costs. According to CBO, the voluntary nature of most CMMI models means that providers may self-select into models where they expect gains or not participate where they expect losses. CMS is looking at whether to requireparticipationin more models. Even in the absence of savings, areviewof select CMMI models provides evidence of improvements in care coordination, team-based care, and other care delivery changes.  CBO’s report and generally disappointing cost savings so far could shifthow policymakers and payers move forwardwith value-based payment models in the future.
+Consolidation in the health care sector can result in higher costs. For example, a substantial body ofevidence showsthat consolidation in provider markets has led to higher prices without clear evidence of improvements in quality. The Federal Trade Commission (FTC), the Department of Justice, and state antitrust agencieseach play a rolein challenging consolidation and other anticompetitive practices in health care markets. The federal agencies have signaled their interest in expanding their scrutiny of different types of mergers and acquisitions, including cross-market mergers, private equity acquisitions, and vertical consolidation. The extent to which antitrust agencies play an active role and are successful in challenging anticompetitive practices will likely have an effect on health care costs. Some have proposed strengthening antitrust regulation as a tool for tackling rising health care costs, increasing the affordability of care, and reducing the large number of adults with medical debt. Nonetheless, there are challenges to an approach that relies solely on efforts to foster competitive provider markets through antitrust regulation, for example, given the already high level of market concentration of health care providers across the country.
+
+The Peterson Center on Healthcare and KFF are partnering to monitor how well the U.S. healthcare system is performing in terms of quality and cost.
+Find out more details about U.S. healthcare from our updated dashboard.
+Get the best of the Health System Tracker delivered to your inbox.
+Get the best of the Health System Tracker delivered to your inbox.
+© 2025 PETERSON-KFF Health System Tracker   All Rights Reserved
+
+Links:
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/category/quality-of-care/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/interactives/
+https://www.healthsystemtracker.org/about-us/
+https://www.healthsystemtracker.org
+https://www.healthsystemtracker.org/tag/price-transparency/
+https://www.healthsystemtracker.org/tag/affordability/
+https://www.healthsystemtracker.org/tag/prescription-drugs/
+https://www.healthsystemtracker.org/tag/price-transparency/
+https://www.healthsystemtracker.org/tag/affordability/
+https://www.healthsystemtracker.org/tag/prescription-drugs/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/category/quality-of-care/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/interactives/
+https://www.healthsystemtracker.org/about-us/
+https://www.healthsystemtracker.org/category/spending/
+https://www.kff.org/person/krutika-amin/
+https://www.kff.org/person/emma-wager/
+https://twitter.com/emmawage
+https://www.kff.org/person/zachary-levinson/
+https://www.kff.org/person/juliette-cubanski/
+https://www.kff.org/person/cynthia-cox/
+https://twitter.com/cynthiaccox
+https://www.facebook.com/sharer/sharer.php?u=https://www.healthsystemtracker.org/brief/policy-issues-and-trends-2024/
+http://twitter.com/share?text=Health+Cost+and+Affordability+Policy+Issues+and+Trends+to+Watch+in+2024&url=https://www.healthsystemtracker.org/brief/policy-issues-and-trends-2024/
+https://www.linkedin.com/sharing/share-offsite/?url=https://www.healthsystemtracker.org/brief/policy-issues-and-trends-2024/
+https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/
+https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/projected
+https://www.congress.gov/bill/118th-congress/house-bill/5378
+https://www.cbo.gov/system/files/2023-09/hr5378table.pdf
+https://www.brookings.edu/articles/assessing-recent-health-care-proposals-from-the-house-committee-on-energy-and-commerce/
+https://www.healthaffairs.org/content/forefront/reforming-abusive-billing-practices-one-step-time
+https://georgetown.app.box.com/v/statefacilityfeeissuebrief
+https://www.healthsystemtracker.org/brief/how-do-facility-fees-contribute-to-rising-emergency-department-costs/
+https://www.healthsystemtracker.org/archive/?_sft_post_tag=price-transparency
+https://www.congress.gov/bill/118th-congress/house-bill/5378
+https://www.cbo.gov/publication/58541#:~:text=Promoting%20price%20transparency%20would%20reduce,and%20consulting%20with%20outside%20experts.
+https://jamanetwork.com/journals/jama-health-forum/fullarticle/2777388
+https://www.healthsystemtracker.org/brief/few-adults-are-aware-of-hospital-price-transparency-requirements/
+https://www.congress.gov/bill/117th-congress/house-bill/5376
+https://www.kff.org/medicare/issue-brief/explaining-the-prescription-drug-provisions-in-the-inflation-reduction-act/
+https://www.kff.org/medicare/issue-brief/changes-to-medicare-part-d-in-2024-and-2025-under-the-inflation-reduction-act-and-how-enrollees-will-benefit/
+https://www.healthsystemtracker.org/chart-collection/recent-forecasted-trends-prescription-drug-spending/
+https://www.ftc.gov/news-events/news/press-releases/2023/05/ftc-deepens-inquiry-prescription-drug-middlemen
+https://www.congress.gov/bill/118th-congress/house-bill/5378
+https://www.healthsystemtracker.org/chart-collection/u-s-life-expectancy-compare-countries/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/chart-collection/u-s-life-expectancy-compare-countries/
+https://www.healthsystemtracker.org/brief/how-medicare-negotiated-drug-prices-compare-to-other-countries/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/brief/how-medicare-negotiated-drug-prices-compare-to-other-countries/
+https://www.healthsystemtracker.org/brief/prices-of-drugs-for-weight-loss-in-the-us-and-peer-nations/
+https://www.healthsystemtracker.org/brief/prices-of-drugs-for-weight-loss-in-the-us-and-peer-nations/
+https://www.kff.org/policy-watch/what-could-new-anti-obesity-drugs-mean-for-medicare/
+https://www.healthsystemtracker.org/brief/how-much-and-why-2024-premiums-are-expected-to-grow-in-affordable-care-act-marketplaces/
+https://www.pwc.com/us/en/industries/health-industries/library/behind-the-numbers.html
+https://www.healthsystemtracker.org/brief/outpatient-telehealth-use-soared-early-in-the-covid-19-pandemic-but-has-since-receded/
+https://www.healthsystemtracker.org/brief/outpatient-telehealth-use-soared-early-in-the-covid-19-pandemic-but-has-since-receded/
+https://www.kff.org/medicare/issue-brief/faqs-on-medicare-coverage-of-telehealth/
+https://www.healthsystemtracker.org/brief/outpatient-telehealth-use-soared-early-in-the-covid-19-pandemic-but-has-since-receded/
+https://www.healthsystemtracker.org/brief/telehealth-payments-similar-early-in-the-pandemic/
+https://nashp.org/how-states-use-cost-growth-benchmark-programs-to-contain-health-care-costs/
+https://www.mass.gov/orgs/massachusetts-health-policy-commission
+https://ohic.ri.gov/policy-reform
+https://www.mtcounties.org/risk-sharing/health-care-trust/reference-based-pricing/
+https://www.cms.gov/priorities/innovation/innovation-models/ahead
+https://www.kff.org/health-reform/issue-brief/what-is-the-centers-for-medicare-and-medicaid-services-new-ahead-model/
+https://www.kff.org/report-section/ehbs-2023-section-10-plan-funding/
+https://www.healthsystemtracker.org/?s=surprise+billing
+https://www.healthsystemtracker.org/brief/surprise-billing-disputes-year-one/
+https://www.healthsystemtracker.org/indicator/access-affordability/percent-uninsured/
+https://www.healthsystemtracker.org/chart-collection/cost-affect-access-care/
+https://www.healthsystemtracker.org/brief/many-households-do-not-have-enough-money-to-pay-cost-sharing-in-typical-private-health-plans/
+https://www.kff.org/report-section/medicaid-enrollment-and-unwinding-tracker-overview/
+https://www.healthsystemtracker.org/brief/the-burden-of-medical-debt-in-the-united-states/
+https://www.kff.org/health-reform/perspective/the-cbo-report-that-didnt-roar/
+https://hcp-lan.org/apm-measurement-effort/2023-apm/2023-infographic/
+https://www.nejm.org/doi/full/10.1056/NEJMsb2031138
+https://jamanetwork.com/journals/jama-health-forum/fullarticle/2779947
+https://jhmhp.amegroups.org/article/view/5847/html
+https://www.cbo.gov/system/files/2023-09/59274-CMMI.pdf
+https://www.cms.gov/priorities/innovation/strategic-direction-whitepaper
+https://catalyst.nejm.org/doi/full/10.1056/CAT.23.0228#summary-abstract
+https://www.kff.org/health-reform/perspective/the-cbo-report-that-didnt-roar/
+https://www.kff.org/health-costs/issue-brief/what-we-know-about-provider-consolidation/
+https://www.kff.org/health-costs/issue-brief/understanding-the-role-of-the-ftc-doj-and-states-in-challenging-anticompetitive-practices-of-hospitals-and-other-health-care-providers/
+https://www.healthsystemtracker.org/about-us/
+https://petersonhealthcare.org/
+https://www.kff.org/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/chart-collection/beyond-cost-what-barriers-to-health-care-do-consumers-face/
+https://www.healthsystemtracker.org/chart-collection/beyond-cost-what-barriers-to-health-care-do-consumers-face/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/chart-collection/what-are-the-recent-trends-in-health-utilization-and-spending/
+https://www.healthsystemtracker.org/chart-collection/what-are-the-recent-trends-in-health-utilization-and-spending/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/dashboard/
+https://petersonhealthcare.org/
+https://www.kff.org/
+https://www.facebook.com/sharer/sharer.php?u=https://www.healthsystemtracker.org
+http://twitter.com/share?text=Peterson-KFF+Health+System+Tracker&url=https://www.healthsystemtracker.org
+https://www.linkedin.com/sharing/share-offsite/?url=https://www.healthsystemtracker.org
+https://www.healthsystemtracker.org/privacy-policy/
+https://www.healthsystemtracker.org/terms-of-use/

@@ -1,0 +1,99 @@
+URL: https://www.healthsystemtracker.org/chart-collection/what-are-the-recent-trends-in-health-utilization-and-spending/
+Title: What are trends in health utilization and spending in early 2024? - Peterson-KFF Health System Tracker
+
+Paragraphs:
+ByMatthew McGough,Jared Ortaliza,Emma WagerTwitter, andCynthia CoxKFF
+August 20, 2024
+Get the best of the Health System Tracker delivered to your inbox.
+Get the best of the Health System Tracker delivered to your inbox.
+This chart collection examines recent trends in healthcare utilization and spending using a variety of data sources. Together, these data suggest that, as of the first quarter of 2024, most spending on health services exceeds pre-pandemic levels and health costs are growing at a faster rate than in recent years.  However, utilization of care has been uneven by setting and market. Some measures of hospital utilization remain lower than pre-pandemic levels, which could reflect a continuing transition of care tooutpatient centers.
+
+At the beginning of the COVID-19 pandemic, many outpatient visits and elective hospitalizations were delayed, avoided, or cancelled, leading to a sharp decline in healthcareutilization.
+Since early 2022, though, year-over-year growth in health services spending rebounded as the health system recovered from the initial waves of the COVID-19 pandemic. Some of the growth in spending reflects rising prices, as inflation and workforce shortages have put upward pressure on hospital prices.
+After some volatility in 2020 through 2022, growth in hospital services spending has been consistently high, with double digit growth since early 2023. Similarly, growth in nursing and residential care facilities spending has ranged from 10.0% to 13.4% year-over-year since the beginning of 2023.
+The number of hospital discharges in the first quarter of 2024 remained below the number of quarterly discharges in the years leading up to the pandemic. In 2018 and 2019, the number of hospital discharges each quarter ranged from just under 9.7 million to over 9.8 million.  In the early pandemic, the number dropped as low as 8.0 million discharges. By the first quarter of 2024, the number of hospital discharges had rebounded to 9.3 million, but that was still about 0.5 million short of the typical number of discharges in 2018 and 2019.
+According to data from the American Hospital Association (AHA), the number of inpatient admissions per capita has been trending downward over the past two decades. There has been a move from inpatient settings to outpatient care centers for some types of care, such as imaging and diagnostic services and less complex surgical procedures.
+Health Spending
+Health Spending
+Hospitalization trends differ by insurance market. In recent years, there have been declines in per enrollee Medicaid managed care and Medicare Advantage inpatient admissions. These data do not include traditional Medicare enrollees, nor do they include enrollees in state-run Medicaid plans, and these trends could reflect shifts in the underlying health status of enrollees in privately administered plans.
+In contrast, the average number of inpatient admissions per enrollee in the individual and fully-insured group plans remained relatively stable.
+The National Health Interview Survey (NHIS) early release estimates provide a look at how visits to hospital emergency departments and doctor’s offices have changed from 2019 through the first quarter of 2024. Because the survey asks about utilization in the past year, though, it may mask volatility in utilization from month to month.
+The share of adults with a visit to a hospital emergency department appears to be similar to pre-pandemic levels. The share of adults reporting an emergency department visit in the previous 12 months dropped from about 22.2% in the first quarter of 2019 to 17.0% in the fourth quarter of 2020. The share of adults reporting a visit to an emergency department in the past year has since rebounded, with 20.7% of adults reporting a visit in the first quarter of 2024.
+The number of hospital outpatient visits per capita has been trending upward over time. This has coincided with a decline in hospital inpatient admissions.
+From 2000 to 2023, there was a 31% increase in the rate of outpatient visits. From 2019-2020, there was a nearly 10% decrease as care was delayed, foregone, or cancelled due to the COVID-19. The rate of outpatient visits has since recovered and in 2023 was marginally above pre-pandemic levels.
+The share of adults with a doctor visit in the last year has recovered since 2020 and is similar to pre-pandemic levels. In the first quarter of 2019, over 85.3% of adults reported going to a doctor in the previous 12 months. The share of adults who had a doctor visit decreased in 2020 and reached the lowest level in the first quarter of 2021 with 80.1% of adults having seen a doctor in the prior year. In the most recent quarter with available data, the first quarter of 2024, this share rose slightly to just over 85.0%.
+The average number of ambulatory encounters per enrollee in Medicare Advantage has grown in recent years, whereas the number of ambulatory care encounters per Medicaid enrollee has fallen since pre-pandemic. Ambulatory care utilization in the individual and fully-insured group markets has held relatively steady.
+We analyzed insurer-reported financial data (accessed June 11, 2024) from Health Coverage PortalTM, a market database maintained by Mark Farrah Associates, which includes information from the National Association of Insurance Commissioners (NAIC). We used the “Exhibit of Premiums, Enrollment, and Utilization” report for this analysis. The dataset analyzed in this report does not include California HMOs regulated by California’s Department of Managed Health Care. Additionally, for Medicaid, there are five states (Arizona, California, Delaware, New York, and Oregon) that have different reporting practices and therefore consistently only have partial or no NAIC data available.
+We excluded plans that file negative values in any of the segments of interest or have negative or zero dollars in premiums or claims. We also excluded plans reporting at least 1,000 hospital patient days incurred per 1,000 member months. We only included plans that were categorized as having a “medical” focus in our analysis and exclude “specialty” plans which are categorized as “ancillary or supplemental benefit plans.” We also excluded any plans from the U.S. territories. We corrected for plans that did not file “member months” or filed a zero “member month” value but did file quarterly or current year membership by inputting these values. If, after imputing, plans still did not have “member months,” they were excluded. Group market refers to fully insured group plans. “All Markets” is a weighted average of the individual, fully insured group, Medicaid managed care, and Medicare Advantage markets.
+We excluded plans that did not file complete 2024 Q1 statements with the NAIC as of June 6, 2024, in other quarters. Additionally, we excluded plans that reported outlier per member per month values. The spike in the Individual market in the first quarter of 2023 is driven by data anomalies in two insurers.
+Health Spending
+Health & Wellbeing
+The Peterson Center on Healthcare and KFF are partnering to monitor how well the U.S. healthcare system is performing in terms of quality and cost.
+Find out more details about U.S. healthcare from our updated dashboard.
+Get the best of the Health System Tracker delivered to your inbox.
+Get the best of the Health System Tracker delivered to your inbox.
+© 2025 PETERSON-KFF Health System Tracker   All Rights Reserved
+
+Links:
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/category/quality-of-care/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/interactives/
+https://www.healthsystemtracker.org/about-us/
+https://www.healthsystemtracker.org
+https://www.healthsystemtracker.org/tag/price-transparency/
+https://www.healthsystemtracker.org/tag/affordability/
+https://www.healthsystemtracker.org/tag/prescription-drugs/
+https://www.healthsystemtracker.org/tag/price-transparency/
+https://www.healthsystemtracker.org/tag/affordability/
+https://www.healthsystemtracker.org/tag/prescription-drugs/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/category/quality-of-care/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/interactives/
+https://www.healthsystemtracker.org/about-us/
+https://www.healthsystemtracker.org/category/spending/
+https://www.kff.org/person/matt-mcgough/
+https://www.kff.org/person/jared-ortaliza/
+https://www.kff.org/person/emma-wager/
+https://twitter.com/emmawage
+https://www.kff.org/person/cynthia-cox/
+https://www.facebook.com/sharer/sharer.php?u=https://www.healthsystemtracker.org/chart-collection/what-are-the-recent-trends-in-health-utilization-and-spending/
+http://twitter.com/share?text=What+are+trends+in+health+utilization+and+spending+in+early+2024%3F&url=https://www.healthsystemtracker.org/chart-collection/what-are-the-recent-trends-in-health-utilization-and-spending/
+https://www.linkedin.com/sharing/share-offsite/?url=https://www.healthsystemtracker.org/chart-collection/what-are-the-recent-trends-in-health-utilization-and-spending/
+https://healthcostinstitute.org/hcci-originals-dropdown/all-hcci-reports/shifting-care-office-to-outpatient
+https://www.healthsystemtracker.org/brief/early-2021-data-show-no-rebound-in-health-care-utilization/
+https://www.healthsystemtracker.org/chart-collection/u-s-spending-healthcare-changed-time/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/chart-collection/u-s-spending-healthcare-changed-time/
+https://www.healthsystemtracker.org/brief/how-much-and-why-aca-marketplace-premiums-are-going-up-in-2025/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/brief/how-much-and-why-aca-marketplace-premiums-are-going-up-in-2025/
+https://www.healthsystemtracker.org/brief/can-econsults-reduce-commercial-health-spending-learnings-from-an-arkansas-pilot-study/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/brief/can-econsults-reduce-commercial-health-spending-learnings-from-an-arkansas-pilot-study/
+https://www.healthsystemtracker.org/chart-collection/u-s-life-expectancy-compare-countries/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/chart-collection/u-s-life-expectancy-compare-countries/
+https://www.healthsystemtracker.org/about-us/
+https://petersonhealthcare.org/
+https://www.kff.org/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/brief/can-econsults-reduce-commercial-health-spending-learnings-from-an-arkansas-pilot-study/
+https://www.healthsystemtracker.org/brief/can-econsults-reduce-commercial-health-spending-learnings-from-an-arkansas-pilot-study/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/brief/how-does-medical-inflation-compare-to-inflation-in-the-rest-of-the-economy/
+https://www.healthsystemtracker.org/brief/how-does-medical-inflation-compare-to-inflation-in-the-rest-of-the-economy/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/dashboard/
+https://petersonhealthcare.org/
+https://www.kff.org/
+https://www.facebook.com/sharer/sharer.php?u=https://www.healthsystemtracker.org
+http://twitter.com/share?text=Peterson-KFF+Health+System+Tracker&url=https://www.healthsystemtracker.org
+https://www.linkedin.com/sharing/share-offsite/?url=https://www.healthsystemtracker.org
+https://www.healthsystemtracker.org/privacy-policy/
+https://www.healthsystemtracker.org/terms-of-use/

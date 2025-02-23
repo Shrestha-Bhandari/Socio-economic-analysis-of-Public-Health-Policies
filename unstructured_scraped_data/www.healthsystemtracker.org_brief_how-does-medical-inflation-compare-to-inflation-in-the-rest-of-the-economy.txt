@@ -1,0 +1,102 @@
+URL: https://www.healthsystemtracker.org/brief/how-does-medical-inflation-compare-to-inflation-in-the-rest-of-the-economy/
+Title: How does medical inflation compare to inflation in the rest of the economy? - Peterson-KFF Health System Tracker
+
+Paragraphs:
+ByShameek Rakshit,Emma WagerTwitter,Paul Hughes-Cromwick,Cynthia CoxTwitter, andKrutika AminKFF
+August 2, 2024
+Get the best of the Health System Tracker delivered to your inbox.
+Get the best of the Health System Tracker delivered to your inbox.
+Note: This analysis was updated on August 2, 2024 to include new data.
+Medical care prices and overall health spending typically outpace growth in the rest of the economy. Health costs represent a growing share of gross domestic product and many American families have seen thecostsof health services and premiums grow faster than their wages.
+This brief analyzes prices for medical care compared to other goods and services using consumer price index (CPI) and producer price index (PPI) data from the Bureau of Labor Statistics (BLS) and personal consumption expenditures (PCE) price index data from the Bureau of Economic Analysis (BEA).
+Using the CPI, overall prices grew by 3.0% in June 2024 from the previous year, while prices for medical care increased by 3.3%. Overall prices excluding medical care grew by 2.9%. This marks the first month since early 2021 that prices for medical care had grown faster than overall inflation.
+Since 2000, the price of medical care,includingservices provided as well as insurance, drugs, and medical equipment, has increased by 121.3%. In contrast, prices for all consumer goods and services rose by 86.1% in the same period.
+Health Spending
+Health & Wellbeing
+Medical care pricestypically outpace growthof pricesin the rest of the economy. However, starting in 2021, prices for many non-medical goods and services began increasing rapidly, outpacing the growth in medical prices. As general economic inflation has begun to cool more recently, though, medical pricesare once again outpacinggrowth inother prices.Using the CPI, overall prices grew by 3.0% in June 2024 from the previous year, while prices for medical care increased by3.3%.Overallprices excluding medical care grew by 2.9%.
+As general economic inflation pushes wages upward, health workerwage increasesalso put upward pressure on medical prices, unless hospitals and other providers can find ways tooperatewith fewer staff or cut other expenses.However, many health prices are set in advance, administratively or via private insurance contracting, so there is a delay in observable price increases. Public payer prices are set by the federal and state governments annually. Medicare uses indexing measures to update payment rates annually, reflecting increases in operating costs and wage growth, among other factors. Some commercial rates are negotiated throughout the year, but most are tied to the plan or calendar year.
+The Consumer Price Index (CPI)
+The consumer price index for all urban consumers (CPI-U) measures the U.S city average change in prices consumers pay for goods and services. For medical care, CPI measures total price changes, including both the costs consumers pay out-of-pocket and those insurers (public and private payers) pay to providers and pharmacies. While CPI measures total price changes, the index weights spending to match consumers’ out-of-pocket costs, including consumers’ spending at the point of care and on health insurance premiums. For example, physician and hospital services are47%of the medical care index.
+BLS usednew expenditure weightsto calculate the CPI starting from January 2023 and will continue to update the weights annually. Previously, BLS updated CPI weights once every two years using two consecutive years of consumer spending data. CPI weights will now be calculated each year using one year of spending data for greater accuracy.
+Whilethe annual growth inmedicalpricesis once againoutpacing thegrowth in non-medical prices(3.3% vs. 2.9% in June)on average,somenon-medicalgoods and services saw larger increases.Residential rentsgrew by5.1% and electricity costs grew by 4.4%.Otherhouseholdbudgetitems, such asfood and apparel, haveseensmallerprice increases in the past year than medical care. Gasoline was the fastest-growing essential household expense in 2022, reaching a peak inflation rate of 59.9% in June 2022. More recently, as of June 2023, gasoline prices have declined by -2.5% from the same month last year.
+Prices for hospital services (6.9%) as well as for nursing homes (6.0%) rose faster than for prescription drugs and physicians’ services (2.4% and 0.8%, respectively). The medical CPI is generally based on lagged data even more so than other CPI categories. For example, the prescription drug CPI does not immediately reflect the introduction of new, high-priced drugs.
+The medical care CPI also includes a price index for health insurance. This index measuresretained earningsof health insurers – it is not a reflection of the premiums they set. The health insurance CPI fell from an annual increase of 28.2% in September 2022 (the all-time high) to a decrease of -4.2% in June 2024. However, the health insurance CPI presents data that is almost one-year lagged, so it is not representative of current price changes. In fact, the health insurance CPI through September 2022 reflectsinsurers’ marginsin 2020, as they paid lower medical claims than in a typical year. Nevertheless, insurers likely saw lowermargins, on average, in 2021 and 2022 than they had been in the first year of the pandemic due to returning utilization.
+Regardless, with a 9% weight of the total medical consumer price index, health insurance brought the overall medical CPI up during most of 2022 and is now exerting downward pressure.
+While the CPI covers inflation in prices paid directly by consumers, another measure of inflation, the personal consumption expenditures (PCE) price index, also tracks changes in prices paid on behalf of consumers. For example, the health care services PCE price index covers payments by employers, private insurers, and government programs to providers in addition to premiums and out-of-pocket expenses paid by consumers. The PCE price index also accounts for shifts in consumer spending patterns in response to price changes. CPI, by contrast, assumes consumers buy a similar bundle of goods and services and does not account for trade-offs consumers may be making in response to price changes.
+A third measure of inflation, the producer price index (PPI), represents inflation from the producers’ perspective in both the public and private sector. The PPI for health services includes medical services (provided by physicians or other care providers) paid for by third parties, such as employers or the federal government. Unlike the CPI, the PPI considers changes in industry output costs with a focus on the actual transaction prices.
+Since June 2009, the CPI-U for medical care services has risen by 54.5%, while the PPI for health care services has increased by 40.3% and the PCE price index for health care services has increased by 32.8%. Services included in this chart include hospital, physician, and other professional and facility care prices. While drugs and medical equipment are included in previous CPI-U charts in this analysis, this chart measures CPI-U of medical care services specifically and excludes drugs and medical equipment in both PPI and CPI-U measures.
+Generally, prices paid by private insurance are higher and rise more quickly than prices paid by public payers. Prices for private insurers are the result of negotiations between health systems and the insurance companies, while public payer prices are set administratively. In 2024, healthcare prices paid for by private insurance and Medicaid are rising faster than those paid for by Medicare. The private insurance health services PPI has risen by 29.4% since June of 2014, compared to 15.7% for Medicare and 25.0% for Medicaid in the same period. The overall health services PPI increased by 25.3% since June 2014.
+During the public health emergency, Medicare provider reimbursement for COVID-19 treatment was boosted by 20.0%, which explains part of the reason for the increase in the Medicare PPI in 2020.
+The Peterson Center on Healthcare and KFF are partnering to monitor how well the U.S. healthcare system is performing in terms of quality and cost.
+Find out more details about U.S. healthcare from our updated dashboard.
+Get the best of the Health System Tracker delivered to your inbox.
+Get the best of the Health System Tracker delivered to your inbox.
+© 2025 PETERSON-KFF Health System Tracker   All Rights Reserved
+
+Links:
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/category/quality-of-care/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/interactives/
+https://www.healthsystemtracker.org/about-us/
+https://www.healthsystemtracker.org
+https://www.healthsystemtracker.org/tag/price-transparency/
+https://www.healthsystemtracker.org/tag/affordability/
+https://www.healthsystemtracker.org/tag/prescription-drugs/
+https://www.healthsystemtracker.org/tag/price-transparency/
+https://www.healthsystemtracker.org/tag/affordability/
+https://www.healthsystemtracker.org/tag/prescription-drugs/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/category/quality-of-care/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/interactives/
+https://www.healthsystemtracker.org/about-us/
+https://www.healthsystemtracker.org/category/spending/
+https://www.kff.org/person/shameek-rakshit/
+https://www.kff.org/person/emma-wager/
+https://twitter.com/emmawage
+
+https://www.kff.org/person/cynthia-cox/
+https://twitter.com/cynthiaccox
+https://www.kff.org/person/krutika-amin/
+https://www.facebook.com/sharer/sharer.php?u=https://www.healthsystemtracker.org/brief/how-does-medical-inflation-compare-to-inflation-in-the-rest-of-the-economy/
+http://twitter.com/share?text=How+does+medical+inflation+compare+to+inflation+in+the+rest+of+the+economy%3F&url=https://www.healthsystemtracker.org/brief/how-does-medical-inflation-compare-to-inflation-in-the-rest-of-the-economy/
+https://www.linkedin.com/sharing/share-offsite/?url=https://www.healthsystemtracker.org/brief/how-does-medical-inflation-compare-to-inflation-in-the-rest-of-the-economy/
+https://www.healthsystemtracker.org/brief/aca-maximum-out-of-pocket-limit-is-growing-faster-than-wages/
+https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.healthsystemtracker.org%2Fbrief%2Fhow-does-medical-inflation-compare-to-inflation-in-the-rest-of-the-economy%2F&text=In%20June%202024%2C%20medical%20prices%20grew%20by%203.3%25%20from%20the%20previous%20year%2C%20higher%20than%20the%203.0%25%20overall%20annual%20inflation%20rate.&via=@KFF%20@PetersonCHealth&related=@KFF%20@PetersonCHealth
+https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.healthsystemtracker.org%2Fbrief%2Fhow-does-medical-inflation-compare-to-inflation-in-the-rest-of-the-economy%2F&text=In%20June%202024%2C%20medical%20prices%20grew%20by%203.3%25%20from%20the%20previous%20year%2C%20higher%20than%20the%203.0%25%20overall%20annual%20inflation%20rate.&via=@KFF%20@PetersonCHealth&related=@KFF%20@PetersonCHealth
+https://www.bls.gov/cpi/factsheets/medical-care.htm
+https://www.healthsystemtracker.org/brief/can-econsults-reduce-commercial-health-spending-learnings-from-an-arkansas-pilot-study/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/brief/can-econsults-reduce-commercial-health-spending-learnings-from-an-arkansas-pilot-study/
+https://www.healthsystemtracker.org/chart-collection/u-s-life-expectancy-compare-countries/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/chart-collection/u-s-life-expectancy-compare-countries/
+https://www.healthsystemtracker.org/chart-collection/what-impact-has-the-coronavirus-pandemic-had-on-healthcare-employment/
+https://www.bls.gov/cpi/factsheets/medical-care.htm
+https://www.bls.gov/cpi/tables/relative-importance/weight-update-information-2023.htm
+https://www.bls.gov/cpi/factsheets/medical-care.htm#:~:text=These%20earnings%20retained%20by%20the,it%20as%20the%20retained%20earnings.
+https://www.kff.org/medicare/issue-brief/health-insurer-financial-performance/
+https://www.kff.org/private-insurance/issue-brief/data-note-2022-medical-loss-ratio-rebates/
+https://www.healthsystemtracker.org/about-us/
+https://petersonhealthcare.org/
+https://www.kff.org/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/chart-collection/what-are-the-recent-trends-health-sector-employment/
+https://www.healthsystemtracker.org/chart-collection/what-are-the-recent-trends-health-sector-employment/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/chart-collection/what-are-the-recent-trends-in-health-utilization-and-spending/
+https://www.healthsystemtracker.org/chart-collection/what-are-the-recent-trends-in-health-utilization-and-spending/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/dashboard/
+https://petersonhealthcare.org/
+https://www.kff.org/
+https://www.facebook.com/sharer/sharer.php?u=https://www.healthsystemtracker.org
+http://twitter.com/share?text=Peterson-KFF+Health+System+Tracker&url=https://www.healthsystemtracker.org
+https://www.linkedin.com/sharing/share-offsite/?url=https://www.healthsystemtracker.org
+https://www.healthsystemtracker.org/privacy-policy/
+https://www.healthsystemtracker.org/terms-of-use/

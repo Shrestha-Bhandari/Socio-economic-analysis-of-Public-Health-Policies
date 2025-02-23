@@ -1,0 +1,135 @@
+URL: https://www.healthsystemtracker.org/brief/can-econsults-reduce-commercial-health-spending-learnings-from-an-arkansas-pilot-study/
+Title: Can eConsults reduce commercial health spending? Learnings from an Arkansas pilot study - Peterson-KFF Health System Tracker
+
+Paragraphs:
+BySarah Berk,Mairin Mancino, andCaroline PearsonPeterson Center on Healthcare
+August 15, 2024
+Get the best of the Health System Tracker delivered to your inbox.
+Get the best of the Health System Tracker delivered to your inbox.
+Electronic consults (or eConsults) are a technology solution that enables clinicians to connect with specialists on timely patient care questions. This bi-directional, tech-enabled communication, often initiated by primary care or emergency room physicians to specialists, empowers the initiating clinician with efficient access to specialist expertise to manage a diagnosis and provide oversight of a patient’s care. While it is considered best practice for primary care providers to discuss the eConsult process with their patients, this is done inconsistently.  In the absence of an eConsult, patients are typically referred to additional, higher intensity services or specialists for care, where patients can experience increased costs and wait times for appointments due to specialist access constraints. In recent years, eConsults have been an integral component of care transformation initiatives across public payer populations, including Medicare, Medicaid, and the US Department of Veterans Affairs (VA). Studies of those initiatives demonstrate eConsults role in lowering costs, improving quality, and enhancing patient and provider experiences.[1]
+The Peterson Center on Healthcare (The Center) is a non-profit organization dedicated to making higher quality, more affordable healthcare a reality for all Americans. In 2021, the Center launched a pilot in partnership with the largest commercial payer in Arkansas (Arkansas BlueCross BlueShield (ARBCBS)) to assess whether the positive impact that eConsults derive in public programs could be replicated in a commercially insured population. Over a period of 18 months, the pilot funded access to, training for, and reimbursement of eConsults in eight independent physician groups and 19 health system practices in Arkansas.[2]
+In the pilot, eConsults saved an average of $195 per month among participating commercially insured patients, driven primarily by a decrease in specialty care expenditures. While the savings are promising, utilization of the technology was underwhelming, concentrated among a small handful of independent practices. Lessons learned from the pilot can inform future efforts to encourage eConsult adoption.
+Arkansas was selected for the pilot for several reasons: it is a rural state with specialist access constraints;[3]it is a state with a history of participating in primary care practice transformation efforts offered by CMS;[4]and partnership with a large commercial payer ensured access to commercially insured lives that sought care from the participating primary care practice sites.
+The eight independent physician groups and 19 health system practices received seed funding to cover staff time for training and integration of eConsults into existing technology and workflows. The pilot reimbursed primary and specialty care providers across all populations to encourage participation in eConsults. Physician reimbursement differed between the independent and health system clinicians. The health system decided on a 0.5 relative value unit (RVU) credit (a measure of work that is used in health care organizations and by payers to determine health care provider compensation or payment)[5]per eConsult to both requesting PCPs and responding specialists to allow the eConsult activity to meet minimum productivity levels. Each independent practice was paid $40 per PCP eConsult.[6]
+Health Spending
+Health Spending
+EConsult vendors were distinct between the health system and independent practices, a purposeful design decision that acknowledges the inherent structural differences between large health systems and independent practices. More specifically, the health system technology created a “home-grown” eConsult network, leveraging their own clinicians. The technology was embedded into the electronic health record (EHR) and, over time, included 13 specialties[7]that could be accessed via eConsult within the health system. In contrast, for the independent practices, the eConsult vendor offered a “plug and play” solution—the technology integrated into existing referral workflows and provided immediate access to a national network of 23 specialties[8]employed by the eConsult vendor.
+To build staff capacity, health system leaders introduced eConsults in provider meetings and created training guides and tip sheets. For independent physician group practices, the eConsult service provider held virtual meetings to train key personnel from each practice, who then shared the information and organized a training process for their practice (a concept known as “train the trainer”). The vendor also provided an instructional video on how to use eConsults and links to additional resources to assist staff who were not part of the initial meetings.
+Detail on the pilot structure and implementation can be found in the table below:
+The evaluation found eConsults had a positive impact on cost reduction. On average, patients that received an eConsult saved $195 overall compared to patients that did not receive an eConsult (Graph 1). Savings were primarily driven by a decrease in specialty care expenditures resulting from the lower cost of the eConsult ($50) compared to an in-person specialty visit (mean expenses across specialty types range from $159 to $419[9]).  On average, patients that received an eConsult saved $184 on specialty visits compared to patients that did not receive an eConsult (Chart 1).  Emergency department visits following eConsult were highly similar in the treatment and control groups, suggesting eConsults did not impact patient access to these types of services or increase adverse events. These findings are consistent with those observed in other studies.[10]
+Two independent group practices (sites IND-1 and IND-2, inChart 2)were responsible for more than 50% of all eConsult utilization in the pilot (total = 1,042 eConsults). Excluding the two highest utilizers, the remaining top eight utilizers (n=14) averaged 27 eConsults per practice over 18 months for independent group practices and 12 months for health system practices.
+Independent group practices utilized eConsults more than their health system counterparts, exceeding projected expectations by 25% (Chart 3).  Health System practices, on the other hand, fell below projected expectations by 43% (Chart 3). Rollout of eConsults took longer in the health system, due to the EHR integration and measured pace of specialty rollout, which played a role in the health system’s lower-than-expected utilization.
+The Arkansas eConsult pilot offers useful insights on the opportunities and challenges to deploying promising technologies like eConsults. EConsults can reduce spending in commercial populations without negatively impacting quality, and thus the technology holds great potential to improve the affordability and efficiency of the healthcare system with broader adoption.
+The pilot was designed to remove common barriers to adoption[11]—it supplied capital to acquire new technology, workflow implementation support, technical assistance, and clinician reimbursement. Furthermore, the eConsult vendor selection was tailored to meet the distinct organizational needs of the health system and independent physician group practices.
+Although the pilot sought to mitigate implementation challenges in both independent and system settings, utilization remained low, and two independent practices drove the vast majority of utilization. What differentiated these two practices from the others? Of the many plausible explanations, buy-in and engagement in the eConsult program from practice leadership emerged as a key differentiator. Leaders at these two practices translated the value of the technology to the work they do serving patients and identified it as a helpful tool to leverage in value-based care insurance arrangements. Practice leaders were able to make a connection between the use of eConsults and practice success in meeting the goals of those arrangements.[12]Because of this, practice leadership emphasized the role of eConsults in enhancing patient experience, addressing access issues, and increasing clinical knowledge; further, they set targets for its use, which they monitored regularly.
+Acquiring and implementing new technology into clinical workflows is expensive, time-intensive, and requires cross-functional teams to execute. That the technology is cost-saving, can alleviate specialist access challenges and improves patient experience is important, but it is not enough to seed and accelerate adoption. Changes to clinical workflows and practice patterns take time and require sustained buy-in from leaders. Clear and sustained articulation of the benefits of eConsults across perspectives is crucial. An appreciation of the complexity of change management within healthcare settings is paramount, and tailored, continuous technical assistance to implementing organizations is required.
+To further advance eConsult usage, understanding the practice patterns and financial incentives of participating providers is crucial. Even with the proliferation of accountable care and value-based care contracts, health systems continue to rely heavily on procedure-based interventions conducted by specialists to achieve their margins. Implementing a technology solution like eConsults, that has the potential to reduce specialist visits, challenges this business model. For independent physicians, financial incentives to use eConsults may be more readily apparent, but more could be done to explicitly connect their utility to performing well under various value-based care contracts across payers.
+Other key questions for the field to explore include:
+Read Mathematica’s evaluation reporthere.
+Contact Sarah Berk,sberk@petersonhealthcare.orgat PCH for more information about the eConsult pilot.
+[1]https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4561452/
+[2]Due to unforeseen delays, Independent practices received a full 18 months of the pilot, whereas Health System practices received only 12 months of the pilot.
+[3]https://www.uaex.uada.edu/business-communities/economic-development/rural-profile-of-arkansas.aspx
+[4]Overview ofCPCandCPC+regional participants
+[5]At this health system, different specialties have different minimum RVU totals representing their expected workload. Accruing eConsult RVU credits beyond the minimum does not affect compensation.  A more in-depth explanation of RVUs can be foundhere.
+[6]PCPs were paid for each eConsult they initiated, regardless of whether the patient was commercially insured or not. This reduced the administrative burden on PCPs and required the pilot evaluation team to net out the commercially insured patients from the public payer patients after the fact.
+[7]Wave 1 introduced endocrinology, hematology, and nephrology. Wave 2 introduced infectious diseases, cardiology, geriatrics, and vaccine questions. Wave 3 introduced rheumatology, neurology, orthopedics, and pain management. Wave 4 introduced bone density and genetics.
+[8]ConferMED’s specialties are addiction medicine, allergy, cardiology, dermatology, endocrinology, ENT/otorhinolaryngology, gastroenterology, geriatric medicine, hematology, infectious disease, nephrology, neurology, nutrition, women’s health, ophthalmology, orthopedics, pain medicine, palliative care, psychiatry, pulmonology, rheumatology, sleep medicine, and urology.
+[9]https://meps.ahrq.gov/data_files/publications/st517/stat517.shtml
+[10]https://www.annfammed.org/content/14/2/133
+[11]https://pubmed.ncbi.nlm.nih.gov/26687507/
+[12]https://www.mathematica.org/publications/evaluation-of-parc-econsults-pilot-formative-evaluation-report
+The Peterson Center on Healthcare and KFF are partnering to monitor how well the U.S. healthcare system is performing in terms of quality and cost.
+Find out more details about U.S. healthcare from our updated dashboard.
+Get the best of the Health System Tracker delivered to your inbox.
+Get the best of the Health System Tracker delivered to your inbox.
+© 2025 PETERSON-KFF Health System Tracker   All Rights Reserved
+
+Links:
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/category/quality-of-care/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/interactives/
+https://www.healthsystemtracker.org/about-us/
+https://www.healthsystemtracker.org
+https://www.healthsystemtracker.org/tag/price-transparency/
+https://www.healthsystemtracker.org/tag/affordability/
+https://www.healthsystemtracker.org/tag/prescription-drugs/
+https://www.healthsystemtracker.org/tag/price-transparency/
+https://www.healthsystemtracker.org/tag/affordability/
+https://www.healthsystemtracker.org/tag/prescription-drugs/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/category/quality-of-care/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/interactives/
+https://www.healthsystemtracker.org/about-us/
+https://www.healthsystemtracker.org/category/spending/
+
+
+
+https://www.facebook.com/sharer/sharer.php?u=https://www.healthsystemtracker.org/brief/can-econsults-reduce-commercial-health-spending-learnings-from-an-arkansas-pilot-study/
+http://twitter.com/share?text=Can+eConsults+reduce+commercial+health+spending%3F+Learnings+from+an+Arkansas+pilot+study&url=https://www.healthsystemtracker.org/brief/can-econsults-reduce-commercial-health-spending-learnings-from-an-arkansas-pilot-study/
+https://www.linkedin.com/sharing/share-offsite/?url=https://www.healthsystemtracker.org/brief/can-econsults-reduce-commercial-health-spending-learnings-from-an-arkansas-pilot-study/
+#_ftn1
+#_ftn2
+#_ftn3
+#_ftn4
+#_ftn5
+#_ftn6
+https://www.healthsystemtracker.org/chart-collection/how-much-is-health-spending-expected-to-grow/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/chart-collection/how-much-is-health-spending-expected-to-grow/
+https://www.healthsystemtracker.org/chart-collection/what-are-the-recent-trends-in-health-utilization-and-spending/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/chart-collection/what-are-the-recent-trends-in-health-utilization-and-spending/
+#_ftn7
+#_ftn8
+#_ftn9
+#_ftn10
+#_ftn11
+#_ftn12
+https://www.mathematica.org/news/econsults-can-lower-costs-and-improve-access-to-specialty-care
+mailto:sberk@petersonhealthcare.org
+#_ftnref1
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4561452/
+#_ftnref2
+#_ftnref3
+https://www.uaex.uada.edu/business-communities/economic-development/rural-profile-of-arkansas.aspx
+#_ftnref4
+https://www.cms.gov/priorities/innovation/innovation-models/comprehensive-primary-care-initiative/seven-regions;
+https://www.cms.gov/priorities/innovation/innovation-models/comprehensive-primary-care-plus
+#_ftnref5
+https://www.sdtplanning.com/blog/rvu-understanding-physician-compensation
+#_ftnref6
+#_ftnref7
+#_ftnref8
+#_ftnref9
+https://meps.ahrq.gov/data_files/publications/st517/stat517.shtml
+#_ftnref10
+https://www.annfammed.org/content/14/2/133
+#_ftnref11
+https://pubmed.ncbi.nlm.nih.gov/26687507/
+#_ftnref12
+https://www.mathematica.org/publications/evaluation-of-parc-econsults-pilot-formative-evaluation-report
+https://www.healthsystemtracker.org/about-us/
+https://petersonhealthcare.org/
+https://www.kff.org/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/chart-collection/what-are-the-recent-trends-in-health-utilization-and-spending/
+https://www.healthsystemtracker.org/chart-collection/what-are-the-recent-trends-in-health-utilization-and-spending/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/brief/policy-issues-and-trends-2024/
+https://www.healthsystemtracker.org/brief/policy-issues-and-trends-2024/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/dashboard/
+https://petersonhealthcare.org/
+https://www.kff.org/
+https://www.facebook.com/sharer/sharer.php?u=https://www.healthsystemtracker.org
+http://twitter.com/share?text=Peterson-KFF+Health+System+Tracker&url=https://www.healthsystemtracker.org
+https://www.linkedin.com/sharing/share-offsite/?url=https://www.healthsystemtracker.org
+https://www.healthsystemtracker.org/privacy-policy/
+https://www.healthsystemtracker.org/terms-of-use/

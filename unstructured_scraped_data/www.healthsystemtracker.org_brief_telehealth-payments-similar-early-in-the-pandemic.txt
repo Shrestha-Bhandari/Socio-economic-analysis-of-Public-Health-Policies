@@ -1,0 +1,107 @@
+URL: https://www.healthsystemtracker.org/brief/telehealth-payments-similar-early-in-the-pandemic/
+Title: Private insurer payments for telehealth and in-person claims during the pandemic - Peterson-KFF Health System Tracker
+
+Paragraphs:
+ByShameek Rakshit,Matthew RaeTwitter,Gary Claxton,Cynthia CoxTwitter, andKrutika AminKFF
+September 26, 2023
+Get the best of the Health System Tracker delivered to your inbox.
+Get the best of the Health System Tracker delivered to your inbox.
+Telehealth use surged with the COVID-19 pandemic as patients sought access to services while providers implemented social distancing protocols. Early in the pandemic, many payers eased restrictions on the use of telehealth and increased reimbursement rates to encourage its use.
+An ongoing question is how the growth of telehealth will affect health spending. If payers reimburse services provided through telehealth at a lower rate, there could be cost savings. Conversely, total spending could increase if telehealth services require more follow-up and are duplicative of in-person care.
+In 2021, as was the case in 2020, private insurers continued to pay providers similarly for telehealth and in-person professional claims, on average. This is true for both evaluation and management and mental health therapy services. Among providers who offered both telehealth and in-person care, the vast majority of providers received similar payments regardless of whether the service was provided in-person or over telehealth.
+In 2021, the second year of the COVID-19 pandemic, private insurers continued to pay providers a similar amount regardless of whether that care was delivered in person or via telemedicine. For a mid-level severity evaluation and management of an existing patient, the average payment was $99 when delivered via telehealth and $98 for in-person care. This represents the average amount paid by the health plan combined with the out-of-pocket payment by the enrollee, after controlling for providers and regions (see methods for more detail). Evaluation and management claims are the most common claims included as part of an outpatient medical visit and cover the charge for a physician or qualified provider to diagnose and treat a patient. One encounter may include multiple evaluation and management claims, depending on the services rendered.
+Payments to providers tend to be higher for new patients than existing ones and for higher severity claims. Payments for telehealth evaluation and management claims were similar to those for in-person care across all levels of severity and for both new and established patients with private insurance in 2021, as was the case in 2020.
+Access & Affordability
+Health & Wellbeing
+Care for higher severity level and new patients was more frequently delivered in-person than virtually. For evaluation and management claims, 18% of claims for established patients were by telehealth, compared to 8% of new patient claims.
+During the pandemic, telehealth became a key way by which people access mental health care, in particular. In 2021, most mental health therapy (54%) was delivered by telehealth. Before the pandemic, a small share of claims were delivered over telehealth.
+Across all evaluation and management claims, which include physical and behavioral evaluation and management services, 11% of care was delivered via telehealth in 2021.
+For common mental health therapy claims, the average payment was about the same regardless of whether the service was delivered by telehealth or in-person in 2021, as was the case in 2020.
+Higher severity or longer duration mental health therapy claims were delivered in-person and over telehealth at similar rates.
+Among the overwhelming majority of providers offering the same service by telehealth and in-person, the average paid amount for claims delivered over telehealth was within plus or minus 10% of the payment for in-person claims. For 5% of providers offering other evaluation and management services and 10% of providers offering mental health therapy, the payment for telehealth was lower than in-person care by the same provider by at least 10%. Conversely, for about 1 in 10 providers, the payment for telehealth claims was more than 10% higher than that for in-person care by the same provider.
+According to the2022 KFF Survey of Employer Health Benefits, most employers (59%) provide telemedicine coverage exclusively through their health plans or administrators. Large firms (32%) are more likely to use a specialized telemedicine provider than small firms (21%).
+In 2022, 3 in 4 (76%) employers reported to the KFF employersurveythat they expect current levels of telehealth use to either continue or increase.
+Private insurer payments for telehealth professional claims were similar to in-person for some common services in 2021, as they were in 2020. While private insurers and employers were paying about the same amounts for in-person and telehealth in 2020, it was unclear whether they would continue to do so in 2021. If telehealth payments continue to be the same as those for in-person care, this raises questions as to whether telehealth will reduce the spending on common health services, as some have predicted.
+The primary benefit to expanding telehealth may be increased access to services and convenience for enrollees. This analysis does not consider reduced patient travel costs or wait times, improved efficiencies in providers’ overhead costs, changes in the rates of laboratory or other ancillary services provided, the clinical effectiveness of the telehealth service, or overall changes in access to care. This analysis did not assess the extent to which telehealth can replace in-person services or its impact on overall use, quality of care, or spending.
+Telehealthvisits, particularly formental health, increased during the COVID-19 pandemic due to expansion of telehealth coverage and easing of state and federal rules relating to telehealth practice and reimbursement. In this analysis, over half of mental health claims were delivered over telehealth.
+Several federal and state actions are aimed at extending telehealth coverage, payment parity, access, and provider scope of practice after the pandemic. Examples of bills in Congress include:
+Telehealth use surged during the pandemic, but thefuture of telehealthwill be shaped by its effect on total health spending, federal and state regulations relating to scope of practice and reimbursement, and payer coverage and reimbursement policies.
+Health Care Cost Institute (HCCI) claims data professional claims file for the 2021 calendar year was used in this analysis. Enrollees with employer-sponsored health insurance and physician claims paid as primary coverage were included. Evaluation and management claims in the professional physician file were identified based on CPT codes (99202-99205, 99211-99215). CPT code 99201 for new patients with the lowest level of complexity was deleted starting in 2021. Mental health therapy claims in the professional physician file were identified based on CPT codes (90791-92, 90832-90839, 90846, 90847, 90853). Telehealth claims were flagged based on presence of a modifier code (95, GT, GQ, G0) or place of service code (02) on the claim line. Claim lines with less than $10 or over $1,000 in paid amounts were excluded.
+The average paid amount (plan payment plus member cost sharing) at the claim-line level was regressed on telehealth indicator with provider identifier fixed effects. Separate models were run for each CPT code.
+For the fifth chart comparing differences in telehealth and in-person claims allowed amount among providers offering the same service over both, KFF compared average claims payments within each provider offering both in-person and telehealth services. The average amount paid was compared for CPT codes with highest frequency claims: evaluation and management established patient severity level 3 (CPT code 99213) and psychotherapy 60 minutes (CPT code 90837). Providers with 15 or fewer telehealth or in-person claims were excluded. This comparison includes over 90,000 unique provider NPIs for CPT code 99213, and over 50,000 provider NPIs for the mental health therapy code 90837.
+Some limitations of this analysis are that KFF did not assess whether telehealth appeared to supplement or duplicate in-person care, nor did KFF assess whether telehealth was associated with more or fewer ancillary services or follow-up visits. Rather, KFF simply compared paid amounts for each claim service code. Telehealth may reduce a patient’s wait time and travel costs, which was also not studied here. Additionally, it is not clear going forward whether insurers will continue to reimburse for telehealth at a similar rate as in-person care, or whether this was a temporary decision during the early pandemic when there was relatively low utilization of care overall and a compelling reason to avoid in-person care.
+The Peterson Center on Healthcare and KFF are partnering to monitor how well the U.S. healthcare system is performing in terms of quality and cost.
+Find out more details about U.S. healthcare from our updated dashboard.
+Get the best of the Health System Tracker delivered to your inbox.
+Get the best of the Health System Tracker delivered to your inbox.
+© 2025 PETERSON-KFF Health System Tracker   All Rights Reserved
+
+Links:
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/category/quality-of-care/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/interactives/
+https://www.healthsystemtracker.org/about-us/
+https://www.healthsystemtracker.org
+https://www.healthsystemtracker.org/tag/price-transparency/
+https://www.healthsystemtracker.org/tag/affordability/
+https://www.healthsystemtracker.org/tag/prescription-drugs/
+https://www.healthsystemtracker.org/tag/price-transparency/
+https://www.healthsystemtracker.org/tag/affordability/
+https://www.healthsystemtracker.org/tag/prescription-drugs/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/category/quality-of-care/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/interactives/
+https://www.healthsystemtracker.org/about-us/
+https://www.healthsystemtracker.org/category/spending/
+https://www.kff.org/person/shameek-rakshit/
+https://www.kff.org/person/matthew-rae/
+https://twitter.com/matthew_t_rae
+https://www.kff.org/person/gary-claxton/
+https://www.kff.org/person/cynthia-cox/
+https://twitter.com/cynthiaccox
+https://www.kff.org/person/krutika-amin/
+https://www.facebook.com/sharer/sharer.php?u=https://www.healthsystemtracker.org/brief/telehealth-payments-similar-early-in-the-pandemic/
+http://twitter.com/share?text=Private+insurer+payments+for+telehealth+and+in-person+claims+during+the+pandemic&url=https://www.healthsystemtracker.org/brief/telehealth-payments-similar-early-in-the-pandemic/
+https://www.linkedin.com/sharing/share-offsite/?url=https://www.healthsystemtracker.org/brief/telehealth-payments-similar-early-in-the-pandemic/
+https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.healthsystemtracker.org%2Fbrief%2Ftelehealth-payments-similar-early-in-the-pandemic%2F&text=Private%20insurers%20paid%20similarly%20for%20in-person%20and%20telehealth%20claims%20in%202021&via=KFF&related=KFF
+https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.healthsystemtracker.org%2Fbrief%2Ftelehealth-payments-similar-early-in-the-pandemic%2F&text=Private%20insurers%20paid%20similarly%20for%20in-person%20and%20telehealth%20claims%20in%202021&via=KFF&related=KFF
+https://www.healthsystemtracker.org/brief/how-medicare-negotiated-drug-prices-compare-to-other-countries/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/brief/how-medicare-negotiated-drug-prices-compare-to-other-countries/
+https://www.healthsystemtracker.org/chart-collection/u-s-life-expectancy-compare-countries/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/chart-collection/u-s-life-expectancy-compare-countries/
+https://www.kff.org/report-section/ehbs-2022-section-13-employer-practices-telehealth-provider-networks-and-coverage-for-mental-health-services/
+https://www.kff.org/report-section/ehbs-2022-section-13-employer-practices-telehealth-provider-networks-and-coverage-for-mental-health-services/
+https://www.healthsystemtracker.org/brief/outpatient-telehealth-use-soared-early-in-the-covid-19-pandemic-but-has-since-receded/
+https://www.kff.org/coronavirus-covid-19/issue-brief/telehealth-has-played-an-outsized-role-meeting-mental-health-needs-during-the-covid-19-pandemic/
+https://www.congress.gov/bill/118th-congress/senate-bill/1001/all-info
+https://www.congress.gov/bill/118th-congress/house-bill/824
+https://www.congress.gov/bill/118th-congress/senate-bill/1636/text
+https://www.kff.org/medicare/issue-brief/faqs-on-medicare-coverage-of-telehealth/
+https://www.congress.gov/bill/118th-congress/house-bill/3432/text
+https://www.healthsystemtracker.org/brief/outpatient-telehealth-use-soared-early-in-the-covid-19-pandemic-but-has-since-receded/#telehealth-regulatory-landscape-beyond-the-pandemic
+https://www.healthsystemtracker.org/about-us/
+https://petersonhealthcare.org/
+https://www.kff.org/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/brief/can-econsults-reduce-commercial-health-spending-learnings-from-an-arkansas-pilot-study/
+https://www.healthsystemtracker.org/brief/can-econsults-reduce-commercial-health-spending-learnings-from-an-arkansas-pilot-study/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/brief/charges-for-emails-with-doctors-and-other-healthcare-providers/
+https://www.healthsystemtracker.org/brief/charges-for-emails-with-doctors-and-other-healthcare-providers/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/dashboard/
+https://petersonhealthcare.org/
+https://www.kff.org/
+https://www.facebook.com/sharer/sharer.php?u=https://www.healthsystemtracker.org
+http://twitter.com/share?text=Peterson-KFF+Health+System+Tracker&url=https://www.healthsystemtracker.org
+https://www.linkedin.com/sharing/share-offsite/?url=https://www.healthsystemtracker.org
+https://www.healthsystemtracker.org/privacy-policy/
+https://www.healthsystemtracker.org/terms-of-use/

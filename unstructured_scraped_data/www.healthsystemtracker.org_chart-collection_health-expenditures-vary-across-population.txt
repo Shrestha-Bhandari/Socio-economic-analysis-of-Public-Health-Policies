@@ -1,0 +1,120 @@
+URL: https://www.healthsystemtracker.org/chart-collection/health-expenditures-vary-across-population/
+Title: How do health expenditures vary across the population? - Peterson-KFF Health System Tracker
+
+Paragraphs:
+ByMatthew McGough,Gary Claxton,Krutika Amin, andCynthia CoxTwitterKFF
+January 4, 2024
+Get the best of the Health System Tracker delivered to your inbox.
+Get the best of the Health System Tracker delivered to your inbox.
+In a given year, a small portion of the population is responsible for a very large percentage of total health spending. We tend to focus on averages when discussing health spending, but individuals’ health status – and thus their need to access and utilize healthcare – varies over the course of their lifetimes. In fact, very few people have spending around the average.
+This collection of charts explores trends in health spending variation across the population through an analysis of the Medical Expenditure Panel Survey (MEPS) data.
+In the U.S., most of the population (90%) reported “good” or better health. Only 2% reported being in poor health. As people age, they are more likely to experience health complications and utilize healthcare. Among people age 65 and over, 20% report their overall health as “fair” or “poor” compared to 8% of people under age 65.
+While there are people with high spending at all ages, overall, people 55 and over accounted for 55% of total health spending in 2021, despite making up only 31% of the population. In contrast, people under age 35 made up 44% of the population but were responsible for only 21% of health spending.
+Health spending often increases with age, as we generally have more health conditions and need more care as we grow older. However, there are some exceptions. For example, average healthcare spending per person for enrollees ages 60-64 in large employer plans ishigherthan average spending for traditional Medicare beneficiaries ages 65-69.
+A small portion of the population accounts for a large share of health spending in a year. Although we tend to focus on averages, few people have spending around the average, since individual health needs vary over the life course. Some portion of the population (older adults and those with serious or chronic illnesses) require more and higher-cost healthcare than those who are younger or otherwise typically in need of fewer and less costly healthcare.
+In 2021, 5% of the population accounted for nearly half of all health spending. The 5% of people with the highest health spending had an average of $71,067 in health expenditures annually; people with health spending in the top 1% had average spending of $166,980 per year. At the other end of the spectrum, the 50% of the population with lowest total health spending accounted for only 3% of all health spending; the average spending for this group was $385. Roughly 14% of the population had $0 in health expenditures in 2021.
+Health spending is concentrated even within populations with relatively high average health costs. Among people reporting fair or poor health, the top 10% of people with the highest health spending accounted for 55% of total health spending.
+Considerable spending variation exists between those who are 65 and over and those under the age of 65, with younger persons experiencing more concentrated health spending. In 2021, just over half (53%) of all health expenditures among adults ages 18 through 64 was concentrated in people in the top 5% of total health spending while the same percentage (53%) of all health expenditures among adults 65 or older was concentrated in people in the top 10% of total health spending.
+Although health spending for families includes people with higher and lower spending within each family, the distribution of family spending is almost as skewed as for individual spending. In 2021, one percent of all families accounted for 17% of all health spending. Families in the top 5% of health spending accounted for about 39% of all spending.
+Health & Wellbeing
+Access & Affordability
+Out-of-pocket spending includes direct payments to providers and cost-sharing but does not include out-of-pocket premium payments or contributions towards health coverage. Out-of-pocket health spending is similarly concentrated among high-health-need individuals. This small portion of the population accounts for a substantial share of total out-of-pocket health spending in a year.
+Just one percent of the population accounted for 27% of all out-of-pocket spending for healthcare in 2021. People in the top 5% of out-of-pocket health spending accounted for half (52%) of all out-of-pocket spending in the country. At the other end of the spectrum, the half of the population with the lowest out-of-pocket health spending accounted for just 1% of all out-of-pocket spending.
+On average, people in the top 1% of out-of-pocket spending paid $24,487 out-of-pocket for healthcare per year, and people in the top 10% spent $6,185 out-of-pocket per year. Many people have little or no out-of-pocket spending on medical care. People who are in the bottom 50% of out-of-pocket spending spent an average of $24 out-of-pocket in 2021.
+When it comes to inpatient spending, the people in the bottom 50% of total health spending had virtually no inpatient expenses, compared to an average of $18,544 annual inpatient spending for people in the top 5%. The patients with the highest health spending also have higher prescription drug spending: individuals in the top 5% had average health spending of $18,140 a year, compared to the overall average of $1,579.
+Individuals in the top 5% of health costs make up the majority of total health spending for some types of healthcare. Patients in the top 5% of health spending account for 69% of all home health expenses and 75% of all hospital inpatient expenses. They also account for nearly half of all prescription drug spending.
+Average out-of-pocket spending for all types of healthcare is also concentrated among people with higher spending. In 2021, people in the top 5% of out-of-pocket health spending spent an average of about $834 for prescription drugs, while people in the bottom 50% spent $7 on average. This concentration in out-of-pocket spending is true for other types of healthcare as well. People in the top 5% of out-of-pocket spending spent about $388 on inpatient stays, while individuals in the bottom 50% had virtually no inpatient stays or inpatient out-of-pocket spending. People in the top 5% of out-of-pocket spending made up 86% of home health out-of-pocket spending, 59% of inpatient out-of-pocket spending, and 60% of all ambulatory out-of-pocket spending.
+Health Spending
+Health Spending
+Adults with a current or prior diagnosis of certain chronic health condition(s) have much higher spending on average than people without these conditions. Among the listed diseases in the chart above, adults diagnosed with emphysema or cancer on average had the largest difference in health spending compared to those without a diagnosis.
+Adults who have been diagnosed with a serious or chronic disease have significantly higher out-of-pocket spending. Among adults, individuals who have been diagnosed with diseases like cancer or arthritis can have out-of-pocket spending twice as high as those who have not been diagnosed.
+In addition to the above conditions, compared to people without a mental health diagnosis, privately insured people withdepression and/or anxietyspend almost twice as much out-of-pocket.
+Among children, there is not a significant difference in health spending between sexes. Average health spending increases throughout adulthood for both men and women, but at somewhat different rates. Women have higher health spending than men in their 20s, 30s, and early 40s, largely due to pregnancy and delivery-related care. Spending differences between men and women are not statistically significant in older age groups.
+Overall, White people in the U.S. have significantly higher average total health spending than people in other race and ethnic groups. People who identified as either Asian or Hispanic had relatively low average health spending in each adult age category. Differences in health spending by race and ethnicity may be driven by a variety of factors, including health status, insurance coverage, age distribution, and access to care.
+People of color are younger, on average, than Whitepeople, Hispanic people are more likely to beuninsured, and Hispanic and Black people aremore likelyto report delaying or going without medical care due to costs. Private health plans tend to pay higher prices for healthcare than public plans do. About three in four Asian and White people are enrolled inprivatehealth plans at some point in a given year, while about one in two Black and Hispanic people are covered by private plans at some point in a given year.
+Immigrants havelowerhealth spending on average than those born in the United States. Asian and Hispanic people make up thelargest sharesof immigrant populations at about 44% and 27%, respectively.
+This collection of charts is based on the2021 Medical Expenditure Panel Survey (MEPS)Household Component. MEPS is a nationally representative household survey of the U.S. civilian non-institutionalized population. Estimates account for the MEPS survey design, including the estimation weight, sampling strata, and primary sampling unit. Health spending includes individual out-of-pocket payments and payments made by payers for care provided during the year.
+Health Spending
+Access & Affordability
+The Peterson Center on Healthcare and KFF are partnering to monitor how well the U.S. healthcare system is performing in terms of quality and cost.
+Find out more details about U.S. healthcare from our updated dashboard.
+Get the best of the Health System Tracker delivered to your inbox.
+Get the best of the Health System Tracker delivered to your inbox.
+© 2025 PETERSON-KFF Health System Tracker   All Rights Reserved
+
+Links:
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/category/quality-of-care/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/interactives/
+https://www.healthsystemtracker.org/about-us/
+https://www.healthsystemtracker.org
+https://www.healthsystemtracker.org/tag/price-transparency/
+https://www.healthsystemtracker.org/tag/affordability/
+https://www.healthsystemtracker.org/tag/prescription-drugs/
+https://www.healthsystemtracker.org/tag/price-transparency/
+https://www.healthsystemtracker.org/tag/affordability/
+https://www.healthsystemtracker.org/tag/prescription-drugs/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/category/quality-of-care/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/interactives/
+https://www.healthsystemtracker.org/about-us/
+https://www.healthsystemtracker.org/category/spending/
+https://www.kff.org/person/matt-mcgough/
+https://www.kff.org/person/gary-claxton/
+https://www.kff.org/person/krutika-amin/
+https://www.kff.org/person/cynthia-cox/
+https://twitter.com/cynthiaccox
+https://www.facebook.com/sharer/sharer.php?u=https://www.healthsystemtracker.org/chart-collection/health-expenditures-vary-across-population/
+http://twitter.com/share?text=How+do+health+expenditures+vary+across+the+population%3F&url=https://www.healthsystemtracker.org/chart-collection/health-expenditures-vary-across-population/
+https://www.linkedin.com/sharing/share-offsite/?url=https://www.healthsystemtracker.org/chart-collection/health-expenditures-vary-across-population/
+https://www.kff.org/medicare/issue-brief/health-spending-for-60-64-year-olds-would-be-lower-under-medicare-than-under-large-employer-plans/
+https://www.healthsystemtracker.org/chart-collection/u-s-life-expectancy-compare-countries/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/chart-collection/u-s-life-expectancy-compare-countries/
+https://www.healthsystemtracker.org/chart-collection/beyond-cost-what-barriers-to-health-care-do-consumers-face/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/chart-collection/beyond-cost-what-barriers-to-health-care-do-consumers-face/
+https://www.healthsystemtracker.org/chart-collection/u-s-spending-healthcare-changed-time/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/chart-collection/u-s-spending-healthcare-changed-time/
+https://www.healthsystemtracker.org/chart-collection/how-much-is-health-spending-expected-to-grow/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/chart-collection/how-much-is-health-spending-expected-to-grow/
+https://www.healthsystemtracker.org/brief/privately-insured-people-with-depression-and-anxiety-face-high-out-of-pocket-costs/
+https://www.pewresearch.org/short-reads/2019/07/30/most-common-age-among-us-racial-ethnic-groups/
+https://www.healthsystemtracker.org/indicator/access-affordability/percent-uninsured/
+https://www.healthsystemtracker.org/indicator/access-affordability/delay-needed-care/
+https://www.census.gov/content/dam/Census/library/publications/2023/demo/p60-281.pdf
+https://www.pnhp.org/docs/ImmigrationStudy_IJHS2018.pdf
+https://www.kff.org/report-section/health-and-health-care-experiences-of-immigrants-the-2023-kff-la-times-survey-of-immigrants-appendix/
+https://meps.ahrq.gov/mepsweb/data_stats/download_data_files_detail.jsp?cboPufNumber=HC-233
+https://www.healthsystemtracker.org/chart-collection/how-much-is-health-spending-expected-to-grow/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/chart-collection/how-much-is-health-spending-expected-to-grow/
+https://www.healthsystemtracker.org/chart-collection/beyond-cost-what-barriers-to-health-care-do-consumers-face/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/chart-collection/beyond-cost-what-barriers-to-health-care-do-consumers-face/
+https://www.healthsystemtracker.org/about-us/
+https://petersonhealthcare.org/
+https://www.kff.org/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/chart-collection/what-are-the-recent-trends-health-sector-employment/
+https://www.healthsystemtracker.org/chart-collection/what-are-the-recent-trends-health-sector-employment/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/brief/how-much-and-why-aca-marketplace-premiums-are-going-up-in-2025/
+https://www.healthsystemtracker.org/brief/how-much-and-why-aca-marketplace-premiums-are-going-up-in-2025/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/dashboard/
+https://petersonhealthcare.org/
+https://www.kff.org/
+https://www.facebook.com/sharer/sharer.php?u=https://www.healthsystemtracker.org
+http://twitter.com/share?text=Peterson-KFF+Health+System+Tracker&url=https://www.healthsystemtracker.org
+https://www.linkedin.com/sharing/share-offsite/?url=https://www.healthsystemtracker.org
+https://www.healthsystemtracker.org/privacy-policy/
+https://www.healthsystemtracker.org/terms-of-use/

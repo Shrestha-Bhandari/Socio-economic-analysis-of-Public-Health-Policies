@@ -1,0 +1,95 @@
+URL: https://www.healthsystemtracker.org/brief/insurer-strategies-to-control-costs-associated-with-weight-loss-drugs/
+Title: Insurer strategies to control costs associated with weight loss drugs - Peterson-KFF Health System Tracker
+
+Paragraphs:
+ByJustin LoandCynthia CoxTwitterKFF
+June 12, 2024
+Get the best of the Health System Tracker delivered to your inbox.
+Get the best of the Health System Tracker delivered to your inbox.
+A class of drugs calledGLP-1 agonists, which includesOzempic (semaglutide),hasbeen used to treat type 2 diabetes for over a decade. Due to their potential to trigger weight loss, focus on these drugs has shiftedinapplicationtoobesity, with new drug products using these same ingredients gaining FDA approval forsuchtreatment. A recentnationwideestimate of obesityindicatedthat42% of adults aged 20 andover areobese.Demand may continue to increase as moreGLP-1 agonistsare approvedfor other conditions, such aspreventing heart attacks or strokesin adults with cardiovascular disease.
+Given thehigh cost of GLP-1 agonistsand rising popular interest in these drugs, these medications will likely have an increasing and substantial impact on health care cost for patients and payers. Currently, most private health plans are not required to cover medications for weight loss, but some do so voluntarily and most cover drugs with the same active ingredients for diabetes treatment. For health plans including these drugs on their prescription drug formularies, utilization management tools, like prior authorization and step therapy, can be used to allow medically indicated access to the drugs while controlling costs by tying coverage of the drugs to specific clinical and treatment criteria. Further restrictions may be established through quantity limits, imposing constraints on the dosage and duration of usage.
+This analysis examines publicly available formularies of plans available on the federally facilitated Affordable Care Act (ACA) Marketplace in 2024 to identify how utilization management tools are used for GLP-1 agonists. The ACA Marketplaces represent a small share of people with private health insurance, as most people with private coverage have plans sponsored by their employers. However, information on employer plan formularies is not publicly available. Employer plans may be more likely to cover drugs for weight loss than ACA Marketplace plans given the desire to attract workers, though they may employ similar utilization management strategies.Medicareprohibits coverage of drugs used only for weight loss (though Part D plans are allowed to cover Wegovy when used to reduce the risk of heart attack and stroke for certain beneficiaries) andMedicaidcoverage of weight loss drugs varies by state.
+Coverage in formularies varies widely among GLP-1 agonists. Drugs solely approved to treat obesity have minimal to no coverage on most ACA Marketplace formularies. Wegovy, a semaglutide formulation approved for weight loss, is included in just 1% of Marketplace plan formularies, while Ozempic, which has the same active ingredient but is approved for diabetes treatment and sometimes used off-label for weight loss, is included in 82% of Marketplace plan formularies.
+
+Health Spending
+Health & Wellbeing
+Among ACA Marketplace plans with these drugs on formulary, prior authorization is required by most plans. All plans covering the drugs approved for weight loss require prior authorization. Similarly, quantity limits are imposed in most plans among those including these drugs on formulary. For GLP-1 agonists, step therapy is much less commonly used as a utilization management tool, with fewer than 1 in 4 Marketplace plans requiring step therapy for each of the drugs included in this analysis. (Under step therapy, patients are required to take certain steps, such as use of alternative drugs, before payment for a drug is approved.) Almost all (>98%) plans use at least 1 utilization management strategy to guide payment for GLP-1 agonists. For comparison, 70% of ACA Marketplace plans use at least 1 utilization management strategy with Xarelto (covered on 97% of formularies), a similarly priced oral anticoagulant with no generic formulation available. Generic metformin, also used to treat diabetes, is associated with utilization management tools in only 30% of ACA Marketplace plans, almost exclusively in the form of quantity limits.
+Arecent KFF pollof all adults (insured and uninsured) showed that insurance covered all of the cost for GLP-1 agonists for 1 out of 4 patients using them according to self-reported responses, but over half (54%) of adults taking these drugs had difficulty paying for them. People with large employer coverage pay an average ofnearly $70per monthin out-of-pocket costs for semaglutide when these drugs are covered by their health plan, though this is a small share of the total cost of the drug.Utilization management tools are intended to balance cost control and access but may still pose barriers for people with a medical necessity to take these drugs.With such high demand for andshort supplyfor GLP-1 agonists, some people have procured them from alternative sources, such as online vendors, medical spas, or compounding pharmacies selling products not evaluated by the FDA, some of which may contain different ingredients.
+
+Methods
+GLP-1 agonists included in the analysis were approved for treatment of obesity (Saxenda, Wegovy, Zepbound) and corresponding formulations that may potentially be used off-label for treatment of obesity (Mounjaro, Ozempic, Rybelsus, Victoza). For comparison, in the table below, we also show those GLP-1 agonists with active ingredients only approved for treatment of diabetes that have less potential for off-label weight loss use (Bydureon BCise, Trulicity). All the included drugs are administered by injection, except for Rybelsus, which is taken as a pill. GLP-1 agonist formulations that include insulin were not included in the analysis. Formularies for plans available in 2024 were extracted from addresses listed in CMS Machine Readable URL File Public on February 28, 2024. Issuers with entirely missing data on prior authorization, step therapy, and quantity limits were excluded from analysis. A utilization management tool was considered in use if it applied to all doses a drug was available. The analysis is not weighted by plan enrollment.
+
+
+
+
+
+
+
+
+
+The Peterson Center on Healthcare and KFF are partnering to monitor how well the U.S. healthcare system is performing in terms of quality and cost.
+Find out more details about U.S. healthcare from our updated dashboard.
+Get the best of the Health System Tracker delivered to your inbox.
+Get the best of the Health System Tracker delivered to your inbox.
+© 2025 PETERSON-KFF Health System Tracker   All Rights Reserved
+
+Links:
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/category/quality-of-care/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/interactives/
+https://www.healthsystemtracker.org/about-us/
+https://www.healthsystemtracker.org
+https://www.healthsystemtracker.org/tag/price-transparency/
+https://www.healthsystemtracker.org/tag/affordability/
+https://www.healthsystemtracker.org/tag/prescription-drugs/
+https://www.healthsystemtracker.org/tag/price-transparency/
+https://www.healthsystemtracker.org/tag/affordability/
+https://www.healthsystemtracker.org/tag/prescription-drugs/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/category/quality-of-care/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/interactives/
+https://www.healthsystemtracker.org/about-us/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.kff.org/person/justin-lo/
+https://www.kff.org/person/cynthia-cox/
+https://twitter.com/cynthiaccox
+https://www.facebook.com/sharer/sharer.php?u=https://www.healthsystemtracker.org/brief/insurer-strategies-to-control-costs-associated-with-weight-loss-drugs/
+http://twitter.com/share?text=Insurer+strategies+to+control+costs+associated+with+weight+loss+drugs&url=https://www.healthsystemtracker.org/brief/insurer-strategies-to-control-costs-associated-with-weight-loss-drugs/
+https://www.linkedin.com/sharing/share-offsite/?url=https://www.healthsystemtracker.org/brief/insurer-strategies-to-control-costs-associated-with-weight-loss-drugs/
+https://stacks.cdc.gov/view/cdc/106273
+https://www.healthsystemtracker.org/brief/prices-of-drugs-for-weight-loss-in-the-us-and-peer-nations/
+https://www.kff.org/medicare/issue-brief/a-new-use-for-wegovy-opens-the-door-to-medicare-coverage-for-millions-of-people-with-obesity/
+https://www.kff.org/policy-watch/medicaid-coverage-of-and-spending-on-new-drugs-used-for-weight-loss/
+https://www.healthsystemtracker.org/chart-collection/what-are-the-recent-trends-in-health-utilization-and-spending/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/chart-collection/what-are-the-recent-trends-in-health-utilization-and-spending/
+https://www.healthsystemtracker.org/brief/how-many-adults-with-private-health-insurance-could-use-glp-1-drugs/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/brief/how-many-adults-with-private-health-insurance-could-use-glp-1-drugs/
+https://www.kff.org/health-costs/poll-finding/kff-health-tracking-poll-may-2024-the-publics-use-and-views-of-glp-1-drugs/
+https://www.healthsystemtracker.org/chart-collection/how-have-costs-associated-with-obesity-changed-over-time/#Total%20and%20out-of-pocket%20cost%20for%20one-month%20supply%20of%20Semaglutide%20(Ozempic,%20Wegovy,%20or%20Rybelus),%202018-2021
+https://www.accessdata.fda.gov/scripts/drugshortages/default.cfm
+https://www.healthsystemtracker.org/about-us/
+https://petersonhealthcare.org/
+https://www.kff.org/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/chart-collection/cost-affect-access-care/
+https://www.healthsystemtracker.org/chart-collection/cost-affect-access-care/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/brief/policy-issues-and-trends-2024/
+https://www.healthsystemtracker.org/brief/policy-issues-and-trends-2024/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/dashboard/
+https://petersonhealthcare.org/
+https://www.kff.org/
+https://www.facebook.com/sharer/sharer.php?u=https://www.healthsystemtracker.org
+http://twitter.com/share?text=Peterson-KFF+Health+System+Tracker&url=https://www.healthsystemtracker.org
+https://www.linkedin.com/sharing/share-offsite/?url=https://www.healthsystemtracker.org
+https://www.healthsystemtracker.org/privacy-policy/
+https://www.healthsystemtracker.org/terms-of-use/

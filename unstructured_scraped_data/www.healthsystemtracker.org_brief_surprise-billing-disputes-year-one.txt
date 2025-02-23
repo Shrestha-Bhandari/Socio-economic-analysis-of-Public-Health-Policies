@@ -1,0 +1,105 @@
+URL: https://www.healthsystemtracker.org/brief/surprise-billing-disputes-year-one/
+Title: How has the federal process for surprise medical billing disputes performed? - Peterson-KFF Health System Tracker
+
+Paragraphs:
+ByKrutika Amin,Rakesh SinghTwitter,Kaye Pestaina, andCynthia CoxTwitterKFF
+November 2, 2023
+Get the best of the Health System Tracker delivered to your inbox.
+Get the best of the Health System Tracker delivered to your inbox.
+In late 2020, Congress passed and President Trump signed theNo Surprises Actestablishing new federal protections for consumers from surprise medical bills. The law became effective in 2022. A significant component of the law was to hold consumers harmless for surprise, out-of-network medical bills by creating a process where the medical provider and health plan would negotiate a payment for the service provided or end up in anindependent dispute resolution (IDR) process.
+
+About 1 in 8 disputes in the first year of the No Surprises Act arbitration process resulted in payment determinations
+Over300,000surprise billing disputes were initiated through the federal IDR process starting in April 2022 through March 2023. Disputes in the first year far exceeded CMS’sinitialestimate of less than 18,000 for the year.
+About 1 in 8 (13%) disputes during the first year of the IDR process received payment determinations. Another 19% of disputes were closed due to ineligibility or for other reasons. Disputes may be ineligible, for example, if state law applies, it’s not qualified under the No Surprises Act, or due to submission errors. Disputes can be closed for other reasons like if the parties settled or withdrew, or failed to pay fees. Nearly 7 in 10 disputes (68%) remained outstanding.
+Access & Affordability
+Access & Affordability
+About7 in 10payment determinations were in favor of theproviders’ asking priceand the remaining were in favor of the health plans’ payment offer. (Based on an earlier governmentreport, nearly all of the dispute initiators are providers.) Even though most payment determinations through the federal IDR arbitration process have been in favor of providers, most of the lawsuits against the No Surprises Act are also being brought by providers.
+The federal government recently proposed severalchangeswith the goal of making the IDR process more efficient and increasing early communication between the parties.
+Recentcourtdecisions throw out parts ofNo Surprises Actregulations,othercourtchallengesarepending
+Provider groups have sued regarding the No Surprises Act and its implementation inseverallawsuits. District court rulings have set aside the requirement that IDR entities presume the Qualifying Payment Amount (QPA), defined as the median in-network rate in the region for the item or service, is the appropriate payment rate absent additional information. A district court decision also vacated certain provisions related to the QPA calculation methodology, and the federal government intends toappealthis decision. In the meantime, federal agenciesannouncedthat they do not plan to enforce court-required changes to the QPA methodology until May 2024. A district court ruling also vacated theadministrative feeincreases established in guidance. In response, the federal government has issued aproposed ruleto set administrative fees through formal notice and comment rulemaking. Otherlawsuits, including challenges to specific IDR payment decisions, are pending.
+As a result of the court decisions, the IDR process has beenhaltedseveral times. The federal governmentannouncedon August 25, 2023 that it had once again put thefederal dispute processon hold in response to a Texas district courtrulingstriking down part of the law’s regulations about themethodologyinsurers use to calculate a qualifying payment. Payment determination processing for disputes submitted on or prior to August 3 was resumed on September 21, 2023. On October 6, 2023, the federal IDR portal was reopened for submission of  some new disputes. Submission and processing of batched disputes and submissions for air ambulance disputes remainsuspendedpending further guidance.
+In the midst of the legal disputes over the dispute resolution process for payment rates, patients are still held harmless for surprise, out-of-network bills.
+
+The Peterson Center on Healthcare and KFF are partnering to monitor how well the U.S. healthcare system is performing in terms of quality and cost.
+Find out more details about U.S. healthcare from our updated dashboard.
+Get the best of the Health System Tracker delivered to your inbox.
+Get the best of the Health System Tracker delivered to your inbox.
+© 2025 PETERSON-KFF Health System Tracker   All Rights Reserved
+
+Links:
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/category/quality-of-care/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/interactives/
+https://www.healthsystemtracker.org/about-us/
+https://www.healthsystemtracker.org
+https://www.healthsystemtracker.org/tag/price-transparency/
+https://www.healthsystemtracker.org/tag/affordability/
+https://www.healthsystemtracker.org/tag/prescription-drugs/
+https://www.healthsystemtracker.org/tag/price-transparency/
+https://www.healthsystemtracker.org/tag/affordability/
+https://www.healthsystemtracker.org/tag/prescription-drugs/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/category/quality-of-care/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/interactives/
+https://www.healthsystemtracker.org/about-us/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.kff.org/person/krutika-amin/
+https://www.kff.org/person/rakesh-singh/
+https://twitter.com/raksingh
+
+https://www.kff.org/person/cynthia-cox/
+https://twitter.com/cynthiaccox
+https://www.facebook.com/sharer/sharer.php?u=https://www.healthsystemtracker.org/brief/surprise-billing-disputes-year-one/
+http://twitter.com/share?text=How+has+the+federal+process+for+surprise+medical+billing+disputes+performed%3F&url=https://www.healthsystemtracker.org/brief/surprise-billing-disputes-year-one/
+https://www.linkedin.com/sharing/share-offsite/?url=https://www.healthsystemtracker.org/brief/surprise-billing-disputes-year-one/
+https://www.kff.org/health-reform/issue-brief/no-surprises-act-implementation-what-to-expect-in-2022/
+https://www.healthsystemtracker.org/brief/independent-dispute-resolution-explainer/
+https://www.cms.gov/files/document/federal-idr-processstatus-update-april-2023.pdf
+https://www.dol.gov/sites/dolgov/files/ebsa/laws-and-regulations/laws/no-surprises-act/surprise-billing-part-ii-information-collection-documents-attachment-1.pdf
+https://www.healthsystemtracker.org/brief/ground-ambulance-rides-and-potential-for-surprise-billing/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/brief/ground-ambulance-rides-and-potential-for-surprise-billing/
+https://www.healthsystemtracker.org/brief/independent-dispute-resolution-explainer/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/brief/independent-dispute-resolution-explainer/
+https://www.cms.gov/files/document/federal-idr-processstatus-update-april-2023.pdf
+https://www.healthsystemtracker.org/brief/independent-dispute-resolution-explainer/
+https://www.cms.gov/files/document/initial-report-idr-april-15-september-30-2022.pdf
+https://www.cms.gov/newsroom/fact-sheets/no-surprises-act-independent-dispute-resolution-process-proposed-rule-fact-sheet
+https://www.healthaffairs.org/do/10.1377/forefront.20220216.824139
+https://litigationtracker.law.georgetown.edu/issues/no-surprises-act/
+https://www.cms.gov/files/document/faqs-part-62.pdf
+https://www.cms.gov/files/document/faqs-part-62.pdf
+https://www.cms.gov/cciio/resources/regulations-and-guidance/downloads/no-surprises-act-independent-dispute-resolution-administrative-fee-frequently-asked-questions.pdf
+https://www.cms.gov/files/document/federal-independent-dispute-resolution-idr-process-administrative-fee-and-certified-idr-entity-fee.pdf
+https://litigationtracker.law.georgetown.edu/issues/no-surprises-act/
+https://www.cms.gov/nosurprises/help-resolve-payment-disputes/payment-disputes-between-providers-and-health-plans
+https://www.cms.gov/priorities/legislation/no-surprises-act/provider-health-plan-payment-disputes
+https://www.healthsystemtracker.org/brief/independent-dispute-resolution-explainer/
+https://www.texmed.org/uploadedFiles/Current/2016_Practice_Help/Insurance/Federal_Court_Ruling_TMA_NSA_4_Aug2023.pdf
+https://oneill.law.georgetown.edu/latest-twists-and-turns-in-no-surprises-act-litigation-what-it-means-for-consumers-and-ongoing-implementation/
+https://www.cms.gov/files/document/federal-idr-partial-reopening-faqs-oct-23.pdf
+https://www.healthsystemtracker.org/about-us/
+https://petersonhealthcare.org/
+https://www.kff.org/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/chart-collection/trends-in-employer-based-health-coverage/
+https://www.healthsystemtracker.org/chart-collection/trends-in-employer-based-health-coverage/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/brief/policy-issues-and-trends-2024/
+https://www.healthsystemtracker.org/brief/policy-issues-and-trends-2024/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/dashboard/
+https://petersonhealthcare.org/
+https://www.kff.org/
+https://www.facebook.com/sharer/sharer.php?u=https://www.healthsystemtracker.org
+http://twitter.com/share?text=Peterson-KFF+Health+System+Tracker&url=https://www.healthsystemtracker.org
+https://www.linkedin.com/sharing/share-offsite/?url=https://www.healthsystemtracker.org
+https://www.healthsystemtracker.org/privacy-policy/
+https://www.healthsystemtracker.org/terms-of-use/

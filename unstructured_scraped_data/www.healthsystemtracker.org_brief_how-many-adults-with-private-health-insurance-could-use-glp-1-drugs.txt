@@ -1,0 +1,100 @@
+URL: https://www.healthsystemtracker.org/brief/how-many-adults-with-private-health-insurance-could-use-glp-1-drugs/
+Title: How many adults with private health insurance could use GLP-1 drugs - Peterson-KFF Health System Tracker
+
+Paragraphs:
+ByMatthew McGough,Justin Lo,Delaney Tevis,Matthew RaeTwitter, andCynthia CoxKFF
+September 5, 2024
+Get the best of the Health System Tracker delivered to your inbox.
+Get the best of the Health System Tracker delivered to your inbox.
+GLP-1 agonists have been used as a treatment for type 2 diabetes for nearly two decades. Recently, newer forms of these drugs, such as Wegovy (semaglutide), have gained widespread attention as a treatment for obesity and weight-related comorbidities.
+As the potential uses of these drugs expand, such as withrecent approvalsto prevent heart attacks and strokes in adults with cardiovascular disease who are overweight, thehigh costand increased demand for these drugs may increase health spending. To date, these GLP-1 drugs have been approved to treat three adult populations: individuals with type 2 diabetes, individuals with a body mass index (BMI) of 30 or greater (obesity), and individuals with a BMI between 27 and 30 (overweight) with at least one weight-related health condition, such as cardiovascular disease, high blood pressure, high cholesterol, prior stroke, prior heart attack, and chest pain (angina).
+In annual filings to state regulators for plan year 2025, someinsurerscited increases in utilization of GLP-1 drugs as a contributor to rising premiums. Many ACA Marketplaceplansmanage the costs associated with GLP-1 drugs by only covering them for diabetes treatment and not for weight management.
+This analysis estimates clinical eligibility and use of GLP-1 drugs among adults under age 65 in the private and employer-sponsored insurance (ESI) markets using the 2023 National Health Interview Survey (NHIS) and Merative MarketScan commercial claims data. The private insurance market represents thelargest shareof the insured population (66% of all people in 2022) in the United States. The private market is defined here as anyone under age 65 who received insurance from their employer, union, professional organization, direct purchase, online exchange, or school, as well as through parents or another relative who received insurance from a prior listed source.
+These broad estimates indicate the potential number of non-elderly adults who meet the clinical criteria for GLP-1 drugs, although employers and insurers may have more restrictive eligibility standards for coverage. Additionally, because many people with diabetes or who are overweight may control their condition with diet, other medications and therapies, or choose to not seek treatment, not all people who meet these clinical criteria would use GLP-1 drugs. This analysis of survey data finds that over 40% of adults under 65 with private insurance could be indicated for a GLP-1 drug though relatively few have a claim, suggesting that a much smaller share seeks treatment through healthcare providers. Therefore, the potential market size for GLP-1 drugs suggests the broadest possible impacts on private insurancepremiumsand health system spending.
+Access & Affordability
+Health Spending
+Over 2 in 5 (42%) adults under 65 with private insurance could be eligible for GLP-1 drugs, based on current Food and Drug Administration (FDA) indications. Non-elderly adults who are obese make up the largest share of those clinically eligible in the private insurance market: 45.8 million people or 80% of those indicated as possibly eligible in the private market are obese, of which 41.8 million people are indicated based on obesity alone. Over ten million people are eligible because of a combination of being overweight and having ever been told that they have another weight-related risk factor.
+Among non-elderly adults with ESI (estimated to be 116.8 million from NHIS), 42%, or 49.3 million people, are clinically eligible for GLP-1 drugs; 36.2 million people with ESI are potentially eligible for GLP-1 drugs based on an obesity diagnosis alone. Similar shares of those with employer-sponsored coverage are potentially eligible for a GLP-1 antagonist as private coverage overall.  For more information on those covered by an employer plan see the appendix.
+In setting their coverage requirements, employers will weigh the cost of these drugs against the clinical benefits and demands from their workers and may impose additional eligibility conditions for prescription drug coverage. People who are obese (have a BMI greater than or equal to 30) are clinically eligible for GLP-1 drugs, but employer plans may set additional BMI requirements to cover GLP-1 drug use under obesity. Currently, drugs that are approved solely forobesity treatmenthave minimal to no coverage on ACA Marketplace plans. Surveyresultsindicate that many employer plans require employees to complete a case management program or otherutilization managementsteps before covering GLP-1 drugs.
+Other employer plans may only cover GLP-1 drugs for some conditions, or not at all. Employers may also consider setting a higher body mass index (BMI) threshold for coverage eligibility, such as at 35 (class II obesity) or 40 (class III obesity). Even if employers adopted a BMI threshold of 35 or greater, 13% (14.6 million) of adults under 65 covered by an employer plan would exceed this threshold. With a cutoff of a BMI of 40, 3% (3.6 million) of adults with employer-sponsored insurance would still qualify.
+Since 2012, the share of non-elderly adults with ESI that have a GLP-1 drug claim has grown more than eightfold (717.7% increase). However, only about 3% had at least one claim in 2022. Semaglutide—sold as Ozempic, Wegovy, and Rybelsus—quickly rose to become the most common GLP-1 drug prescribed since its introduction to market in 2018. Additionally, older GLP-1 drugs, such as exenatide, have seen a decline in claims since the early 2010s as newer drugs were introduced.
+While there was a substantial increase over the ten-year period between 2012 and 2022, some evidence indicates that utilization has only continued to rise over the last two years, beyond the most recent claims data available. According toKFF pollingfrom May 2024, 6% of all adults report that they currently are taking a GLP-1 drug, and 12% report that they’ve ever taken a GLP-1 drug.
+To determine insurance market enrollment, the National Health Interview Survey (NHIS)hierarchyfor primary coverage among people under age 65 was used. Employer-sponsored insurance (ESI) was determined if private insurance enrollees stated that they were not enrolled in Medicare and reported receiving coverage through parents or from an employer, union, or professional organization.
+Clinical eligibility for GLP-1 drugs was determined using BMI and the following comorbidities as specified in NHIS: coronary heart disease, prior stroke, prior heart attack, angina, high blood pressure, and high cholesterol. For each condition, respondents answered whether they were ever told by a doctor or healthcare professional if they had the condition; those who responded that they did not know were counted as not having the condition. All answers are self-reported and may underestimate prevalence of clinical conditions. Respondents were included as having diabetes if they stated that they had ever been told by a doctor or other health professional that they had type 2 diabetes or did not know their specific type of diabetes (those with type 1 diabetes and “other type of diabetes” were excluded).
+FDA approval to use GLP-1 drugs for weight loss specifies that those who have a BMI between 27 and 30 must have another weight-related condition, such as those listed above. Because NHIS does not include information on all weight-related conditions—such as obstructive sleep apnea, peripheral arterial disease, and aortic atherosclerosis—the number and share of the private and ESI markets indicated for GLP-1 drugs are potentially underestimated among those who are overweight. However, given the frequent co-occurrence of the omitted conditions and those included in this analysis, the number and share excluded may be small.
+BMI is calculated from a respondent’s self-reported height and weight. NHIS redacts height outside the range of 63-76 inches for men and 59-70 inches for women. Similarly for weight, NHIS redacts values outside the range of 126-299 pounds for men and 100-274 pounds for women. The proportions of those with employer-sponsored insurance eligible at different cutoffs of BMI were estimated using only respondents with unredacted values for height and weight and extrapolated to the entire obese population.
+To find the proportion of ESI enrollees with a prescription for GLP-1 drugs, outpatient pharmaceutical claims from 2012 to 2022 in the Merative MarketScan Commercial Database were used. MarketScan contains claims information provided by a sample of large employer plans, made representative of the ESI market by using weights to match counts in the Current Population Survey for enrollees at firms of 1,000 or more workers, adjusting by sex, age, and state. The analysis included all adults aged 18 to 64 who had continuous enrollment in their plan for more than 6 months. GLP-1 drugs were identified using RxNav and RxClass from theNational Library of Medicine, selecting all drugs within the Glucagon-like Peptide-1 (GLP-1) Agonists (N0000020058) Mechanism of Action class.
+The Peterson Center on Healthcare and KFF are partnering to monitor how well the U.S. healthcare system is performing in terms of quality and cost.
+Find out more details about U.S. healthcare from our updated dashboard.
+Get the best of the Health System Tracker delivered to your inbox.
+Get the best of the Health System Tracker delivered to your inbox.
+© 2025 PETERSON-KFF Health System Tracker   All Rights Reserved
+
+Links:
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/category/quality-of-care/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/interactives/
+https://www.healthsystemtracker.org/about-us/
+https://www.healthsystemtracker.org
+https://www.healthsystemtracker.org/tag/price-transparency/
+https://www.healthsystemtracker.org/tag/affordability/
+https://www.healthsystemtracker.org/tag/prescription-drugs/
+https://www.healthsystemtracker.org/tag/price-transparency/
+https://www.healthsystemtracker.org/tag/affordability/
+https://www.healthsystemtracker.org/tag/prescription-drugs/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/category/quality-of-care/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/interactives/
+https://www.healthsystemtracker.org/about-us/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.kff.org/person/matt-mcgough/
+https://www.kff.org/person/justin-lo/
+
+https://www.kff.org/person/matthew-rae/
+https://twitter.com/matthew_t_rae
+https://www.kff.org/person/cynthia-cox/
+https://www.facebook.com/sharer/sharer.php?u=https://www.healthsystemtracker.org/brief/how-many-adults-with-private-health-insurance-could-use-glp-1-drugs/
+http://twitter.com/share?text=How+many+adults+with+private+health+insurance+could+use+GLP-1+drugs&url=https://www.healthsystemtracker.org/brief/how-many-adults-with-private-health-insurance-could-use-glp-1-drugs/
+https://www.linkedin.com/sharing/share-offsite/?url=https://www.healthsystemtracker.org/brief/how-many-adults-with-private-health-insurance-could-use-glp-1-drugs/
+https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-reduce-risk-serious-heart-problems-specifically-adults-obesity-or
+https://www.healthsystemtracker.org/brief/prices-of-drugs-for-weight-loss-in-the-us-and-peer-nations/
+https://www.healthsystemtracker.org/brief/how-much-and-why-aca-marketplace-premiums-are-going-up-in-2025/
+https://www.healthsystemtracker.org/brief/insurer-strategies-to-control-costs-associated-with-weight-loss-drugs/
+https://www.census.gov/content/dam/Census/library/publications/2023/demo/p60-281.pdf
+https://www.healthsystemtracker.org/brief/how-much-and-why-aca-marketplace-premiums-are-going-up-in-2025/
+https://www.healthsystemtracker.org/brief/how-many-people-with-employer-sponsored-insurance-use-the-drugs-slated-for-medicare-price-negotiations/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/brief/how-many-people-with-employer-sponsored-insurance-use-the-drugs-slated-for-medicare-price-negotiations/
+https://www.healthsystemtracker.org/chart-collection/how-much-is-health-spending-expected-to-grow/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/chart-collection/how-much-is-health-spending-expected-to-grow/
+https://www.healthsystemtracker.org/brief/insurer-strategies-to-control-costs-associated-with-weight-loss-drugs/
+https://blog.ifebp.org/employer-coverage-of-glp-1-drugs-on-the-rise/
+https://www.healthsystemtracker.org/brief/insurer-strategies-to-control-costs-associated-with-weight-loss-drugs/
+https://www.kff.org/health-costs/poll-finding/kff-health-tracking-poll-may-2024-the-publics-use-and-views-of-glp-1-drugs/
+https://www.cdc.gov/nchs/data/nhis/SHS_Tech_Notes.pdf
+https://lhncbc.nlm.nih.gov/RxNav/
+https://www.healthsystemtracker.org/about-us/
+https://petersonhealthcare.org/
+https://www.kff.org/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/chart-collection/u-s-life-expectancy-compare-countries/
+https://www.healthsystemtracker.org/chart-collection/u-s-life-expectancy-compare-countries/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/brief/racial-disparities-in-premature-deaths-during-the-covid-19-pandemic/
+https://www.healthsystemtracker.org/brief/racial-disparities-in-premature-deaths-during-the-covid-19-pandemic/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/dashboard/
+https://petersonhealthcare.org/
+https://www.kff.org/
+https://www.facebook.com/sharer/sharer.php?u=https://www.healthsystemtracker.org
+http://twitter.com/share?text=Peterson-KFF+Health+System+Tracker&url=https://www.healthsystemtracker.org
+https://www.linkedin.com/sharing/share-offsite/?url=https://www.healthsystemtracker.org
+https://www.healthsystemtracker.org/privacy-policy/
+https://www.healthsystemtracker.org/terms-of-use/

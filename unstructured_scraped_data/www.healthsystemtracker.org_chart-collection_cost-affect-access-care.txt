@@ -1,0 +1,113 @@
+URL: https://www.healthsystemtracker.org/chart-collection/cost-affect-access-care/
+Title: How does cost affect access to healthcare? - Peterson-KFF Health System Tracker
+
+Paragraphs:
+ByShameek Rakshit,Krutika Amin, andCynthia CoxTwitterKFF
+January 12, 2024
+Get the best of the Health System Tracker delivered to your inbox.
+Get the best of the Health System Tracker delivered to your inbox.
+This chart collection explores trends in how cost affect access to healthcare in the U.S. using National Health Interview Survey (NHIS) data through 2022.
+In the 2022 NHIS, more than 1 in 4 adults (28%) reported delaying or not getting healthcare due to cost. An even larger share of households had at least one family member who faced cost-related care barriers. While most adults are in good health at a given time, they may have a sick, uninsured, or underinsured family member, leading to medical bills putting a strain onhousehold budgets.KFF pollingfrom March 2022 found four in ten adults (43%) report that they or a family member in their household put off or postponed needed healthcare due to cost. Uninsured adults, adults in worse health (reported as fair or poor health status), and Hispanic adults are much more likely than others to delay or forego healthcare due to cost.
+As background, most adults (90%) have health insurance, and the majority (85% of adults) also report their health as at least good. However, many adults continue to face barriers to accessing medical care.
+While similar shares of adults reported not having a usual source of medical care (11%) or that they or a family member had difficulty paying medical bills (11%), a larger share of adults reported that they delayed or did not get healthcare due to cost (28%) or that they were worried about their ability to pay medical bills if they were to get sick or have an accident (45%).
+In 2022, more than 1 in 4 adults (28%) reported delaying or going without either medical care, prescription drugs, mental health care, or dental care due to cost. A smaller share of adults (15%) reported foregoing medical care, prescription drugs, or mental health care due to cost.
+Health & Wellbeing
+Health & Wellbeing
+While a similar share of adults reported delaying or going without medical care (8%), prescription drugs (7%), or mental health care (6%) due to cost, a much larger share reported foregoing dental care (21%) due to cost.
+Most Americans do not report cost-related access barriers to healthcare. Half of the population haslittle or noout-of-pocket medical spending. Still, a substantial portion of the population—about 1 in every 12 adults (8%)—said that they either delayed or did not receive medical care due to cost in 2022.
+The chart above is based on NHIS questions asking about missed or delayed “medical care.” There are subsequent questions that ask about missed or delayed mental health care, dental care, and prescriptions due to cost. While some people answer yes to multiple questions, others say that they only missed or delayed one type of care. As shown in later charts, adding all types of missed or delayed care results in a larger share of adults delaying or foregoing care.
+The share of adults reporting that they did not get medical care or did not take medicine as prescribed due to cost declined sharply in 2020 and has remained at about that level since. The decline was at least in part because of peopleforegoing care due to COVID-19.The share of adults going without mental health care because of cost increased through 2022 and increased above pre-pandemic levels by early 2023.
+In the second quarter of 2023, a similar share of adults reported not taking medicine as prescribed (7.2%), not getting needed medical care (6.2%), and not getting needed mental health care (5.6%) due to cost. Note that respondents may answer yes or no to any of these questions so they should not be totaled.
+Hispanic adults had higher rates of facing cost barriers to accessing care than all other people (39%). Estimates for Asian people were the lowest among all race and ethnic groups for delaying or foregoing health or dental due to cost (21%).
+Adults in worse health are twice as likely to report delaying or not getting some form of care due to cost compared to adults in better health (45% versus 25%). Those who are uninsured at any point in the year reported delaying or not getting care due to cost at much higher rates compared to those who are insured (57% versus 25%). These estimates include adults who reported delaying or not getting medical, mental health, and dental care due to cost as well as those who reported delaying, not getting, skipping, or taking fewer doses of prescription drugs due to cost.
+Some people miss or delay care they cannot afford, while some people still receive the care and go into medical debt, and some people experience both types of challenges associated with high medical costs.
+Among adults, 1 in 9 (11%) stated that they or a family member had difficulty paying medical bills. However, 1 in 5 uninsured adults (20%) said they or a family member had difficulty paying medical bills. Insured adults reported difficulty paying medical bills at a lower rate. Even then, 10% of insured adults reported having difficulty paying medical bills for themselves or a family member. Adults with worse health report they or a family member had difficulty paying medical bills at over twice the rate of adults with better health (22% versus 9%). Black Americans had a higher share of adults in families reporting difficulty paying medical bills compared to all other race and ethnic groups (15%).
+About half of adults (45%) report being worried about their ability to pay medical bills if they get sick or have an accident. Out of all race and ethnic groups, Hispanic adults were the most likely to report being worried about being able to pay medical bills in case of an illness or accident (62%), while White adults were the least likely to do so (40%).
+Meanwhile, three in four uninsured adults (75%) report being worried about paying medical bills in case of an illness or accident. Even a large share of insured adults (42%) report being worried about medical bills. Adults in worse health are more likely to worry about paying medical bills than adults in better health (56% versus 44%).
+Uninsured adults arenearly fivetimesaslikely than insured adults to have no usual source of care (38% versus 8%).While the share of adults without a usual source of care is similar across mostraceand ethnic groups,Hispanic adults (17%) are more likely than others to report not having a usual source of care.
+Adults with incomes below 200% federal poverty level (FPL) are more likely to delay or go without medical caredue to costthan those with incomes above 200% FPL (13% versus6%). Additionally, among people with employer-sponsored insurance, those with lower incomes spend alarger shareof their incomes on insurance premiums and cost-sharing.
+From 2000 to 2009, there was an increase in the share of adults, those who report worse health, and those who were uninsured who reported delaying or going without care due to cost. However, between 2010 (when the Affordable Care Act (ACA) was signed into law) and 2015 (the year after the expansion of Medicaid and opening of ACA Marketplaces), there was a decline in the share of adults who report delaying or going without care because of cost.
+Starting with the 2019 NHIS, the U.S. Centers for Disease Control and Prevention (CDC) redesigned the questionnaire and updated the sampling weights methodology. As a result, changes in estimates from 2018 to 2019 cannot be attributed to actual change over time alone. The shaded gray region in the chart above indicates the break in the survey. The trend from 2018 to 2019 in the percent of adults delaying or foregoing care is likely at least partly due to changes to NHIS questionnaire and sampling weights, rather than actual changes in access to care alone.
+Uninsured adults and adults in worse health continue to face access barriers due to the cost of care. In 2022, 29% of uninsured adults reported delaying or not getting care due to cost compared to 6% of insured adults.
+The share of uninsured adults and adults in worse health reporting foregone care due to cost increased between 2021 and 2022 after a sharp decrease between 2019 and 2021. Part of this might be because COVID-19 presentedanother reasoncare was delayed or foregone during the height of the pandemic. COVID-related stay-at-home measures, potential risk of infection at doctors’ offices and hospitals, and concerns over hospital capacity led to sharp declines inutilization. In 2022—two years after the start of the pandemic—financial barriers to accessing care may be more salient for some people. The decline in theuninsured ratefrom 2019 to 2021 could have also contributed to fewer adults reporting cost-related barriers to accessing care in this period.
+In 2021, 1 in 4 adults (26%) reported delaying or going without medical care due to either cost or the COVID-19 pandemic. That year, the share of adults who reported foregoing medical care due to the COVID-19 pandemic, but not cost (17%) was larger than the share of adults who reported foregoing medical care due to cost, but not the COVID-19 pandemic (5%). In addition to cost and the pandemic, there could beadditionalreasons fordelaying or foregoing care, such as an inability to take time off from work, a lack of transportation, or a lack of available appointments. The 2022 NHIS did not ask respondents whether they delayed or did not get medical care due to COVID-19.
+In 2021, 1 in 6 insulin users (17%) reported either delaying buying insulin, skipping an insulin dose, or taking less insulin than needed due to cost. Among all adults, 7% reported rationing prescribed medication due to cost and 5% did not get needed prescription medication to save money. The 2022 NHIS did not ask respondents whether they rationed insulin due to cost.
+In 2022, severalmeasuresto address medication costs for Medicare beneficiaries were signed into law as part of the Inflation Reduction Act. These provisions include a $35 monthly cap on the out-of-pocket cost of insulin for Medicare beneficiaries and federal price negotiations for certain medications covered by Medicare.
+In 2021, among non-elderly adults (ages 18-64 years) with private insurance, over 1 in 5 of those taking insulin (22%) reported delaying buying, skipping, or taking less insulin to save money. This shareroseto 30% among non-elderly adults without health coverage.The 2022 NHIS did not ask respondents whether they rationed insulin due to cost.Congresscappedout-of-pocket costsfor insulin for people with Medicarestarting in 2023. However,affordability for insulin will continue to be an issue for people withprivate insurance or without health coveragein the future.
+According to a2022 KFF Health Care Debt Survey, 41% of adults reported having some amount of healthcare debt. Among adults with healthcare debt, nearly 2 in 3 (64%) either put off or postponed getting care they needed, and half (51%) did not get a medical test or treatment that was recommended by a doctor. Additionally, 15% of adults with healthcare debt were denied care due to their debt.
+While most adults in the U.S. have health insurance, cost-sharing can place financial burdens on enrollees,contribute to debt, and render care unaffordable. For example, more than 40% of U.S. householdsdo not have enough assetsto pay a typical private plan deductible. People with lower incomes, people with worse health status, and Black Americans aremore likely to have significant medical debt.
+The Peterson Center on Healthcare and KFF are partnering to monitor how well the U.S. healthcare system is performing in terms of quality and cost.
+Find out more details about U.S. healthcare from our updated dashboard.
+Get the best of the Health System Tracker delivered to your inbox.
+Get the best of the Health System Tracker delivered to your inbox.
+© 2025 PETERSON-KFF Health System Tracker   All Rights Reserved
+
+Links:
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/category/quality-of-care/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/interactives/
+https://www.healthsystemtracker.org/about-us/
+https://www.healthsystemtracker.org
+https://www.healthsystemtracker.org/tag/price-transparency/
+https://www.healthsystemtracker.org/tag/affordability/
+https://www.healthsystemtracker.org/tag/prescription-drugs/
+https://www.healthsystemtracker.org/tag/price-transparency/
+https://www.healthsystemtracker.org/tag/affordability/
+https://www.healthsystemtracker.org/tag/prescription-drugs/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/category/quality-of-care/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/interactives/
+https://www.healthsystemtracker.org/about-us/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.kff.org/person/shameek-rakshit/
+https://www.kff.org/person/krutika-amin/
+https://www.kff.org/person/cynthia-cox/
+https://twitter.com/cynthiaccox
+https://www.facebook.com/sharer/sharer.php?u=https://www.healthsystemtracker.org/chart-collection/cost-affect-access-care/
+http://twitter.com/share?text=How+does+cost+affect+access+to+healthcare%3F&url=https://www.healthsystemtracker.org/chart-collection/cost-affect-access-care/
+https://www.linkedin.com/sharing/share-offsite/?url=https://www.healthsystemtracker.org/chart-collection/cost-affect-access-care/
+https://www.kff.org/health-costs/issue-brief/americans-challenges-with-health-care-costs/
+https://www.kff.org/health-costs/report/kff-health-care-debt-survey/
+https://www.healthsystemtracker.org/chart-collection/u-s-life-expectancy-compare-countries/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/chart-collection/u-s-life-expectancy-compare-countries/
+https://www.healthsystemtracker.org/brief/how-many-adults-with-private-health-insurance-could-use-glp-1-drugs/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/brief/how-many-adults-with-private-health-insurance-could-use-glp-1-drugs/
+https://www.healthsystemtracker.org/chart-collection/health-expenditures-vary-across-population/
+https://www.healthsystemtracker.org/chart-collection/how-has-healthcare-utilization-changed-since-the-pandemic/
+https://www.healthsystemtracker.org/brief/many-households-do-not-have-enough-money-to-pay-cost-sharing-in-typical-private-health-plans/
+https://www.healthsystemtracker.org/chart-collection/how-has-healthcare-utilization-changed-since-the-pandemic/
+https://www.healthsystemtracker.org/chart-collection/how-have-healthcare-utilization-and-spending-changed-so-far-during-the-coronavirus-pandemic/#Year-over-year%20growth%20in%20health%20services%20spending,%20Q1%202019%20-%20Q4%202020
+https://www.healthsystemtracker.org/indicator/access-affordability/percent-uninsured/
+https://www.healthsystemtracker.org/chart-collection/how-has-healthcare-utilization-changed-since-the-pandemic/
+https://www.kff.org/medicare/issue-brief/how-will-the-prescription-drug-provisions-in-the-inflation-reduction-act-affect-medicare-beneficiaries/
+https://www.kff.org/medicare/issue-brief/explaining-the-prescription-drug-provisions-in-the-inflation-reduction-act/
+https://www.kff.org/health-costs/report/kff-health-care-debt-survey/
+https://www.healthsystemtracker.org/brief/the-burden-of-medical-debt-in-the-united-states/
+https://www.healthsystemtracker.org/brief/many-households-do-not-have-enough-money-to-pay-cost-sharing-in-typical-private-health-plans/
+https://www.healthsystemtracker.org/brief/the-burden-of-medical-debt-in-the-united-states/
+https://www.healthsystemtracker.org/about-us/
+https://petersonhealthcare.org/
+https://www.kff.org/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/brief/how-many-people-with-employer-sponsored-insurance-use-the-drugs-slated-for-medicare-price-negotiations/
+https://www.healthsystemtracker.org/brief/how-many-people-with-employer-sponsored-insurance-use-the-drugs-slated-for-medicare-price-negotiations/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/brief/surprise-billing-disputes-year-one/
+https://www.healthsystemtracker.org/brief/surprise-billing-disputes-year-one/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/dashboard/
+https://petersonhealthcare.org/
+https://www.kff.org/
+https://www.facebook.com/sharer/sharer.php?u=https://www.healthsystemtracker.org
+http://twitter.com/share?text=Peterson-KFF+Health+System+Tracker&url=https://www.healthsystemtracker.org
+https://www.linkedin.com/sharing/share-offsite/?url=https://www.healthsystemtracker.org
+https://www.healthsystemtracker.org/privacy-policy/
+https://www.healthsystemtracker.org/terms-of-use/

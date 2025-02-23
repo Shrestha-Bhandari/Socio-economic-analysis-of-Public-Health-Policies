@@ -1,0 +1,90 @@
+URL: https://www.healthsystemtracker.org/brief/charges-for-emails-with-doctors-and-other-healthcare-providers/
+Title: Charges for emails with doctors and other healthcare providers - Peterson-KFF Health System Tracker
+
+Paragraphs:
+ByJustin Lo,Krutika Amin, andCynthia CoxKFF
+March 6, 2024
+Get the best of the Health System Tracker delivered to your inbox.
+Get the best of the Health System Tracker delivered to your inbox.
+The widespread adoption of electronic health records has improved the ability for patients and providers to send secure electronic messages (emails) to each other through online portals. This trend in patient-provider messaging further accelerated early in the COVID pandemic as more patients sought medical care remotely. The addition of billing codes for digital health services and subsequent changes in insurers’ payment policies have enabled providers to bill insurers and patients for messaging.
+The introduction of these newbilling codesin 2020 facilitate physicians and other health providers billing patients and insurers for responding to patient-initiated emails requiring at least 5 minutes of a provider’s time. Providers can bill up to once a week for the total time spent per enrollee for a new medical consultation. Providers cannot bill for emails if they are related to scheduling appointments or prescription refills, sent within 7 days of a visit (in-person or virtual), or are for follow-up after procedures. Insurers can generally decide whether to impose out-of-pocket costs in cases where a provider has chosen to seek reimbursement. Using private health insurance claims data from the Health Care Cost Institute, this brief looks at claims and payments for patient-provider email messaging in 2020 and 2021. Some providers may decide to bill for email messaging, while other providers do not. Because this analysis relies on claims data, only secure emails that have a claim associated with them are included in the analysis. Email messaging that was not associated with a charge—due to provider practice, institutional policies, or ineligibility for billing—are not captured.
+The typical cost for an email messaging claim was $39 in 2021, including both the portion paid by insurance and that paid by patients. Although the health plan covered the full cost for most of these claims (82%), those patients with at least some out-of-pocket costs typically paid $25.
+The number of email messaging claims among privately insured people spiked in Spring 2020 at the onset of the COVID-19 pandemic and remained elevated in 2021 at about twice the level seen in January 2020. At the height of utilization in April 2020, there was roughly 1 email messaging claim for every 73 office-based evaluation and management visit claims (including in-person and telehealth visits). Subsequently, there was a marked decline, and the number of these claims plateaued for the remainder of 2020 and 2021, averaging about 1 for every 192 office visit claims in 2021. (This includes claims for $0). In terms of cost, the total payment for all email messaging claims was roughly 0.4% of evaluation and management office visit payments in 2021.
+Among private health plan email messaging claims with some payment in 2020 and 2021, the median payment (combined for plan and patient) was $39. Enrollee out-of-pocket cost sharing was $0 for 82% of the claims, including claims with no payment by health plan or patient. Fewer than 1 in 5 email messaging claims required enrollee out-of-pocket cost sharing. For those with some cost sharing, the median enrollee out-of-pocket payment amount was $25, with half of the claims cost sharing falling between $14 and $40.
+Health & Wellbeing
+Health Spending
+About half (56%) of email messaging claims were provided by physicians and the remainder were from non-physician providers. Of non-physician providers with email messaging claims, most (58%) were physician assistants and nurse practitioners.
+Codes for email messaging claims are categorized by the total time spent on the exchange over a 7-day period: 5-10 minutes (short duration), 11-20 minutes (moderate duration), or 21 minutes or more (long duration). Among claims associated with physicians, 43% were short duration (5-10 minutes), 36% were moderate duration, and 20% were long duration codes (21 minutes or more). The vast majority of email messaging claims submitted by non-physician providers used the long duration code (96% of these claims among non-physician providers were for 21 minutes or more).
+Among claims for emails with physicians, older patients were more likely to have charges for the long duration: 31% among those ages 55-64 years were for the long duration compared to 20% across all ages.
+A large share (37%) of provider-patient email claims included general medical consultation diagnosis codes in 2021. Other common diagnoses in secure email messaging claims related to musculoskeletal pain, counseling, or infections.
+Most email messaging claims in private health plans were billed by primary care providers with the specialty of family medicine (32.6%), internal medicine (32.3%), and pediatrics (9.8%). Among family medicine providers with a claim in the HCCI data, 7.9% had a claim for email messaging, the highest across specialties. Dermatology providers also had significant uptake of email messaging: 5.7% had an email messaging claim in the HCCI data.
+Direct messaging between healthcare providers and patients through online portals is not new, though providers’ ability to bill insurers for payment has become more common since the COVID-19 pandemic. New billing codes enabled reimbursement for communications between patients and providers. Private and public payersbeganpaying for medical consultations through emails at the beginning of the pandemic, and some evenwaivedpatient cost sharing associated for certain messages and telehealth claims.
+Billing for email messaging remained elevated in 2021 (the most recent year of data), though the volume has declined from the peak early in the pandemic when in-person services were suspended. How much billing and payment for patient-provider messages changes in the future remains to be seen. Through 2021, most private health plan email messaging claims did not include patient cost sharing. It’s unclear if private health plans will require patients to share costs for more of these in the future.
+Being able to message health providers makes medical advice more easily accessible and convenient for patients. Using email can potentiallyavoidin-person visits (similar to the potential benefits oftelehealth) but management of complex care may be difficult to navigate through email. The payment amounts for patient-provider messages is up for debate: providers argue payments aren’t enough to offset the increasedproviderworkloadassociated with patient emails and payers argue higher payments and increased volume of billing for emails could increase health premiums and overall spending.
+Health Care Cost Institute (HCCI) physician and outpatient claims data from 2020 and 2021 were used for this analysis. All claims for enrollees under age 65 with employer-sponsored insurance as the primary coverage were included. Claims for patient-provider communication through an online portal were flagged using CPT/HCPCS codes for digital evaluation and management (99421-99423, 98970-98972, and G2061-G2063).If service dates overlapped, claims were aggregated to the first date of service for each enrollee, provider, and CPT/HCPCS code combination.For comparison, outpatient office visit services were identified by CPT codes 99202-99205 and 99211-99215. In characterizing providers, only individual health providers with an NPI entity type 1 were used in the analysis, excluding organization health providers, which accounted for about 5% of the secure messaging claims. Total payments are for 2020 and 2021 combined, and out-of-pocket paid amounts are for 2021.
+The Peterson Center on Healthcare and KFF are partnering to monitor how well the U.S. healthcare system is performing in terms of quality and cost.
+Find out more details about U.S. healthcare from our updated dashboard.
+Get the best of the Health System Tracker delivered to your inbox.
+Get the best of the Health System Tracker delivered to your inbox.
+© 2025 PETERSON-KFF Health System Tracker   All Rights Reserved
+
+Links:
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/category/quality-of-care/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/interactives/
+https://www.healthsystemtracker.org/about-us/
+https://www.healthsystemtracker.org
+https://www.healthsystemtracker.org/tag/price-transparency/
+https://www.healthsystemtracker.org/tag/affordability/
+https://www.healthsystemtracker.org/tag/prescription-drugs/
+https://www.healthsystemtracker.org/tag/price-transparency/
+https://www.healthsystemtracker.org/tag/affordability/
+https://www.healthsystemtracker.org/tag/prescription-drugs/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/category/quality-of-care/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/interactives/
+https://www.healthsystemtracker.org/about-us/
+https://www.healthsystemtracker.org/category/spending/
+https://www.kff.org/person/justin-lo/
+https://www.kff.org/person/krutika-amin/
+https://www.kff.org/person/cynthia-cox/
+https://www.facebook.com/sharer/sharer.php?u=https://www.healthsystemtracker.org/brief/charges-for-emails-with-doctors-and-other-healthcare-providers/
+http://twitter.com/share?text=Charges+for+emails+with+doctors+and+other+healthcare+providers&url=https://www.healthsystemtracker.org/brief/charges-for-emails-with-doctors-and-other-healthcare-providers/
+https://www.linkedin.com/sharing/share-offsite/?url=https://www.healthsystemtracker.org/brief/charges-for-emails-with-doctors-and-other-healthcare-providers/
+https://www.ama-assn.org/practice-management/cpt/6-new-digital-health-cpt-codes-you-should-know-about
+https://www.healthsystemtracker.org/brief/how-many-adults-with-private-health-insurance-could-use-glp-1-drugs/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/brief/how-many-adults-with-private-health-insurance-could-use-glp-1-drugs/
+https://www.healthsystemtracker.org/chart-collection/u-s-spending-healthcare-changed-time/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/chart-collection/u-s-spending-healthcare-changed-time/
+https://www.cms.gov/newsroom/fact-sheets/medicare-telemedicine-health-care-provider-fact-sheet
+https://www.aafp.org/family-physician/patient-care/current-hot-topics/recent-outbreaks/covid-19/covid-19-telehealth/coding-scenarios-during-covid-19/virtual-digital.html
+https://www.liebertpub.com/doi/abs/10.1089/tmj.2021.0164
+https://www.healthsystemtracker.org/brief/telehealth-payments-similar-early-in-the-pandemic/
+https://pubmed.ncbi.nlm.nih.gov/34993875/
+https://ascopubs.org/doi/abs/10.1200/JCO.2023.41.16_suppl.1503
+https://www.healthsystemtracker.org/about-us/
+https://petersonhealthcare.org/
+https://www.kff.org/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/chart-collection/how-much-is-health-spending-expected-to-grow/
+https://www.healthsystemtracker.org/chart-collection/how-much-is-health-spending-expected-to-grow/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/brief/how-does-medical-inflation-compare-to-inflation-in-the-rest-of-the-economy/
+https://www.healthsystemtracker.org/brief/how-does-medical-inflation-compare-to-inflation-in-the-rest-of-the-economy/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/dashboard/
+https://petersonhealthcare.org/
+https://www.kff.org/
+https://www.facebook.com/sharer/sharer.php?u=https://www.healthsystemtracker.org
+http://twitter.com/share?text=Peterson-KFF+Health+System+Tracker&url=https://www.healthsystemtracker.org
+https://www.linkedin.com/sharing/share-offsite/?url=https://www.healthsystemtracker.org
+https://www.healthsystemtracker.org/privacy-policy/
+https://www.healthsystemtracker.org/terms-of-use/

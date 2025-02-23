@@ -1,0 +1,102 @@
+URL: https://www.healthsystemtracker.org/chart-collection/beyond-cost-what-barriers-to-health-care-do-consumers-face/
+Title: Beyond cost, what barriers to health care do consumers face? - Peterson-KFF Health System Tracker
+
+Paragraphs:
+ByImani Telesford,Aubrey Winger, andMatthew RaeTwitter
+August 22, 2024
+Get the best of the Health System Tracker delivered to your inbox.
+Get the best of the Health System Tracker delivered to your inbox.
+Most adults (91%) have health insurance, and the majority (85% of adults) self-report their health status as at least good. However, many adults face barriers accessing medical care. High cost-sharing and expenses not covered by insurance leave some with expensive medical bills. Many adults face additional barriers accessing needed healthcare. Long appointment wait times, difficulty finding in-network providers and challenges traveling to providers at convenient times may lead some to delay or skip care.
+This chart collection examines barriers that impact access to health care in the U.S. using the 2022 National Health Interview Survey (NHIS). The survey asked adults whether they delayed or did not get medical care during the preceding 12 months. This analysis focuses on four access challenges, including difficulties finding a doctor who accepts insurance, finding an available appointment, getting to the provider or clinic when they were open and travel times to the provider. (Additionally, findings on the challenges making time to seek services are reported separately.) These non-financial barriers may originate for various reasons, including narrow plan networks, provider workforce shortages, and challenges balancing work schedules.
+More than 1 in 4 adults (28%) reported delaying or going without either medical care, prescription drugs, mental health care, or dental care due to cost in 2022. Fifteen percent of adults reported foregoing medical care, prescription drugs, or mental health care due to cost.
+While cost can present a significant access barrier, other barriers to care may be consequential for people’s access. As shown in the following charts, the impact of these barriers may vary with one’s age, insurance type, and health needs.
+Overall, 17% of adults under the age of 65 experienced at least one access to care barrier in 2022 aside from cost. Of the reported reasons, 12% said it was because a doctor’s appointment wasn’t available, 5% said it was because they couldn’t find a doctor that accepted their insurance, 5% said it was because they couldn’t get to the doctor’s office or clinic when it was open, and 3% said it was because it took too long to get to the doctor’s office or clinic from their house or work.
+Health & Wellbeing
+Access & Affordability
+Adults aged 18 to 64 years old are more likely to encounter one of these access barriers than adults aged 65 years and older. On average, 17% of adults aged 18 to 29, 17% of those aged 30 to 49 years old, and 15% of those aged 50 to 54 years old, cite at least one of the above access barriers. By contrast, older adults, aged 65 years and older, are less likely to report an access barrier (10%).
+Work, child-care and other commitments can reduce the amount of time individuals have available to prioritize medical care. In addition, NHIS asked whether adults had delayed care during the preceding 12 months because they were too busy with work or other commitments to take the time. Young and middle-aged adults are more likely to report that there was a time they delayed care because they were too busy with work or other commitments to take the time; (17% for those 18-29 years old and 18% for those 30-49 years old versus 3% for those 65 years and older). Including challenges making the time to seek care, a total of 22% of adults and 24% of non-elderly adults reported at least one access to care barrier.
+Non-financial barriers to health care are less common among adults ages 65 and older than among younger adults. Virtually all people ages 65 and older are covered by Medicare, either traditional Medicare or Medicare Advantage. Most traditional Medicare beneficiaries have an additional supplementalsource of coverage, such as Medicaid, retiree health benefits, or Medigap. Beneficiaries in traditional Medicare have access to a relatively broad choice of physicians and other health care providers, whileMedicare Advantageenrollees are limited to in-network providers or pay more to see out-of-network providers. In general, Medicare beneficiaries reporthigheror similar access than those on other forms of coverage. Given the higher share of non-elderly people reporting access barriers in NHIS, the charts that follow focus on adults between the ages 18 and 64 years old.
+The types of barriers faced by adults vary by their coverage. This may reflect both differences in the characteristics of people enrolled in different types of coverage, and differences in the plans themselves. Adults enrolled in Medicaid are more likely to face access barriers than those with another form of coverage. Among adults enrolled in Medicaid, 24% reported at least one of the above four access to care barriers, compared to 18% for those on non-group coverage, and 15% for those covered by an employer-sponsored insurance plan.
+In both non-group plans, such as Marketplace, and Medicaid plans, a larger proportion of individuals reported difficulty finding a doctor who accepted their coverage compared to those with employer sponsored plans. Additionally, over 10% of enrollees across coverage types said they had to delay or skip care because appointments were not available. These higher shares may reflect limited provider networks available to many Medicaid and Marketplace enrollees. Plans vary in the breadth of provider networks, with some using relatively narrow networks to reduce cost. The health coverage for those covered by Medicaid may be managed by a Medicaid Managed Care organization, which establish provider networks and may require enrollees obtain referrals to see specialists. In other cases, Medicaid beneficiaries may not have provider networks, but may have a limited choice of providers who accept Medicaid.
+Access barriers can reflect the socioeconomic status and health profiles of enrollees rather than intentional features of plan design. For instance, Medicaid beneficiaries generally have lower incomes and higher rates of chronic illness compared to those with private insurance coverage. Additionally, higher shares of those on Medicaid do not have access to avehicle, and may face more challenges getting to a doctor’s office, as well as affording child care.
+While Medicaid enrollees encounter more non-financial access barriers, enrollees areless likelyto report cost-related insurance problems than those with non-group coverage and ESI. For example, those on Medicaid are less likely to report that their insurance did not pay for care they received that they thought was covered than those on an employer-sponsored plan or the Marketplaces (12% vs. 21% and 20%). Looking at other measures of healthcare access,similar sharesof adults enrolled in Medicaid and those with private insurance do not have a usual source of care.
+While virtually everyone uses healthcare services during their lifetime, many people use no services in any given year. People requiring care use their coverage more often and are more likely to encounter challenges accessing care. Among non-elderly adults who went to a hospital or an emergency room in 2022, 26% reported at least one of the above access to care barriers. Additionally, 19% of those who visited an emergency room or hospital in the past year reported that a doctor’s appointment was not available, and 8% reported that they were unable to find a doctor that takes their insurance.
+The likelihood of encountering an access barrier varies for non-elderly adults with different insurance coverages. Among those who visited an emergency room or were admitted to the hospital, Medicaid enrollees were the most likely to report one of the listed access to care barriers (34%).
+Demand for mental health servicesincreasedduring the pandemic,exacerbatinglong standing shortages of mental health care providers. In many areas, there are not enough mental health providers to meet thedemandfor services. A higher share of those in treatment for a mental health conditionencounterone of the listedaccess barriers. Amongadults under 65who received counseling or therapy from a mental health professional in the previous 12 months,29%encounteredat least oneof the aboveaccess barriers, compared to14%among those who did notreceive mental healththerapy.Similarly, those who took a prescription medication to help with concentration, behavior or mental health during the prior 12 monthsaremore likely to face an access barrier (28% vs.16%).Forsomeof these patients, these access to care barriers stem from insufficient networkcoverage of mental health serviceswithintheirhealth insurance plan.If plans do not cover a broad spectrum of mental health professionals, it can be difficult for patients to findaffordable doctors with available appointments.Among those who received counseling or therapy from a mental health professional in the previous 12 months,20% reported appointments not being available,compared to10% among those who did not.In addition,11% of those whotooka mental health related prescription in the last 12 monthswere unable to find a doctor that accepts their insurance, compared to 5% who did not.
+Those in poor health may require more frequent access to health care facilities for timely treatment and management of their conditions. Individuals who reported having fair or poor health were more likely to report facing an access barrier. Of non-elderly adults with fair or poor health, 28% reported at least one of the listed access barriers while 15% of adults in very good or excellent health reported an access barrier. Individuals in fair/poor health were more likely to encounter difficulties in traveling to provider’s office as well, either due to it taking too long to travel there or being unable to go during operating hours (7% and 11% respectively).
+
+Skipping and delaying needed health services may have detrimental health consequences. For many, barriers to accessing care extend beyond the cost of medical services. A comprehensive understanding of healthcare access requires considering non-financial obstacles that lead people to skip care.Social determinantsof health, including income, may impact an individual’s ability to obtain medical care.
+The National Health Interview Survey is a cross-sectional household interview survey that uses geographically clustered sampling techniques to select the sample of dwelling units. One “sample adult” and one “sample child” (if applicable) are randomly chosen from each household. For this analysis, only the adult interview data was used. The sample is the civilian noninstitutionalized population of the United States.  More information on NHIS can be foundhere.
+
+The Peterson Center on Healthcare and KFF are partnering to monitor how well the U.S. healthcare system is performing in terms of quality and cost.
+Find out more details about U.S. healthcare from our updated dashboard.
+Get the best of the Health System Tracker delivered to your inbox.
+Get the best of the Health System Tracker delivered to your inbox.
+© 2025 PETERSON-KFF Health System Tracker   All Rights Reserved
+
+Links:
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/category/quality-of-care/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/interactives/
+https://www.healthsystemtracker.org/about-us/
+https://www.healthsystemtracker.org
+https://www.healthsystemtracker.org/tag/price-transparency/
+https://www.healthsystemtracker.org/tag/affordability/
+https://www.healthsystemtracker.org/tag/prescription-drugs/
+https://www.healthsystemtracker.org/tag/price-transparency/
+https://www.healthsystemtracker.org/tag/affordability/
+https://www.healthsystemtracker.org/tag/prescription-drugs/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/category/quality-of-care/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/interactives/
+https://www.healthsystemtracker.org/about-us/
+https://www.healthsystemtracker.org/category/access-affordability/
+
+https://www.kff.org/person/aubrey-winger/
+https://www.kff.org/person/matthew-rae/
+https://twitter.com/matthew_t_rae
+https://www.facebook.com/sharer/sharer.php?u=https://www.healthsystemtracker.org/chart-collection/beyond-cost-what-barriers-to-health-care-do-consumers-face/
+http://twitter.com/share?text=Beyond+cost%2C+what+barriers+to+health+care+do+consumers+face%3F&url=https://www.healthsystemtracker.org/chart-collection/beyond-cost-what-barriers-to-health-care-do-consumers-face/
+https://www.linkedin.com/sharing/share-offsite/?url=https://www.healthsystemtracker.org/chart-collection/beyond-cost-what-barriers-to-health-care-do-consumers-face/
+https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Dataset_Documentation/NHIS/2022/adult-codebook.pdf
+https://www.healthsystemtracker.org/brief/how-many-adults-with-private-health-insurance-could-use-glp-1-drugs/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/brief/how-many-adults-with-private-health-insurance-could-use-glp-1-drugs/
+https://www.healthsystemtracker.org/brief/medical-debt-among-new-mothers/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/brief/medical-debt-among-new-mothers/
+https://www.kff.org/medicare/issue-brief/a-snapshot-of-sources-of-coverage-among-medicare-beneficiaries/
+https://www.kff.org/medicare/issue-brief/medicare-advantage-in-2023-enrollment-update-and-key-trends/
+https://www.medpac.gov/wp-content/uploads/2024/06/Jun24_MedPAC_Report_To_Congress_SEC.pdf
+https://www.urban.org/sites/default/files/2023-04/More%20than%20One%20in%20Five%20Adults%20with%20Limited%20Public%20Transit%20Access%20Forgo%20Health%20Care%20Because%20of%20Transportation%20Barriers.pdf
+https://www.kff.org/medicaid/issue-brief/a-look-at-navigating-the-health-care-system-medicaid-consumer-perspectives/
+https://www.kff.org/medicaid/issue-brief/a-look-at-navigating-the-health-care-system-medicaid-consumer-perspectives/#figure5
+https://www.kff.org/uninsured/issue-brief/key-facts-about-the-uninsured-population/#figure9
+https://www.kff.org/mental-health/issue-brief/the-implications-of-covid-19-for-mental-health-and-substance-use/
+https://www.kff.org/mental-health/issue-brief/how-does-use-of-mental-health-care-vary-by-demographics-and-health-insurance-coverage/
+https://www.kff.org/racial-equity-and-health-policy/issue-brief/beyond-health-care-the-role-of-social-determinants-in-promoting-health-and-health-equity/
+https://www.cdc.gov/nchs/nhis/index.htm
+https://www.healthsystemtracker.org/about-us/
+https://petersonhealthcare.org/
+https://www.kff.org/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/chart-collection/trends-in-employer-based-health-coverage/
+https://www.healthsystemtracker.org/chart-collection/trends-in-employer-based-health-coverage/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/brief/how-financially-vulnerable-are-people-with-medical-debt/
+https://www.healthsystemtracker.org/brief/how-financially-vulnerable-are-people-with-medical-debt/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/dashboard/
+https://petersonhealthcare.org/
+https://www.kff.org/
+https://www.facebook.com/sharer/sharer.php?u=https://www.healthsystemtracker.org
+http://twitter.com/share?text=Peterson-KFF+Health+System+Tracker&url=https://www.healthsystemtracker.org
+https://www.linkedin.com/sharing/share-offsite/?url=https://www.healthsystemtracker.org
+https://www.healthsystemtracker.org/privacy-policy/
+https://www.healthsystemtracker.org/terms-of-use/

@@ -1,0 +1,114 @@
+URL: https://www.healthsystemtracker.org/brief/how-much-and-why-aca-marketplace-premiums-are-going-up-in-2025/
+Title: How much and why ACA Marketplace premiums are going up in 2025 - Peterson-KFF Health System Tracker
+
+Paragraphs:
+ByJared Ortaliza,Matthew McGough,Anna Cord, andCynthia CoxKFF
+August 2, 2024
+Get the best of the Health System Tracker delivered to your inbox.
+Get the best of the Health System Tracker delivered to your inbox.
+Health insurers submit rate filings annually to state regulators detailing expectations and rate changes for Affordable Care Act (ACA)-regulated health plans for the coming year. A relatively small, butgrowing, share of the population is enrolled in these plans (compared to the number in employer plans). However, these filings are generally more detailed and publicly available. These filings provide insight into what factors insurers expect will drive health costs for the coming year.
+For 2025, across 324 insurers participating in the 50 states and DC, this analysis shows a median proposed premium increase of 7%, which is similar tolast year. Based on a more detailed analysis of publicly available documents from insurers in 10 states and DC, growth in health care prices stood out as a key factor driving costs in 2024. In addition to inflation, some insurers also mention increased utilization of weight loss and other specialty drugs as influencing premiums. Pandemic-related costs and the unwinding of Medicaid continuous coverage are having little, if any, impact on individual market premiums for 2025.
+Among the 324 ACA Marketplace participating insurers nationally, premium changes range from a drop of -14% to an increase of 51%, but most proposed premium changes for 2025 fall between about 2% and 10% (the 25th and 75th percentile, respectively). Of the 324 insurer filings, 50 insurers proposed decreasing premiums. On the other end of the spectrum, 85 insurers requested premium increases greater than 10%. These filings are preliminary and may change during the rate review process. 2025 rates will be finalized in late summer. A table in the appendix shows proposed premium increases by state and insurer.
+There are a number of ways to assess premium changes in this market. In this analysis, a premium increase for a given insurer is its weighted average percent change across all of its products within a state (i.e., bronze, silver, gold and platinum plans). These weighted average premium changes differ from the percent change in thebenchmark silver plan, which is the basis for federal subsidies. For context, the median proposed rate increase was 6% in2024, while the average increase in benchmark silver premiums was5%in 2024.  The vast majority of enrollees in this market receive a subsidy and are not expected to face these premium increases. Nonetheless, premium increases generally result in higher federal spending on subsidies.
+Figure 1 above shows premium changes for 324 insurers across all 50 states and DC. For the subsequent sections, this analysis focuses on a subset of these rate filings (61 insurers across 10 states and DC), which we review in more detail to understand the factors driving premium changes in 2025. These insurers and states were selected because they have earlier and more transparent (less redacted) public reporting of proposed rate justifications. For context, though, across the 10 states and DC reviewed in this section, insurers have somewhat higher proposed rate increases, with a median of 9%.
+Health & Wellbeing
+Health Spending
+Medical trend, the growth in cost and utilization of healthcare services and medication, continues to be a prominent driver of premium changes in 2025. This year, increases in the prices insurers are paying for medical care tend to play a larger role in premium growth than growth in the utilization of care. Of the insurer rate filings reviewed in detail from 10 states and DC with publicly quantified annualized medical trend, the median medical trend was 8%, with most insurers having a trend of around 7-10%. In most years,medical inflationtypically outpaces general economic inflation, but through much of 2021 to 2023, inflation in the rest of the economy was so high that it was outpacing growth in medical prices. By mid-2024, general economic inflation has cooled, and medical inflation has picked up and now exceeds the growth of non-medical prices. This delayed effect is expected: As contracts between insurers and providers are typically negotiated for a year or more, medical inflation often lags that in the rest of the economy.
+“…it is necessary that we adjust our 2025 premium rates for a number of reasons, including increased medical costs, increased utilization of higher-cost specialty drugs, and inflationary factors that are leading to increasedpayments to hospitals.”– Independent Health Benefits Corporation (NY)
+“The unit cost inflation is higher than it has been historically and is driven by hospital systems and health care providers demanding higher contracted reimbursement rates.”– Lifewise Health Plan of Washington (WA)
+Looking ahead to 2025, some insurers say general economic inflation has put pressure on their own staffing costs as well. So, in addition to medical prices increasing, insurer overhead costs are, too.
+“In light of continued inflationary pressures, Blue Cross VT believes that an overall administrative expenses annual trend of 4.0 percent reflects the expected growth in costs.”– Blue Cross Blue Shield of Vermont (VT)
+“Costs are expected to increase due to inflation and cost-of-living adjustments to employee compensation.”– Kaiser Foundation Health Plan of Washington (WA)
+In addition to the pressure from general economic inflation, hospital market consolidation and workforce shortages are also having an inflationary impact on health insurance premiums in 2025.
+“Many of these [hospital] systems are asking for large increases for services (some requesting double digit annual increases) and have shown a willingness to allow our contracts to expire. Because of the limited competition and regional monopolies some health care providers have achieved, there is reduced market pressure for these systems to innovate new, more efficient practices.”– Premera Blue Cross (WA)
+“Despite these efforts, CDPHP and its competitors continue to face financial headwinds, due largely to… rising hospital consolidation and staffing shortages…”– Regence Blue Cross Blue Shield of Oregon (WA)
+“Like other payers, Moda is experiencing pressures on multiple fronts related to health care worker labor shortages. With providers experiencing post-pandemic inflationary pressures, they are seeking increases that generally exceed previous years’ requests.”– Moda Health Plan, Inc. (OR)
+“Local hospital systems have been challenged financially due to both economic inflationary pressures as well as staffing shortages. Excellus Health Plan has responded to these provider challenges through additional contractual cost increases for our provider systems, resulting in more spending for hospital services.”– Excellus Health Plan, Inc. (NY)
+The growing demand for GLP-1 drugs like Ozempic and Wegovy, which are used for diabetes treatment and weight loss, is having an upward effect on prescription drug spending. ACA Marketplace insurers employ a variety of strategies like prior authorization, step therapy, and quantity limits tomanage utilizationof Ozempic and other GLP-1s that are approved for diabetes but have potential for off-label use to lose weight. Relatively few ACA Marketplace insurers cover Wegovy and other drugs that are approved only for weight loss. Nonetheless, several insurers specifically call out GLP-1s as contributing to premium increases in 2025. Below are some examples:
+“The pharmacy trend, especially cost, is heavily influenced by the impact of GLP-1 drugs and their use in diabetics treatment as well as the expectation for continued use with the approval for expanded indications.”– Priority Health (MI)
+“For the 2025 filing, the [Average Rx New Treatment] factor reflects the anticipated notable impact of new generic and high-cost drugs in 2024-2025, as well as consideration for the significant increase in utilization of the glucagon-like peptide-1 (GLP-1) drugs that we began to see in 2023.”– Blue Cross Blue Shield of Rhode Island (RI)
+“In this projection period, there are several factors driving high pharmacy trends, specifically: 2023 and early 2024 emerging experience, Increased manufacturer brand and specialty pricing, Increased use of GLP-1s for diabetic therapy, and autoimmune drugs”– Blue Care Network of Michigan (MI)
+“The higher cost trend filed reflects the expected change in mix from the older and less expensive GLP-1 drugs such as Ozempic and Trulicity, to the higher cost drugs (Wegovy, Mounjaro, and Zepbound) introduced in 2022 and 2023. We expect the percentage of days supply to continue to shift to the more expensive GLP-1s through 2025 and are reflecting this by applying a cost trend of 14.8 percent, instead of the 7.3 percent cost trend applied to other brand drugs.”– Blue Cross Blue Shield of Vermont (VT)
+In addition to GLP-1 drugs, other specialty drugs and biologics, including new gene therapies, are also becoming more prevalent and more costly, which is driving premiums upward.
+“Specialty drug trends are expected to increase as more breakthrough gene and cellular products enter the market.”– Anthem HP, LLC (NY)
+“Rising drug prices are having a significant impact on overall medical spending trends… However, the savings trend associated with generics is being eclipsed by another trend around the rising cost and utilization of specialty medications including biologics. Every year more and more highly complex specialty medications are approved by the FDA to treat both rare and sometimes more common diseases. Specialty medications are used by approximately 2 percent of our members, but they account for more than 50 percent of total drug spend. Drug trend is a result of both increased utilization and increased unit cost.”– Excellus Health Plan, Inc. (NY)
+“…rapidly rising prescription drug costs, which are being driven by increased demand for weight loss medications and the emergence of cell and gene therapies…”– Capital District Physicians Health Plan (NY)
+“This trend amount also includes the impact of the gene therapy adjustment… which reflects an estimate for the projected costs of new gene therapy treatments that will occur in 2025”– Blue Cross Blue Shield of Rhode Island
+In reviewing the 61 insurer filings in depth, we searched for a number of other potential drivers of premiums. We found that the following factors had little to no impact on premiums for 2025.
+In April 2023, states started unwinding the Medicaid continuous enrollment provision that had allowed Medicaid enrollees to maintain their coverage through the COVID-19 pandemic. As of June 2024, at least 23 million people have beendisenrolledfrom Medicaid. So far, severalmillionrecent Medicaid enrollees had transitioned onto ACA Marketplace coverage.
+A number of insurers mention the Medicaid continuous enrollment unwinding in their 2025 rate filings, however, most of them either do not quantify the impact it is having on their premiums or say that the impact is zero or near zero. In two of the rate filings we reviewed, insurers said the Medicaid unwinding is having a significant upward effect on their 2025 premiums (about 1-2%) and two insurers said it is having a significant downward effect (about -1%).
+Similarly, about half of the insurers rate filings reviewed in detail mentioned some aspect of the COVID-19 pandemic (for example, vaccines, treatment, and tests). However, most insurers say the impact of COVID-19 on their 2025 premiums is zero or near zero, suggesting a steady state relative to the base period (2023).
+Recent surprise billlegislationholds patients harmless for the extra costs associated with unexpected out-of-network care. So far, mostpayment determinationshave been in favor of providers (as opposed to insurers), which could have an upward effect on insurer costs. Of the insurer rate filings reviewed in depth, though, only one (MetroPlus Health Plan of New York) mentioned the effect of the No Surprises Act, stating,“Out of network emergency care usage levels were evaluated for the impact of legislation limiting surprise billing; no adjustment is made.”
+Both the Trump and Biden Administrations have worked to improve transparency of healthcare prices, which could have an effect on provider and insurer negotiations. However, insurers did not meaningfully reference the impact of price transparency rules on their premiums. Only a handful alluded to the existence of consumer-oriented price transparency tools.
+Proposed rates were collected from RateReview.Healthcare.gov for 324 insurers across 50 states and Washington, DC. Additionally, 61 insurer actuarial memoranda were collected from state rate review websites and were comprehensively reviewed to understand the factors contributing to rate changes. These 61 insurers were from the following Marketplaces: District of Columbia, Hawaii, Indiana, Maryland, Maine, Michigan, New York, Oregon, Rhode Island, Vermont, Washington. Insurer actuarial memoranda were systematically evaluated for key words related to, but not limited to, medical trend, COVID-19, Medicaid redeterminations, Inflation Reduction Act subsidies, surprise billing, specialty medicine, telehealth, price transparency, market consolidation, and diabetes or weight loss drugs. Recorded medical trend values reported here are annualized.
+The Peterson Center on Healthcare and KFF are partnering to monitor how well the U.S. healthcare system is performing in terms of quality and cost.
+Find out more details about U.S. healthcare from our updated dashboard.
+Get the best of the Health System Tracker delivered to your inbox.
+Get the best of the Health System Tracker delivered to your inbox.
+© 2025 PETERSON-KFF Health System Tracker   All Rights Reserved
+
+Links:
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/category/quality-of-care/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/interactives/
+https://www.healthsystemtracker.org/about-us/
+https://www.healthsystemtracker.org
+https://www.healthsystemtracker.org/tag/price-transparency/
+https://www.healthsystemtracker.org/tag/affordability/
+https://www.healthsystemtracker.org/tag/prescription-drugs/
+https://www.healthsystemtracker.org/tag/price-transparency/
+https://www.healthsystemtracker.org/tag/affordability/
+https://www.healthsystemtracker.org/tag/prescription-drugs/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/category/quality-of-care/
+https://www.healthsystemtracker.org/category/access-affordability/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/interactives/
+https://www.healthsystemtracker.org/about-us/
+https://www.healthsystemtracker.org/category/spending/
+https://www.kff.org/person/jared-ortaliza/
+https://www.kff.org/person/matt-mcgough/
+
+https://www.kff.org/person/cynthia-cox/
+https://www.facebook.com/sharer/sharer.php?u=https://www.healthsystemtracker.org/brief/how-much-and-why-aca-marketplace-premiums-are-going-up-in-2025/
+http://twitter.com/share?text=How+much+and+why+ACA+Marketplace+premiums+are+going+up+in+2025&url=https://www.healthsystemtracker.org/brief/how-much-and-why-aca-marketplace-premiums-are-going-up-in-2025/
+https://www.linkedin.com/sharing/share-offsite/?url=https://www.healthsystemtracker.org/brief/how-much-and-why-aca-marketplace-premiums-are-going-up-in-2025/
+https://www.kff.org/affordable-care-act/issue-brief/inflation-reduction-act-health-insurance-subsidies-what-is-their-impact-and-what-would-happen-if-they-expire/
+https://www.healthsystemtracker.org/brief/how-much-and-why-2024-premiums-are-expected-to-grow-in-affordable-care-act-marketplaces/#Distribution%20of%20proposed%202024%20rate%20changes%20among%20322%20reviewed%20ACA%20marketplace%20insurers%C2%A0
+https://www.kff.org/affordable-care-act/state-indicator/marketplace-average-benchmark-premiums/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D
+https://www.healthsystemtracker.org/brief/how-much-and-why-2024-premiums-are-expected-to-grow-in-affordable-care-act-marketplaces/#Distribution%20of%20proposed%202024%20rate%20changes%20among%20322%20reviewed%20ACA%20marketplace%20insurers%C2%A0
+https://www.kff.org/affordable-care-act/state-indicator/percent-change-in-average-marketplace-premiums-by-metal-tier/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D
+https://www.healthsystemtracker.org/chart-collection/u-s-life-expectancy-compare-countries/
+https://www.healthsystemtracker.org/category/health-well-being/
+https://www.healthsystemtracker.org/chart-collection/u-s-life-expectancy-compare-countries/
+https://www.healthsystemtracker.org/chart-collection/how-much-is-health-spending-expected-to-grow/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/chart-collection/how-much-is-health-spending-expected-to-grow/
+https://www.healthsystemtracker.org/brief/how-does-medical-inflation-compare-to-inflation-in-the-rest-of-the-economy/
+https://www.healthsystemtracker.org/brief/insurer-strategies-to-control-costs-associated-with-weight-loss-drugs/
+https://www.kff.org/medicaid/issue-brief/medicaid-enrollment-and-unwinding-tracker/#medicaid-disenrollments
+https://www.medicaid.gov/resources-for-states/coronavirus-disease-2019-covid-19/unwinding-and-returning-regular-operations-after-covid-19/data-reporting/monthly-data-reports/index.html
+https://www.kff.org/affordable-care-act/issue-brief/no-surprises-act-implementation-what-to-expect-in-2022/
+https://www.healthsystemtracker.org/brief/surprise-billing-disputes-year-one/
+https://www.healthsystemtracker.org/about-us/
+https://petersonhealthcare.org/
+https://www.kff.org/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/brief/charges-for-emails-with-doctors-and-other-healthcare-providers/
+https://www.healthsystemtracker.org/brief/charges-for-emails-with-doctors-and-other-healthcare-providers/
+https://www.healthsystemtracker.org/category/spending/
+https://www.healthsystemtracker.org/chart-collection/what-are-the-recent-trends-in-health-utilization-and-spending/
+https://www.healthsystemtracker.org/chart-collection/what-are-the-recent-trends-in-health-utilization-and-spending/
+https://www.healthsystemtracker.org/dashboard/
+https://www.healthsystemtracker.org/dashboard/
+https://petersonhealthcare.org/
+https://www.kff.org/
+https://www.facebook.com/sharer/sharer.php?u=https://www.healthsystemtracker.org
+http://twitter.com/share?text=Peterson-KFF+Health+System+Tracker&url=https://www.healthsystemtracker.org
+https://www.linkedin.com/sharing/share-offsite/?url=https://www.healthsystemtracker.org
+https://www.healthsystemtracker.org/privacy-policy/
+https://www.healthsystemtracker.org/terms-of-use/
