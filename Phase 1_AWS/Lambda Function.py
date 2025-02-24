@@ -4,9 +4,9 @@ import json
 import os
 
 # AWS S3 Configuration
-S3_BUCKET_NAME = "worldbank-datasets-bucket"  # Change this if needed
-JSON_FILE_PATH = "data link/datasets.json"  # Updated path to JSON in S3
-TMP_DIR = "/tmp/"  # AWS Lambda's temporary storage
+S3_BUCKET_NAME = "worldbank-datasets-bucket" 
+JSON_FILE_PATH = "data link/datasets.json" 
+TMP_DIR = "/tmp/" 
 
 # Initialize AWS S3 client
 s3_client = boto3.client("s3")
