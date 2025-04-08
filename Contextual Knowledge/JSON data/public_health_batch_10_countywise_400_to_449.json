@@ -1,0 +1,1502 @@
+[
+  {
+    "paper_id": "RP1400",
+    "title": "Socio-economic and Health Disparities in Los Angeles County, California",
+    "author": "Author A. B.",
+    "publication_year": 2022,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1400",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Los Angeles County, California on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 111221,
+      "data_years": "2019\u20132022",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Los Angeles County, California. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Los Angeles County, California include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Los Angeles County, California Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1401",
+    "title": "Socio-economic and Health Disparities in Cook County, Illinois",
+    "author": "Author B. C.",
+    "publication_year": 2023,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1401",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Cook County, Illinois on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 246967,
+      "data_years": "2020\u20132023",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Cook County, Illinois. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Cook County, Illinois include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Cook County, Illinois Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1402",
+    "title": "Socio-economic and Health Disparities in Harris County, Texas",
+    "author": "Author C. D.",
+    "publication_year": 2021,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1402",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Harris County, Texas on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 121830,
+      "data_years": "2018\u20132021",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Harris County, Texas. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Harris County, Texas include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Harris County, Texas Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1403",
+    "title": "Socio-economic and Health Disparities in Maricopa County, Arizona",
+    "author": "Author D. E.",
+    "publication_year": 2021,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1403",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Maricopa County, Arizona on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 278726,
+      "data_years": "2018\u20132021",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Maricopa County, Arizona. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Maricopa County, Arizona include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Maricopa County, Arizona Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1404",
+    "title": "Socio-economic and Health Disparities in San Diego County, California",
+    "author": "Author E. F.",
+    "publication_year": 2016,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1404",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in San Diego County, California on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 201621,
+      "data_years": "2013\u20132016",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in San Diego County, California. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for San Diego County, California include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "San Diego County, California Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1405",
+    "title": "Socio-economic and Health Disparities in Orange County, California",
+    "author": "Author F. G.",
+    "publication_year": 2015,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1405",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Orange County, California on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 143636,
+      "data_years": "2012\u20132015",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Orange County, California. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Orange County, California include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Orange County, California Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1406",
+    "title": "Socio-economic and Health Disparities in Kings County, New York",
+    "author": "Author G. H.",
+    "publication_year": 2018,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1406",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Kings County, New York on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 258774,
+      "data_years": "2015\u20132018",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Kings County, New York. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Kings County, New York include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Kings County, New York Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1407",
+    "title": "Socio-economic and Health Disparities in Miami-Dade County, Florida",
+    "author": "Author H. I.",
+    "publication_year": 2017,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1407",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Miami-Dade County, Florida on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 199977,
+      "data_years": "2014\u20132017",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Miami-Dade County, Florida. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Miami-Dade County, Florida include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Miami-Dade County, Florida Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1408",
+    "title": "Socio-economic and Health Disparities in Dallas County, Texas",
+    "author": "Author I. J.",
+    "publication_year": 2021,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1408",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Dallas County, Texas on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 155766,
+      "data_years": "2018\u20132021",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Dallas County, Texas. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Dallas County, Texas include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Dallas County, Texas Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1409",
+    "title": "Socio-economic and Health Disparities in Queens County, New York",
+    "author": "Author J. K.",
+    "publication_year": 2020,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1409",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Queens County, New York on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 240334,
+      "data_years": "2017\u20132020",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Queens County, New York. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Queens County, New York include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Queens County, New York Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1410",
+    "title": "Socio-economic and Health Disparities in Clark County, Nevada",
+    "author": "Author K. L.",
+    "publication_year": 2022,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1410",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Clark County, Nevada on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 221756,
+      "data_years": "2019\u20132022",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Clark County, Nevada. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Clark County, Nevada include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Clark County, Nevada Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1411",
+    "title": "Socio-economic and Health Disparities in Tarrant County, Texas",
+    "author": "Author L. M.",
+    "publication_year": 2015,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1411",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Tarrant County, Texas on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 205293,
+      "data_years": "2012\u20132015",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Tarrant County, Texas. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Tarrant County, Texas include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Tarrant County, Texas Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1412",
+    "title": "Socio-economic and Health Disparities in Bexar County, Texas",
+    "author": "Author M. N.",
+    "publication_year": 2018,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1412",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Bexar County, Texas on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 206951,
+      "data_years": "2015\u20132018",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Bexar County, Texas. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Bexar County, Texas include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Bexar County, Texas Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1413",
+    "title": "Socio-economic and Health Disparities in Wayne County, Michigan",
+    "author": "Author N. O.",
+    "publication_year": 2021,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1413",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Wayne County, Michigan on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 166525,
+      "data_years": "2018\u20132021",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Wayne County, Michigan. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Wayne County, Michigan include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Wayne County, Michigan Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1414",
+    "title": "Socio-economic and Health Disparities in Santa Clara County, California",
+    "author": "Author O. P.",
+    "publication_year": 2019,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1414",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Santa Clara County, California on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 96135,
+      "data_years": "2016\u20132019",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Santa Clara County, California. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Santa Clara County, California include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Santa Clara County, California Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1415",
+    "title": "Socio-economic and Health Disparities in Broward County, Florida",
+    "author": "Author P. Q.",
+    "publication_year": 2018,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1415",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Broward County, Florida on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 163657,
+      "data_years": "2015\u20132018",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Broward County, Florida. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Broward County, Florida include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Broward County, Florida Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1416",
+    "title": "Socio-economic and Health Disparities in King County, Washington",
+    "author": "Author Q. R.",
+    "publication_year": 2020,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1416",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in King County, Washington on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 82861,
+      "data_years": "2017\u20132020",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in King County, Washington. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for King County, Washington include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "King County, Washington Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1417",
+    "title": "Socio-economic and Health Disparities in Riverside County, California",
+    "author": "Author R. S.",
+    "publication_year": 2019,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1417",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Riverside County, California on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 256964,
+      "data_years": "2016\u20132019",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Riverside County, California. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Riverside County, California include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Riverside County, California Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1418",
+    "title": "Socio-economic and Health Disparities in San Bernardino County, California",
+    "author": "Author S. T.",
+    "publication_year": 2023,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1418",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in San Bernardino County, California on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 277817,
+      "data_years": "2020\u20132023",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in San Bernardino County, California. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for San Bernardino County, California include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "San Bernardino County, California Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1419",
+    "title": "Socio-economic and Health Disparities in Shelby County, Tennessee",
+    "author": "Author T. U.",
+    "publication_year": 2015,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1419",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Shelby County, Tennessee on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 134506,
+      "data_years": "2012\u20132015",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Shelby County, Tennessee. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Shelby County, Tennessee include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Shelby County, Tennessee Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1420",
+    "title": "Socio-economic and Health Disparities in Philadelphia County, Pennsylvania",
+    "author": "Author U. V.",
+    "publication_year": 2019,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1420",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Philadelphia County, Pennsylvania on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 89148,
+      "data_years": "2016\u20132019",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Philadelphia County, Pennsylvania. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Philadelphia County, Pennsylvania include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Philadelphia County, Pennsylvania Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1421",
+    "title": "Socio-economic and Health Disparities in Middlesex County, Massachusetts",
+    "author": "Author V. W.",
+    "publication_year": 2020,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1421",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Middlesex County, Massachusetts on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 62506,
+      "data_years": "2017\u20132020",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Middlesex County, Massachusetts. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Middlesex County, Massachusetts include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Middlesex County, Massachusetts Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1422",
+    "title": "Socio-economic and Health Disparities in Alameda County, California",
+    "author": "Author W. X.",
+    "publication_year": 2022,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1422",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Alameda County, California on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 218826,
+      "data_years": "2019\u20132022",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Alameda County, California. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Alameda County, California include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Alameda County, California Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1423",
+    "title": "Socio-economic and Health Disparities in Sacramento County, California",
+    "author": "Author X. Y.",
+    "publication_year": 2019,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1423",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Sacramento County, California on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 36214,
+      "data_years": "2016\u20132019",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Sacramento County, California. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Sacramento County, California include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Sacramento County, California Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1424",
+    "title": "Socio-economic and Health Disparities in Bronx County, New York",
+    "author": "Author Y. Z.",
+    "publication_year": 2023,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1424",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Bronx County, New York on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 114996,
+      "data_years": "2020\u20132023",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Bronx County, New York. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Bronx County, New York include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Bronx County, New York Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1425",
+    "title": "Socio-economic and Health Disparities in Suffolk County, New York",
+    "author": "Author Z. [.",
+    "publication_year": 2021,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1425",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Suffolk County, New York on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 86574,
+      "data_years": "2018\u20132021",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Suffolk County, New York. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Suffolk County, New York include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Suffolk County, New York Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1426",
+    "title": "Socio-economic and Health Disparities in Mecklenburg County, North Carolina",
+    "author": "Author A. B.",
+    "publication_year": 2015,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1426",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Mecklenburg County, North Carolina on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 177812,
+      "data_years": "2012\u20132015",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Mecklenburg County, North Carolina. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Mecklenburg County, North Carolina include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Mecklenburg County, North Carolina Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1427",
+    "title": "Socio-economic and Health Disparities in Wake County, North Carolina",
+    "author": "Author B. C.",
+    "publication_year": 2023,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1427",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Wake County, North Carolina on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 291337,
+      "data_years": "2020\u20132023",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Wake County, North Carolina. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Wake County, North Carolina include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Wake County, North Carolina Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1428",
+    "title": "Socio-economic and Health Disparities in Fulton County, Georgia",
+    "author": "Author C. D.",
+    "publication_year": 2016,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1428",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Fulton County, Georgia on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 40524,
+      "data_years": "2013\u20132016",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Fulton County, Georgia. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Fulton County, Georgia include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Fulton County, Georgia Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1429",
+    "title": "Socio-economic and Health Disparities in Palm Beach County, Florida",
+    "author": "Author D. E.",
+    "publication_year": 2022,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1429",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Palm Beach County, Florida on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 254381,
+      "data_years": "2019\u20132022",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Palm Beach County, Florida. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Palm Beach County, Florida include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Palm Beach County, Florida Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1430",
+    "title": "Socio-economic and Health Disparities in Cuyahoga County, Ohio",
+    "author": "Author E. F.",
+    "publication_year": 2019,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1430",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Cuyahoga County, Ohio on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 218945,
+      "data_years": "2016\u20132019",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Cuyahoga County, Ohio. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Cuyahoga County, Ohio include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Cuyahoga County, Ohio Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1431",
+    "title": "Socio-economic and Health Disparities in Hillsborough County, Florida",
+    "author": "Author F. G.",
+    "publication_year": 2018,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1431",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Hillsborough County, Florida on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 139915,
+      "data_years": "2015\u20132018",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Hillsborough County, Florida. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Hillsborough County, Florida include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Hillsborough County, Florida Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1432",
+    "title": "Socio-economic and Health Disparities in Allegheny County, Pennsylvania",
+    "author": "Author G. H.",
+    "publication_year": 2015,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1432",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Allegheny County, Pennsylvania on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 280069,
+      "data_years": "2012\u20132015",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Allegheny County, Pennsylvania. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Allegheny County, Pennsylvania include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Allegheny County, Pennsylvania Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1433",
+    "title": "Socio-economic and Health Disparities in Oakland County, Michigan",
+    "author": "Author H. I.",
+    "publication_year": 2017,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1433",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Oakland County, Michigan on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 171508,
+      "data_years": "2014\u20132017",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Oakland County, Michigan. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Oakland County, Michigan include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Oakland County, Michigan Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1434",
+    "title": "Socio-economic and Health Disparities in Hennepin County, Minnesota",
+    "author": "Author I. J.",
+    "publication_year": 2018,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1434",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Hennepin County, Minnesota on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 270125,
+      "data_years": "2015\u20132018",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Hennepin County, Minnesota. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Hennepin County, Minnesota include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Hennepin County, Minnesota Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1435",
+    "title": "Socio-economic and Health Disparities in Travis County, Texas",
+    "author": "Author J. K.",
+    "publication_year": 2019,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1435",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Travis County, Texas on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 270805,
+      "data_years": "2016\u20132019",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Travis County, Texas. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Travis County, Texas include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Travis County, Texas Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1436",
+    "title": "Socio-economic and Health Disparities in Fairfax County, Virginia",
+    "author": "Author K. L.",
+    "publication_year": 2015,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1436",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Fairfax County, Virginia on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 207338,
+      "data_years": "2012\u20132015",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Fairfax County, Virginia. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Fairfax County, Virginia include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Fairfax County, Virginia Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1437",
+    "title": "Socio-economic and Health Disparities in Franklin County, Ohio",
+    "author": "Author L. M.",
+    "publication_year": 2020,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1437",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Franklin County, Ohio on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 244148,
+      "data_years": "2017\u20132020",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Franklin County, Ohio. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Franklin County, Ohio include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Franklin County, Ohio Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1438",
+    "title": "Socio-economic and Health Disparities in Milwaukee County, Wisconsin",
+    "author": "Author M. N.",
+    "publication_year": 2019,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1438",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Milwaukee County, Wisconsin on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 145358,
+      "data_years": "2016\u20132019",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Milwaukee County, Wisconsin. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Milwaukee County, Wisconsin include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Milwaukee County, Wisconsin Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1439",
+    "title": "Socio-economic and Health Disparities in Salt Lake County, Utah",
+    "author": "Author N. O.",
+    "publication_year": 2018,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1439",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Salt Lake County, Utah on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 112769,
+      "data_years": "2015\u20132018",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Salt Lake County, Utah. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Salt Lake County, Utah include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Salt Lake County, Utah Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1440",
+    "title": "Socio-economic and Health Disparities in Duval County, Florida",
+    "author": "Author O. P.",
+    "publication_year": 2016,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1440",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Duval County, Florida on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 45295,
+      "data_years": "2013\u20132016",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Duval County, Florida. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Duval County, Florida include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Duval County, Florida Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1441",
+    "title": "Socio-economic and Health Disparities in Pima County, Arizona",
+    "author": "Author P. Q.",
+    "publication_year": 2021,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1441",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Pima County, Arizona on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 157283,
+      "data_years": "2018\u20132021",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Pima County, Arizona. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Pima County, Arizona include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Pima County, Arizona Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1442",
+    "title": "Socio-economic and Health Disparities in Montgomery County, Maryland",
+    "author": "Author Q. R.",
+    "publication_year": 2021,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1442",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Montgomery County, Maryland on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 249785,
+      "data_years": "2018\u20132021",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Montgomery County, Maryland. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Montgomery County, Maryland include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Montgomery County, Maryland Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1443",
+    "title": "Socio-economic and Health Disparities in Honolulu County, Hawaii",
+    "author": "Author R. S.",
+    "publication_year": 2020,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1443",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Honolulu County, Hawaii on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 45296,
+      "data_years": "2017\u20132020",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Honolulu County, Hawaii. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Honolulu County, Hawaii include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Honolulu County, Hawaii Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1444",
+    "title": "Socio-economic and Health Disparities in Collin County, Texas",
+    "author": "Author S. T.",
+    "publication_year": 2016,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1444",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Collin County, Texas on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 164001,
+      "data_years": "2013\u20132016",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Collin County, Texas. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Collin County, Texas include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Collin County, Texas Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1445",
+    "title": "Socio-economic and Health Disparities in Johnson County, Kansas",
+    "author": "Author T. U.",
+    "publication_year": 2023,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1445",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Johnson County, Kansas on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 259260,
+      "data_years": "2020\u20132023",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Johnson County, Kansas. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Johnson County, Kansas include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Johnson County, Kansas Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1446",
+    "title": "Socio-economic and Health Disparities in Jefferson County, Kentucky",
+    "author": "Author U. V.",
+    "publication_year": 2021,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1446",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Jefferson County, Kentucky on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 137764,
+      "data_years": "2018\u20132021",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Jefferson County, Kentucky. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Jefferson County, Kentucky include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Jefferson County, Kentucky Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1447",
+    "title": "Socio-economic and Health Disparities in Pinellas County, Florida",
+    "author": "Author V. W.",
+    "publication_year": 2017,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1447",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Pinellas County, Florida on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 198224,
+      "data_years": "2014\u20132017",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Pinellas County, Florida. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Pinellas County, Florida include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Pinellas County, Florida Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1448",
+    "title": "Socio-economic and Health Disparities in Denton County, Texas",
+    "author": "Author W. X.",
+    "publication_year": 2015,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1448",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Denton County, Texas on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 105478,
+      "data_years": "2012\u20132015",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Denton County, Texas. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Denton County, Texas include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Denton County, Texas Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  },
+  {
+    "paper_id": "RP1449",
+    "title": "Socio-economic and Health Disparities in Multnomah County, Oregon",
+    "author": "Author X. Y.",
+    "publication_year": 2019,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1449",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study explores the impact of socio-economic indicators in Multnomah County, Oregon on key public health outcomes, including life expectancy, preventable hospitalizations, and chronic disease rates. Special attention is given to racial disparities and urban density as contributing factors.",
+    "statistical_analysis": {
+      "methods_used": "Cluster regression, county-level geospatial analysis",
+      "key_variables": [
+        "poverty rate",
+        "education access",
+        "uninsured rate",
+        "hospital visit frequency"
+      ],
+      "sample_size": 187610,
+      "data_years": "2016\u20132019",
+      "findings": "The study found a strong association (p < 0.01) between economic hardship and elevated ER admissions in Multnomah County, Oregon. Communities with low education levels and limited insurance access showed a 22\u201331% higher rate of hospital utilization.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Multnomah County, Oregon include expanding mobile health services, implementing education-linked health incentive programs, and increasing funding for local clinics in socioeconomically disadvantaged areas.",
+    "references": [
+      "Multnomah County, Oregon Department of Health Annual Report",
+      "CDC County Health Rankings",
+      "KFF Public Health Indicator Briefs"
+    ]
+  }
+]

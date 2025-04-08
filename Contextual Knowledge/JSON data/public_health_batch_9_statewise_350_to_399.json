@@ -1,0 +1,1502 @@
+[
+  {
+    "paper_id": "RP1350",
+    "title": "Public Health and Economic Barriers in Idaho",
+    "author": "Author A. B.",
+    "publication_year": 2022,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1350",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Idaho, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 111540,
+      "data_years": "2018\u20132022",
+      "findings": "Counties in Idaho with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Idaho including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Idaho Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1351",
+    "title": "Public Health and Economic Barriers in Oklahoma",
+    "author": "Author B. C.",
+    "publication_year": 2015,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1351",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Oklahoma, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 160721,
+      "data_years": "2011\u20132015",
+      "findings": "Counties in Oklahoma with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Oklahoma including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Oklahoma Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1352",
+    "title": "Public Health and Economic Barriers in New Mexico",
+    "author": "Author C. D.",
+    "publication_year": 2023,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1352",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in New Mexico, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 97105,
+      "data_years": "2019\u20132023",
+      "findings": "Counties in New Mexico with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in New Mexico including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "New Mexico Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1353",
+    "title": "Public Health and Economic Barriers in North Dakota",
+    "author": "Author D. E.",
+    "publication_year": 2019,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1353",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in North Dakota, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 170363,
+      "data_years": "2015\u20132019",
+      "findings": "Counties in North Dakota with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in North Dakota including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "North Dakota Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1354",
+    "title": "Public Health and Economic Barriers in North Carolina",
+    "author": "Author E. F.",
+    "publication_year": 2021,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1354",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in North Carolina, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 241913,
+      "data_years": "2017\u20132021",
+      "findings": "Counties in North Carolina with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in North Carolina including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "North Carolina Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1355",
+    "title": "Public Health and Economic Barriers in Minnesota",
+    "author": "Author F. G.",
+    "publication_year": 2015,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1355",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Minnesota, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 134388,
+      "data_years": "2011\u20132015",
+      "findings": "Counties in Minnesota with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Minnesota including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Minnesota Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1356",
+    "title": "Public Health and Economic Barriers in Georgia",
+    "author": "Author G. H.",
+    "publication_year": 2023,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1356",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Georgia, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 102760,
+      "data_years": "2019\u20132023",
+      "findings": "Counties in Georgia with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Georgia including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Georgia Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1357",
+    "title": "Public Health and Economic Barriers in South Carolina",
+    "author": "Author H. I.",
+    "publication_year": 2015,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1357",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in South Carolina, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 39567,
+      "data_years": "2011\u20132015",
+      "findings": "Counties in South Carolina with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in South Carolina including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "South Carolina Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1358",
+    "title": "Public Health and Economic Barriers in West Virginia",
+    "author": "Author I. J.",
+    "publication_year": 2023,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1358",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in West Virginia, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 53232,
+      "data_years": "2019\u20132023",
+      "findings": "Counties in West Virginia with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in West Virginia including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "West Virginia Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1359",
+    "title": "Public Health and Economic Barriers in Maine",
+    "author": "Author J. K.",
+    "publication_year": 2019,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1359",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Maine, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 232262,
+      "data_years": "2015\u20132019",
+      "findings": "Counties in Maine with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Maine including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Maine Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1360",
+    "title": "Public Health and Economic Barriers in Washington",
+    "author": "Author K. L.",
+    "publication_year": 2016,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1360",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Washington, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 184911,
+      "data_years": "2012\u20132016",
+      "findings": "Counties in Washington with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Washington including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Washington Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1361",
+    "title": "Public Health and Economic Barriers in Michigan",
+    "author": "Author L. M.",
+    "publication_year": 2020,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1361",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Michigan, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 43169,
+      "data_years": "2016\u20132020",
+      "findings": "Counties in Michigan with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Michigan including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Michigan Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1362",
+    "title": "Public Health and Economic Barriers in Ohio",
+    "author": "Author M. N.",
+    "publication_year": 2022,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1362",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Ohio, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 133094,
+      "data_years": "2018\u20132022",
+      "findings": "Counties in Ohio with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Ohio including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Ohio Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1363",
+    "title": "Public Health and Economic Barriers in Mississippi",
+    "author": "Author N. O.",
+    "publication_year": 2019,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1363",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Mississippi, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 123967,
+      "data_years": "2015\u20132019",
+      "findings": "Counties in Mississippi with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Mississippi including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Mississippi Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1364",
+    "title": "Public Health and Economic Barriers in Kansas",
+    "author": "Author O. P.",
+    "publication_year": 2021,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1364",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Kansas, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 94635,
+      "data_years": "2017\u20132021",
+      "findings": "Counties in Kansas with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Kansas including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Kansas Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1365",
+    "title": "Public Health and Economic Barriers in South Dakota",
+    "author": "Author P. Q.",
+    "publication_year": 2020,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1365",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in South Dakota, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 223988,
+      "data_years": "2016\u20132020",
+      "findings": "Counties in South Dakota with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in South Dakota including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "South Dakota Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1366",
+    "title": "Public Health and Economic Barriers in Alabama",
+    "author": "Author Q. R.",
+    "publication_year": 2016,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1366",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Alabama, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 46549,
+      "data_years": "2012\u20132016",
+      "findings": "Counties in Alabama with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Alabama including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Alabama Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1367",
+    "title": "Public Health and Economic Barriers in Rhode Island",
+    "author": "Author R. S.",
+    "publication_year": 2022,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1367",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Rhode Island, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 48886,
+      "data_years": "2018\u20132022",
+      "findings": "Counties in Rhode Island with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Rhode Island including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Rhode Island Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1368",
+    "title": "Public Health and Economic Barriers in Arizona",
+    "author": "Author S. T.",
+    "publication_year": 2018,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1368",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Arizona, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 69918,
+      "data_years": "2014\u20132018",
+      "findings": "Counties in Arizona with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Arizona including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Arizona Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1369",
+    "title": "Public Health and Economic Barriers in New York",
+    "author": "Author T. U.",
+    "publication_year": 2022,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1369",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in New York, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 78817,
+      "data_years": "2018\u20132022",
+      "findings": "Counties in New York with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in New York including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "New York Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1370",
+    "title": "Public Health and Economic Barriers in Vermont",
+    "author": "Author U. V.",
+    "publication_year": 2015,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1370",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Vermont, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 153901,
+      "data_years": "2011\u20132015",
+      "findings": "Counties in Vermont with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Vermont including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Vermont Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1371",
+    "title": "Public Health and Economic Barriers in Hawaii",
+    "author": "Author V. W.",
+    "publication_year": 2015,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1371",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Hawaii, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 103535,
+      "data_years": "2011\u20132015",
+      "findings": "Counties in Hawaii with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Hawaii including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Hawaii Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1372",
+    "title": "Public Health and Economic Barriers in Utah",
+    "author": "Author W. X.",
+    "publication_year": 2015,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1372",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Utah, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 34537,
+      "data_years": "2011\u20132015",
+      "findings": "Counties in Utah with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Utah including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Utah Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1373",
+    "title": "Public Health and Economic Barriers in New Jersey",
+    "author": "Author X. Y.",
+    "publication_year": 2021,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1373",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in New Jersey, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 166033,
+      "data_years": "2017\u20132021",
+      "findings": "Counties in New Jersey with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in New Jersey including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "New Jersey Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1374",
+    "title": "Public Health and Economic Barriers in Delaware",
+    "author": "Author Y. Z.",
+    "publication_year": 2016,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1374",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Delaware, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 137290,
+      "data_years": "2012\u20132016",
+      "findings": "Counties in Delaware with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Delaware including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Delaware Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1375",
+    "title": "Public Health and Economic Barriers in Massachusetts",
+    "author": "Author Z. [.",
+    "publication_year": 2019,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1375",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Massachusetts, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 49411,
+      "data_years": "2015\u20132019",
+      "findings": "Counties in Massachusetts with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Massachusetts including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Massachusetts Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1376",
+    "title": "Public Health and Economic Barriers in California",
+    "author": "Author A. B.",
+    "publication_year": 2017,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1376",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in California, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 142664,
+      "data_years": "2013\u20132017",
+      "findings": "Counties in California with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in California including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "California Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1377",
+    "title": "Public Health and Economic Barriers in Oregon",
+    "author": "Author B. C.",
+    "publication_year": 2018,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1377",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Oregon, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 182810,
+      "data_years": "2014\u20132018",
+      "findings": "Counties in Oregon with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Oregon including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Oregon Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1378",
+    "title": "Public Health and Economic Barriers in Wisconsin",
+    "author": "Author C. D.",
+    "publication_year": 2023,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1378",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Wisconsin, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 240372,
+      "data_years": "2019\u20132023",
+      "findings": "Counties in Wisconsin with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Wisconsin including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Wisconsin Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1379",
+    "title": "Public Health and Economic Barriers in Texas",
+    "author": "Author D. E.",
+    "publication_year": 2019,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1379",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Texas, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 43590,
+      "data_years": "2015\u20132019",
+      "findings": "Counties in Texas with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Texas including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Texas Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1380",
+    "title": "Public Health and Economic Barriers in Montana",
+    "author": "Author E. F.",
+    "publication_year": 2015,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1380",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Montana, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 162838,
+      "data_years": "2011\u20132015",
+      "findings": "Counties in Montana with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Montana including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Montana Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1381",
+    "title": "Public Health and Economic Barriers in Florida",
+    "author": "Author F. G.",
+    "publication_year": 2023,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1381",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Florida, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 81447,
+      "data_years": "2019\u20132023",
+      "findings": "Counties in Florida with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Florida including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Florida Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1382",
+    "title": "Public Health and Economic Barriers in New Hampshire",
+    "author": "Author G. H.",
+    "publication_year": 2016,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1382",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in New Hampshire, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 162211,
+      "data_years": "2012\u20132016",
+      "findings": "Counties in New Hampshire with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in New Hampshire including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "New Hampshire Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1383",
+    "title": "Public Health and Economic Barriers in Wyoming",
+    "author": "Author H. I.",
+    "publication_year": 2017,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1383",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Wyoming, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 18294,
+      "data_years": "2013\u20132017",
+      "findings": "Counties in Wyoming with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Wyoming including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Wyoming Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1384",
+    "title": "Public Health and Economic Barriers in Alaska",
+    "author": "Author I. J.",
+    "publication_year": 2018,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1384",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Alaska, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 161846,
+      "data_years": "2014\u20132018",
+      "findings": "Counties in Alaska with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Alaska including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Alaska Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1385",
+    "title": "Public Health and Economic Barriers in Missouri",
+    "author": "Author J. K.",
+    "publication_year": 2015,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1385",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Missouri, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 191217,
+      "data_years": "2011\u20132015",
+      "findings": "Counties in Missouri with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Missouri including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Missouri Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1386",
+    "title": "Public Health and Economic Barriers in Nevada",
+    "author": "Author K. L.",
+    "publication_year": 2023,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1386",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Nevada, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 216667,
+      "data_years": "2019\u20132023",
+      "findings": "Counties in Nevada with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Nevada including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Nevada Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1387",
+    "title": "Public Health and Economic Barriers in Maryland",
+    "author": "Author L. M.",
+    "publication_year": 2022,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1387",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Maryland, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 121492,
+      "data_years": "2018\u20132022",
+      "findings": "Counties in Maryland with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Maryland including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Maryland Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1388",
+    "title": "Public Health and Economic Barriers in Kentucky",
+    "author": "Author M. N.",
+    "publication_year": 2019,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1388",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Kentucky, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 35188,
+      "data_years": "2015\u20132019",
+      "findings": "Counties in Kentucky with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Kentucky including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Kentucky Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1389",
+    "title": "Public Health and Economic Barriers in Pennsylvania",
+    "author": "Author N. O.",
+    "publication_year": 2017,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1389",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Pennsylvania, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 122242,
+      "data_years": "2013\u20132017",
+      "findings": "Counties in Pennsylvania with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Pennsylvania including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Pennsylvania Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1390",
+    "title": "Public Health and Economic Barriers in Indiana",
+    "author": "Author O. P.",
+    "publication_year": 2015,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1390",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Indiana, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 59410,
+      "data_years": "2011\u20132015",
+      "findings": "Counties in Indiana with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Indiana including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Indiana Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1391",
+    "title": "Public Health and Economic Barriers in Iowa",
+    "author": "Author P. Q.",
+    "publication_year": 2015,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1391",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Iowa, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 168673,
+      "data_years": "2011\u20132015",
+      "findings": "Counties in Iowa with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Iowa including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Iowa Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1392",
+    "title": "Public Health and Economic Barriers in Nebraska",
+    "author": "Author Q. R.",
+    "publication_year": 2017,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1392",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Nebraska, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 93374,
+      "data_years": "2013\u20132017",
+      "findings": "Counties in Nebraska with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Nebraska including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Nebraska Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1393",
+    "title": "Public Health and Economic Barriers in Connecticut",
+    "author": "Author R. S.",
+    "publication_year": 2016,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1393",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Connecticut, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 31402,
+      "data_years": "2012\u20132016",
+      "findings": "Counties in Connecticut with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Connecticut including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Connecticut Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1394",
+    "title": "Public Health and Economic Barriers in Louisiana",
+    "author": "Author S. T.",
+    "publication_year": 2020,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1394",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Louisiana, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 25239,
+      "data_years": "2016\u20132020",
+      "findings": "Counties in Louisiana with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Louisiana including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Louisiana Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1395",
+    "title": "Public Health and Economic Barriers in Illinois",
+    "author": "Author T. U.",
+    "publication_year": 2017,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1395",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Illinois, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 84315,
+      "data_years": "2013\u20132017",
+      "findings": "Counties in Illinois with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Illinois including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Illinois Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1396",
+    "title": "Public Health and Economic Barriers in Tennessee",
+    "author": "Author U. V.",
+    "publication_year": 2023,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1396",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Tennessee, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 64772,
+      "data_years": "2019\u20132023",
+      "findings": "Counties in Tennessee with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Tennessee including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Tennessee Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1397",
+    "title": "Public Health and Economic Barriers in Virginia",
+    "author": "Author V. W.",
+    "publication_year": 2022,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1397",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Virginia, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 92857,
+      "data_years": "2018\u20132022",
+      "findings": "Counties in Virginia with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Virginia including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Virginia Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1398",
+    "title": "Public Health and Economic Barriers in Colorado",
+    "author": "Author W. X.",
+    "publication_year": 2018,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1398",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Colorado, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 235869,
+      "data_years": "2014\u20132018",
+      "findings": "Counties in Colorado with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Colorado including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Colorado Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  },
+  {
+    "paper_id": "RP1399",
+    "title": "Public Health and Economic Barriers in Arkansas",
+    "author": "Author X. Y.",
+    "publication_year": 2019,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1399",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper investigates the intersection of public health outcomes and socio-economic stressors in Arkansas, focusing on how local income levels, housing costs, and education quality contribute to disparities in chronic disease, maternal health, and preventable hospital admissions.",
+    "statistical_analysis": {
+      "methods_used": "Regression models, geospatial analysis",
+      "key_variables": [
+        "median income",
+        "hospitalization rates",
+        "education funding",
+        "insurance status"
+      ],
+      "sample_size": 233908,
+      "data_years": "2015\u20132019",
+      "findings": "Counties in Arkansas with the lowest income quartile were 2.2x more likely to report avoidable hospitalizations. Regions with underfunded school districts showed corresponding spikes in preventable disease burden (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Findings emphasize the need for cross-sector policy solutions in Arkansas including Medicaid expansion, educational reform, and targeted public health investments in low-income neighborhoods.",
+    "references": [
+      "Arkansas Socioeconomic and Health Impact Report",
+      "CDC County-Level Indicators",
+      "U.S. Department of Education Data"
+    ]
+  }
+]

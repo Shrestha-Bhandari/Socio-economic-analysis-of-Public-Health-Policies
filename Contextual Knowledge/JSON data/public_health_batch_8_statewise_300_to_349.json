@@ -1,0 +1,1502 @@
+[
+  {
+    "paper_id": "RP1300",
+    "title": "Impact of Social Determinants on Health Outcomes in Wisconsin",
+    "author": "Author A. B.",
+    "publication_year": 2022,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1300",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Wisconsin. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 102296,
+      "data_years": "2017\u20132022",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Wisconsin counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Wisconsin include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Wisconsin Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1301",
+    "title": "Impact of Social Determinants on Health Outcomes in Rhode Island",
+    "author": "Author B. C.",
+    "publication_year": 2020,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1301",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Rhode Island. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 176343,
+      "data_years": "2015\u20132020",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Rhode Island counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Rhode Island include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Rhode Island Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1302",
+    "title": "Impact of Social Determinants on Health Outcomes in Arkansas",
+    "author": "Author C. D.",
+    "publication_year": 2020,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1302",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Arkansas. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 71191,
+      "data_years": "2015\u20132020",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Arkansas counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Arkansas include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Arkansas Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1303",
+    "title": "Impact of Social Determinants on Health Outcomes in New York",
+    "author": "Author D. E.",
+    "publication_year": 2015,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1303",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in New York. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 119235,
+      "data_years": "2010\u20132015",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in New York counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for New York include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "New York Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1304",
+    "title": "Impact of Social Determinants on Health Outcomes in West Virginia",
+    "author": "Author E. F.",
+    "publication_year": 2016,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1304",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in West Virginia. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 37442,
+      "data_years": "2011\u20132016",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in West Virginia counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for West Virginia include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "West Virginia Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1305",
+    "title": "Impact of Social Determinants on Health Outcomes in Virginia",
+    "author": "Author F. G.",
+    "publication_year": 2020,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1305",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Virginia. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 77796,
+      "data_years": "2015\u20132020",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Virginia counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Virginia include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Virginia Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1306",
+    "title": "Impact of Social Determinants on Health Outcomes in North Dakota",
+    "author": "Author G. H.",
+    "publication_year": 2015,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1306",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in North Dakota. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 66970,
+      "data_years": "2010\u20132015",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in North Dakota counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for North Dakota include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "North Dakota Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1307",
+    "title": "Impact of Social Determinants on Health Outcomes in Connecticut",
+    "author": "Author H. I.",
+    "publication_year": 2023,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1307",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Connecticut. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 48054,
+      "data_years": "2018\u20132023",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Connecticut counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Connecticut include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Connecticut Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1308",
+    "title": "Impact of Social Determinants on Health Outcomes in Illinois",
+    "author": "Author I. J.",
+    "publication_year": 2022,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1308",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Illinois. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 53270,
+      "data_years": "2017\u20132022",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Illinois counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Illinois include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Illinois Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1309",
+    "title": "Impact of Social Determinants on Health Outcomes in Massachusetts",
+    "author": "Author J. K.",
+    "publication_year": 2016,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1309",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Massachusetts. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 172598,
+      "data_years": "2011\u20132016",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Massachusetts counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Massachusetts include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Massachusetts Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1310",
+    "title": "Impact of Social Determinants on Health Outcomes in Indiana",
+    "author": "Author K. L.",
+    "publication_year": 2018,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1310",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Indiana. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 107840,
+      "data_years": "2013\u20132018",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Indiana counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Indiana include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Indiana Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1311",
+    "title": "Impact of Social Determinants on Health Outcomes in Nevada",
+    "author": "Author L. M.",
+    "publication_year": 2023,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1311",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Nevada. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 77931,
+      "data_years": "2018\u20132023",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Nevada counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Nevada include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Nevada Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1312",
+    "title": "Impact of Social Determinants on Health Outcomes in Mississippi",
+    "author": "Author M. N.",
+    "publication_year": 2017,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1312",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Mississippi. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 73786,
+      "data_years": "2012\u20132017",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Mississippi counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Mississippi include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Mississippi Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1313",
+    "title": "Impact of Social Determinants on Health Outcomes in Iowa",
+    "author": "Author N. O.",
+    "publication_year": 2021,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1313",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Iowa. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 131121,
+      "data_years": "2016\u20132021",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Iowa counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Iowa include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Iowa Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1314",
+    "title": "Impact of Social Determinants on Health Outcomes in South Carolina",
+    "author": "Author O. P.",
+    "publication_year": 2016,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1314",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in South Carolina. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 85157,
+      "data_years": "2011\u20132016",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in South Carolina counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for South Carolina include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "South Carolina Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1315",
+    "title": "Impact of Social Determinants on Health Outcomes in South Dakota",
+    "author": "Author P. Q.",
+    "publication_year": 2023,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1315",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in South Dakota. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 143680,
+      "data_years": "2018\u20132023",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in South Dakota counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for South Dakota include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "South Dakota Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1316",
+    "title": "Impact of Social Determinants on Health Outcomes in Colorado",
+    "author": "Author Q. R.",
+    "publication_year": 2016,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1316",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Colorado. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 142890,
+      "data_years": "2011\u20132016",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Colorado counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Colorado include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Colorado Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1317",
+    "title": "Impact of Social Determinants on Health Outcomes in Utah",
+    "author": "Author R. S.",
+    "publication_year": 2017,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1317",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Utah. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 76363,
+      "data_years": "2012\u20132017",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Utah counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Utah include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Utah Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1318",
+    "title": "Impact of Social Determinants on Health Outcomes in Delaware",
+    "author": "Author S. T.",
+    "publication_year": 2022,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1318",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Delaware. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 155035,
+      "data_years": "2017\u20132022",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Delaware counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Delaware include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Delaware Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1319",
+    "title": "Impact of Social Determinants on Health Outcomes in Florida",
+    "author": "Author T. U.",
+    "publication_year": 2016,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1319",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Florida. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 125720,
+      "data_years": "2011\u20132016",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Florida counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Florida include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Florida Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1320",
+    "title": "Impact of Social Determinants on Health Outcomes in New Jersey",
+    "author": "Author U. V.",
+    "publication_year": 2016,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1320",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in New Jersey. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 143452,
+      "data_years": "2011\u20132016",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in New Jersey counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for New Jersey include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "New Jersey Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1321",
+    "title": "Impact of Social Determinants on Health Outcomes in Missouri",
+    "author": "Author V. W.",
+    "publication_year": 2017,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1321",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Missouri. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 195628,
+      "data_years": "2012\u20132017",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Missouri counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Missouri include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Missouri Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1322",
+    "title": "Impact of Social Determinants on Health Outcomes in Alaska",
+    "author": "Author W. X.",
+    "publication_year": 2020,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1322",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Alaska. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 198301,
+      "data_years": "2015\u20132020",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Alaska counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Alaska include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Alaska Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1323",
+    "title": "Impact of Social Determinants on Health Outcomes in Oregon",
+    "author": "Author X. Y.",
+    "publication_year": 2023,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1323",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Oregon. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 163509,
+      "data_years": "2018\u20132023",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Oregon counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Oregon include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Oregon Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1324",
+    "title": "Impact of Social Determinants on Health Outcomes in Louisiana",
+    "author": "Author Y. Z.",
+    "publication_year": 2021,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1324",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Louisiana. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 181297,
+      "data_years": "2016\u20132021",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Louisiana counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Louisiana include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Louisiana Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1325",
+    "title": "Impact of Social Determinants on Health Outcomes in Minnesota",
+    "author": "Author Z. [.",
+    "publication_year": 2018,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1325",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Minnesota. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 141472,
+      "data_years": "2013\u20132018",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Minnesota counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Minnesota include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Minnesota Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1326",
+    "title": "Impact of Social Determinants on Health Outcomes in Wyoming",
+    "author": "Author A. B.",
+    "publication_year": 2022,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1326",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Wyoming. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 186156,
+      "data_years": "2017\u20132022",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Wyoming counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Wyoming include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Wyoming Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1327",
+    "title": "Impact of Social Determinants on Health Outcomes in Kansas",
+    "author": "Author B. C.",
+    "publication_year": 2023,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1327",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Kansas. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 19627,
+      "data_years": "2018\u20132023",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Kansas counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Kansas include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Kansas Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1328",
+    "title": "Impact of Social Determinants on Health Outcomes in Texas",
+    "author": "Author C. D.",
+    "publication_year": 2017,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1328",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Texas. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 164352,
+      "data_years": "2012\u20132017",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Texas counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Texas include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Texas Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1329",
+    "title": "Impact of Social Determinants on Health Outcomes in Hawaii",
+    "author": "Author D. E.",
+    "publication_year": 2016,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1329",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Hawaii. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 147310,
+      "data_years": "2011\u20132016",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Hawaii counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Hawaii include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Hawaii Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1330",
+    "title": "Impact of Social Determinants on Health Outcomes in Ohio",
+    "author": "Author E. F.",
+    "publication_year": 2020,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1330",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Ohio. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 76011,
+      "data_years": "2015\u20132020",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Ohio counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Ohio include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Ohio Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1331",
+    "title": "Impact of Social Determinants on Health Outcomes in Maryland",
+    "author": "Author F. G.",
+    "publication_year": 2022,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1331",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Maryland. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 55598,
+      "data_years": "2017\u20132022",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Maryland counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Maryland include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Maryland Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1332",
+    "title": "Impact of Social Determinants on Health Outcomes in Oklahoma",
+    "author": "Author G. H.",
+    "publication_year": 2020,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1332",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Oklahoma. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 159575,
+      "data_years": "2015\u20132020",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Oklahoma counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Oklahoma include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Oklahoma Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1333",
+    "title": "Impact of Social Determinants on Health Outcomes in Nebraska",
+    "author": "Author H. I.",
+    "publication_year": 2017,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1333",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Nebraska. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 175201,
+      "data_years": "2012\u20132017",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Nebraska counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Nebraska include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Nebraska Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1334",
+    "title": "Impact of Social Determinants on Health Outcomes in Kentucky",
+    "author": "Author I. J.",
+    "publication_year": 2018,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1334",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Kentucky. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 121541,
+      "data_years": "2013\u20132018",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Kentucky counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Kentucky include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Kentucky Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1335",
+    "title": "Impact of Social Determinants on Health Outcomes in Georgia",
+    "author": "Author J. K.",
+    "publication_year": 2021,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1335",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Georgia. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 82146,
+      "data_years": "2016\u20132021",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Georgia counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Georgia include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Georgia Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1336",
+    "title": "Impact of Social Determinants on Health Outcomes in North Carolina",
+    "author": "Author K. L.",
+    "publication_year": 2021,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1336",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in North Carolina. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 61632,
+      "data_years": "2016\u20132021",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in North Carolina counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for North Carolina include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "North Carolina Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1337",
+    "title": "Impact of Social Determinants on Health Outcomes in Alabama",
+    "author": "Author L. M.",
+    "publication_year": 2016,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1337",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Alabama. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 58667,
+      "data_years": "2011\u20132016",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Alabama counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Alabama include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Alabama Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1338",
+    "title": "Impact of Social Determinants on Health Outcomes in Montana",
+    "author": "Author M. N.",
+    "publication_year": 2015,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1338",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Montana. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 177610,
+      "data_years": "2010\u20132015",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Montana counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Montana include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Montana Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1339",
+    "title": "Impact of Social Determinants on Health Outcomes in New Hampshire",
+    "author": "Author N. O.",
+    "publication_year": 2023,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1339",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in New Hampshire. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 55927,
+      "data_years": "2018\u20132023",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in New Hampshire counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for New Hampshire include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "New Hampshire Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1340",
+    "title": "Impact of Social Determinants on Health Outcomes in Vermont",
+    "author": "Author O. P.",
+    "publication_year": 2020,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1340",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Vermont. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 89124,
+      "data_years": "2015\u20132020",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Vermont counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Vermont include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Vermont Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1341",
+    "title": "Impact of Social Determinants on Health Outcomes in Maine",
+    "author": "Author P. Q.",
+    "publication_year": 2017,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1341",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Maine. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 75724,
+      "data_years": "2012\u20132017",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Maine counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Maine include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Maine Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1342",
+    "title": "Impact of Social Determinants on Health Outcomes in Washington",
+    "author": "Author Q. R.",
+    "publication_year": 2019,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1342",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Washington. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 72616,
+      "data_years": "2014\u20132019",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Washington counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Washington include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Washington Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1343",
+    "title": "Impact of Social Determinants on Health Outcomes in Idaho",
+    "author": "Author R. S.",
+    "publication_year": 2020,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1343",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Idaho. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 69841,
+      "data_years": "2015\u20132020",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Idaho counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Idaho include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Idaho Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1344",
+    "title": "Impact of Social Determinants on Health Outcomes in Tennessee",
+    "author": "Author S. T.",
+    "publication_year": 2023,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1344",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Tennessee. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 35775,
+      "data_years": "2018\u20132023",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Tennessee counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Tennessee include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Tennessee Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1345",
+    "title": "Impact of Social Determinants on Health Outcomes in Pennsylvania",
+    "author": "Author T. U.",
+    "publication_year": 2020,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1345",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Pennsylvania. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 40987,
+      "data_years": "2015\u20132020",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Pennsylvania counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Pennsylvania include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Pennsylvania Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1346",
+    "title": "Impact of Social Determinants on Health Outcomes in California",
+    "author": "Author U. V.",
+    "publication_year": 2018,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1346",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in California. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 54855,
+      "data_years": "2013\u20132018",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in California counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for California include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "California Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1347",
+    "title": "Impact of Social Determinants on Health Outcomes in New Mexico",
+    "author": "Author V. W.",
+    "publication_year": 2017,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1347",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in New Mexico. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 103794,
+      "data_years": "2012\u20132017",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in New Mexico counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for New Mexico include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "New Mexico Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1348",
+    "title": "Impact of Social Determinants on Health Outcomes in Michigan",
+    "author": "Author W. X.",
+    "publication_year": 2015,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1348",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Michigan. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 15828,
+      "data_years": "2010\u20132015",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Michigan counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Michigan include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Michigan Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  },
+  {
+    "paper_id": "RP1349",
+    "title": "Impact of Social Determinants on Health Outcomes in Arizona",
+    "author": "Author X. Y.",
+    "publication_year": 2017,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1349",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This research explores how core social determinants such as education, housing, and income inequality influence public health outcomes across various counties in Arizona. The study analyzes disparities in healthcare access and disease burden across regions.",
+    "statistical_analysis": {
+      "methods_used": "Factor analysis, mixed-effects regression",
+      "key_variables": [
+        "education level",
+        "housing stability",
+        "chronic illness incidence",
+        "access to care"
+      ],
+      "sample_size": 45050,
+      "data_years": "2012\u20132017",
+      "findings": "Significant correlations (p < 0.001) were found between social deprivation indices in Arizona counties and negative health outcomes. Counties with the lowest quartile education rates reported up to 29% higher chronic disease prevalence.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Arizona include investments in community-based health initiatives, housing assistance programs, and rural telehealth expansion. Improving access to education is also cited as a long-term strategy for mitigating health disparities.",
+    "references": [
+      "Arizona Annual Health Equity Report",
+      "CDC Social Vulnerability Index",
+      "NIH Health Disparities Database"
+    ]
+  }
+]

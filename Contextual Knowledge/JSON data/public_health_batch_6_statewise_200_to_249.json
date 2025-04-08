@@ -1,0 +1,1502 @@
+[
+  {
+    "paper_id": "RP1200",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Idaho",
+    "author": "Author A. B.",
+    "publication_year": 2017,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1200",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Idaho affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 36932,
+      "data_years": "2014\u20132017",
+      "findings": "The study found that counties in Idaho with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Idaho are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Idaho State Health Department Reports, 2017",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1201",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Indiana",
+    "author": "Author B. C.",
+    "publication_year": 2021,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1201",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Indiana affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 54652,
+      "data_years": "2018\u20132021",
+      "findings": "The study found that counties in Indiana with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Indiana are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Indiana State Health Department Reports, 2021",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1202",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Mississippi",
+    "author": "Author C. D.",
+    "publication_year": 2019,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1202",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Mississippi affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 58614,
+      "data_years": "2016\u20132019",
+      "findings": "The study found that counties in Mississippi with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Mississippi are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Mississippi State Health Department Reports, 2019",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1203",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Michigan",
+    "author": "Author D. E.",
+    "publication_year": 2018,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1203",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Michigan affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 70144,
+      "data_years": "2015\u20132018",
+      "findings": "The study found that counties in Michigan with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Michigan are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Michigan State Health Department Reports, 2018",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1204",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Minnesota",
+    "author": "Author E. F.",
+    "publication_year": 2015,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1204",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Minnesota affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 71705,
+      "data_years": "2012\u20132015",
+      "findings": "The study found that counties in Minnesota with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Minnesota are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Minnesota State Health Department Reports, 2015",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1205",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Vermont",
+    "author": "Author F. G.",
+    "publication_year": 2018,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1205",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Vermont affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 80291,
+      "data_years": "2015\u20132018",
+      "findings": "The study found that counties in Vermont with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Vermont are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Vermont State Health Department Reports, 2018",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1206",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Illinois",
+    "author": "Author G. H.",
+    "publication_year": 2019,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1206",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Illinois affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 44190,
+      "data_years": "2016\u20132019",
+      "findings": "The study found that counties in Illinois with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Illinois are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Illinois State Health Department Reports, 2019",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1207",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Texas",
+    "author": "Author H. I.",
+    "publication_year": 2022,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1207",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Texas affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 42269,
+      "data_years": "2019\u20132022",
+      "findings": "The study found that counties in Texas with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Texas are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Texas State Health Department Reports, 2022",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1208",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Tennessee",
+    "author": "Author I. J.",
+    "publication_year": 2021,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1208",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Tennessee affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 86354,
+      "data_years": "2018\u20132021",
+      "findings": "The study found that counties in Tennessee with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Tennessee are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Tennessee State Health Department Reports, 2021",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1209",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in New York",
+    "author": "Author J. K.",
+    "publication_year": 2023,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1209",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in New York affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 29016,
+      "data_years": "2020\u20132023",
+      "findings": "The study found that counties in New York with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in New York are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "New York State Health Department Reports, 2023",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1210",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Kansas",
+    "author": "Author K. L.",
+    "publication_year": 2019,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1210",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Kansas affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 62973,
+      "data_years": "2016\u20132019",
+      "findings": "The study found that counties in Kansas with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Kansas are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Kansas State Health Department Reports, 2019",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1211",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Arkansas",
+    "author": "Author L. M.",
+    "publication_year": 2021,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1211",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Arkansas affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 91267,
+      "data_years": "2018\u20132021",
+      "findings": "The study found that counties in Arkansas with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Arkansas are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Arkansas State Health Department Reports, 2021",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1212",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Maryland",
+    "author": "Author M. N.",
+    "publication_year": 2020,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1212",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Maryland affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 36654,
+      "data_years": "2017\u20132020",
+      "findings": "The study found that counties in Maryland with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Maryland are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Maryland State Health Department Reports, 2020",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1213",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Alabama",
+    "author": "Author N. O.",
+    "publication_year": 2017,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1213",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Alabama affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 75400,
+      "data_years": "2014\u20132017",
+      "findings": "The study found that counties in Alabama with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Alabama are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Alabama State Health Department Reports, 2017",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1214",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Kentucky",
+    "author": "Author O. P.",
+    "publication_year": 2018,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1214",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Kentucky affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 76623,
+      "data_years": "2015\u20132018",
+      "findings": "The study found that counties in Kentucky with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Kentucky are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Kentucky State Health Department Reports, 2018",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1215",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in New Jersey",
+    "author": "Author P. Q.",
+    "publication_year": 2023,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1215",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in New Jersey affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 45122,
+      "data_years": "2020\u20132023",
+      "findings": "The study found that counties in New Jersey with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in New Jersey are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "New Jersey State Health Department Reports, 2023",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1216",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Georgia",
+    "author": "Author Q. R.",
+    "publication_year": 2021,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1216",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Georgia affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 53504,
+      "data_years": "2018\u20132021",
+      "findings": "The study found that counties in Georgia with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Georgia are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Georgia State Health Department Reports, 2021",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1217",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Oklahoma",
+    "author": "Author R. S.",
+    "publication_year": 2022,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1217",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Oklahoma affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 25280,
+      "data_years": "2019\u20132022",
+      "findings": "The study found that counties in Oklahoma with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Oklahoma are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Oklahoma State Health Department Reports, 2022",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1218",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Colorado",
+    "author": "Author S. T.",
+    "publication_year": 2019,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1218",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Colorado affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 49131,
+      "data_years": "2016\u20132019",
+      "findings": "The study found that counties in Colorado with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Colorado are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Colorado State Health Department Reports, 2019",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1219",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Maine",
+    "author": "Author T. U.",
+    "publication_year": 2019,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1219",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Maine affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 42335,
+      "data_years": "2016\u20132019",
+      "findings": "The study found that counties in Maine with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Maine are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Maine State Health Department Reports, 2019",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1220",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Hawaii",
+    "author": "Author U. V.",
+    "publication_year": 2021,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1220",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Hawaii affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 98355,
+      "data_years": "2018\u20132021",
+      "findings": "The study found that counties in Hawaii with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Hawaii are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Hawaii State Health Department Reports, 2021",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1221",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in North Dakota",
+    "author": "Author V. W.",
+    "publication_year": 2015,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1221",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in North Dakota affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 65988,
+      "data_years": "2012\u20132015",
+      "findings": "The study found that counties in North Dakota with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in North Dakota are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "North Dakota State Health Department Reports, 2015",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1222",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Rhode Island",
+    "author": "Author W. X.",
+    "publication_year": 2021,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1222",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Rhode Island affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 88793,
+      "data_years": "2018\u20132021",
+      "findings": "The study found that counties in Rhode Island with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Rhode Island are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Rhode Island State Health Department Reports, 2021",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1223",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Pennsylvania",
+    "author": "Author X. Y.",
+    "publication_year": 2022,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1223",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Pennsylvania affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 49938,
+      "data_years": "2019\u20132022",
+      "findings": "The study found that counties in Pennsylvania with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Pennsylvania are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Pennsylvania State Health Department Reports, 2022",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1224",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in South Carolina",
+    "author": "Author Y. Z.",
+    "publication_year": 2022,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1224",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in South Carolina affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 13756,
+      "data_years": "2019\u20132022",
+      "findings": "The study found that counties in South Carolina with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in South Carolina are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "South Carolina State Health Department Reports, 2022",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1225",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in North Carolina",
+    "author": "Author Z. [.",
+    "publication_year": 2020,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1225",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in North Carolina affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 42386,
+      "data_years": "2017\u20132020",
+      "findings": "The study found that counties in North Carolina with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in North Carolina are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "North Carolina State Health Department Reports, 2020",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1226",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Oregon",
+    "author": "Author A. B.",
+    "publication_year": 2019,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1226",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Oregon affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 29405,
+      "data_years": "2016\u20132019",
+      "findings": "The study found that counties in Oregon with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Oregon are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Oregon State Health Department Reports, 2019",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1227",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in California",
+    "author": "Author B. C.",
+    "publication_year": 2017,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1227",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in California affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 67926,
+      "data_years": "2014\u20132017",
+      "findings": "The study found that counties in California with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in California are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "California State Health Department Reports, 2017",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1228",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Montana",
+    "author": "Author C. D.",
+    "publication_year": 2017,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1228",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Montana affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 57841,
+      "data_years": "2014\u20132017",
+      "findings": "The study found that counties in Montana with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Montana are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Montana State Health Department Reports, 2017",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1229",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Connecticut",
+    "author": "Author D. E.",
+    "publication_year": 2021,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1229",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Connecticut affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 79028,
+      "data_years": "2018\u20132021",
+      "findings": "The study found that counties in Connecticut with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Connecticut are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Connecticut State Health Department Reports, 2021",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1230",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Missouri",
+    "author": "Author E. F.",
+    "publication_year": 2017,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1230",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Missouri affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 44697,
+      "data_years": "2014\u20132017",
+      "findings": "The study found that counties in Missouri with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Missouri are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Missouri State Health Department Reports, 2017",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1231",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Ohio",
+    "author": "Author F. G.",
+    "publication_year": 2020,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1231",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Ohio affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 16581,
+      "data_years": "2017\u20132020",
+      "findings": "The study found that counties in Ohio with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Ohio are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Ohio State Health Department Reports, 2020",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1232",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Utah",
+    "author": "Author G. H.",
+    "publication_year": 2019,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1232",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Utah affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 72053,
+      "data_years": "2016\u20132019",
+      "findings": "The study found that counties in Utah with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Utah are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Utah State Health Department Reports, 2019",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1233",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Florida",
+    "author": "Author H. I.",
+    "publication_year": 2021,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1233",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Florida affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 57648,
+      "data_years": "2018\u20132021",
+      "findings": "The study found that counties in Florida with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Florida are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Florida State Health Department Reports, 2021",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1234",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in West Virginia",
+    "author": "Author I. J.",
+    "publication_year": 2018,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1234",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in West Virginia affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 93289,
+      "data_years": "2015\u20132018",
+      "findings": "The study found that counties in West Virginia with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in West Virginia are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "West Virginia State Health Department Reports, 2018",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1235",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Wisconsin",
+    "author": "Author J. K.",
+    "publication_year": 2016,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1235",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Wisconsin affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 75553,
+      "data_years": "2013\u20132016",
+      "findings": "The study found that counties in Wisconsin with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Wisconsin are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Wisconsin State Health Department Reports, 2016",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1236",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Iowa",
+    "author": "Author K. L.",
+    "publication_year": 2019,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1236",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Iowa affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 40266,
+      "data_years": "2016\u20132019",
+      "findings": "The study found that counties in Iowa with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Iowa are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Iowa State Health Department Reports, 2019",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1237",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Delaware",
+    "author": "Author L. M.",
+    "publication_year": 2016,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1237",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Delaware affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 59599,
+      "data_years": "2013\u20132016",
+      "findings": "The study found that counties in Delaware with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Delaware are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Delaware State Health Department Reports, 2016",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1238",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in South Dakota",
+    "author": "Author M. N.",
+    "publication_year": 2019,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1238",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in South Dakota affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 70172,
+      "data_years": "2016\u20132019",
+      "findings": "The study found that counties in South Dakota with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in South Dakota are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "South Dakota State Health Department Reports, 2019",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1239",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Washington",
+    "author": "Author N. O.",
+    "publication_year": 2021,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1239",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Washington affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 22294,
+      "data_years": "2018\u20132021",
+      "findings": "The study found that counties in Washington with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Washington are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Washington State Health Department Reports, 2021",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1240",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Nevada",
+    "author": "Author O. P.",
+    "publication_year": 2020,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1240",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Nevada affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 72665,
+      "data_years": "2017\u20132020",
+      "findings": "The study found that counties in Nevada with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Nevada are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Nevada State Health Department Reports, 2020",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1241",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Wyoming",
+    "author": "Author P. Q.",
+    "publication_year": 2022,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1241",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Wyoming affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 20250,
+      "data_years": "2019\u20132022",
+      "findings": "The study found that counties in Wyoming with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Wyoming are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Wyoming State Health Department Reports, 2022",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1242",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Virginia",
+    "author": "Author Q. R.",
+    "publication_year": 2018,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1242",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Virginia affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 28454,
+      "data_years": "2015\u20132018",
+      "findings": "The study found that counties in Virginia with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Virginia are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Virginia State Health Department Reports, 2018",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1243",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in New Mexico",
+    "author": "Author R. S.",
+    "publication_year": 2019,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1243",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in New Mexico affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 12383,
+      "data_years": "2016\u20132019",
+      "findings": "The study found that counties in New Mexico with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in New Mexico are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "New Mexico State Health Department Reports, 2019",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1244",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Arizona",
+    "author": "Author S. T.",
+    "publication_year": 2017,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1244",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Arizona affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 49902,
+      "data_years": "2014\u20132017",
+      "findings": "The study found that counties in Arizona with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Arizona are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Arizona State Health Department Reports, 2017",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1245",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Louisiana",
+    "author": "Author T. U.",
+    "publication_year": 2022,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1245",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Louisiana affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 80575,
+      "data_years": "2019\u20132022",
+      "findings": "The study found that counties in Louisiana with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Louisiana are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Louisiana State Health Department Reports, 2022",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1246",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Nebraska",
+    "author": "Author U. V.",
+    "publication_year": 2018,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1246",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Nebraska affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 58474,
+      "data_years": "2015\u20132018",
+      "findings": "The study found that counties in Nebraska with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Nebraska are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Nebraska State Health Department Reports, 2018",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1247",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in New Hampshire",
+    "author": "Author V. W.",
+    "publication_year": 2019,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1247",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in New Hampshire affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 17756,
+      "data_years": "2016\u20132019",
+      "findings": "The study found that counties in New Hampshire with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in New Hampshire are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "New Hampshire State Health Department Reports, 2019",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1248",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Alaska",
+    "author": "Author W. X.",
+    "publication_year": 2018,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1248",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Alaska affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 26843,
+      "data_years": "2015\u20132018",
+      "findings": "The study found that counties in Alaska with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Alaska are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Alaska State Health Department Reports, 2018",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  },
+  {
+    "paper_id": "RP1249",
+    "title": "Socio-Economic Conditions and Public Health Outcomes in Massachusetts",
+    "author": "Author X. Y.",
+    "publication_year": 2015,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1249",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how socio-economic conditions in Massachusetts affect public health indicators such as chronic disease rates, mortality, and access to care. Data from state-level health departments and national surveys were utilized to assess disparities.",
+    "statistical_analysis": {
+      "methods_used": "Multivariate regression, time-series analysis",
+      "key_variables": [
+        "income inequality",
+        "insurance coverage",
+        "education level",
+        "chronic disease rates"
+      ],
+      "sample_size": 39732,
+      "data_years": "2012\u20132015",
+      "findings": "The study found that counties in Massachusetts with higher poverty rates and lower educational attainment were significantly more likely to report negative health outcomes. These disparities were moderated by local healthcare access and urbanicity.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Policymakers in Massachusetts are encouraged to target social determinants of health by improving access to education, employment, and healthcare. Investing in public health infrastructure could help reduce disparities and improve statewide health outcomes.",
+    "references": [
+      "Massachusetts State Health Department Reports, 2015",
+      "CDC BRFSS",
+      "U.S. Census Bureau"
+    ]
+  }
+]

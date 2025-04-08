@@ -1,0 +1,1502 @@
+[
+  {
+    "paper_id": "RP1450",
+    "title": "Health Inequality and Socioeconomic Stress in Erie County, New York",
+    "author": "Author A. B.",
+    "publication_year": 2022,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1450",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Erie County, New York. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 83605,
+      "data_years": "2019\u20132022",
+      "findings": "In Erie County, New York, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Erie County, New York, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Erie County, New York Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1451",
+    "title": "Health Inequality and Socioeconomic Stress in Monroe County, New York",
+    "author": "Author B. C.",
+    "publication_year": 2016,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1451",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Monroe County, New York. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 256457,
+      "data_years": "2013\u20132016",
+      "findings": "In Monroe County, New York, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Monroe County, New York, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Monroe County, New York Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1452",
+    "title": "Health Inequality and Socioeconomic Stress in Baltimore County, Maryland",
+    "author": "Author C. D.",
+    "publication_year": 2023,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1452",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Baltimore County, Maryland. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 277122,
+      "data_years": "2020\u20132023",
+      "findings": "In Baltimore County, Maryland, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Baltimore County, Maryland, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Baltimore County, Maryland Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1453",
+    "title": "Health Inequality and Socioeconomic Stress in Jefferson County, Alabama",
+    "author": "Author D. E.",
+    "publication_year": 2022,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1453",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Jefferson County, Alabama. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 284068,
+      "data_years": "2019\u20132022",
+      "findings": "In Jefferson County, Alabama, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Jefferson County, Alabama, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Jefferson County, Alabama Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1454",
+    "title": "Health Inequality and Socioeconomic Stress in El Paso County, Colorado",
+    "author": "Author E. F.",
+    "publication_year": 2015,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1454",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in El Paso County, Colorado. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 48293,
+      "data_years": "2012\u20132015",
+      "findings": "In El Paso County, Colorado, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in El Paso County, Colorado, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "El Paso County, Colorado Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1455",
+    "title": "Health Inequality and Socioeconomic Stress in Snohomish County, Washington",
+    "author": "Author F. G.",
+    "publication_year": 2021,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1455",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Snohomish County, Washington. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 283237,
+      "data_years": "2018\u20132021",
+      "findings": "In Snohomish County, Washington, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Snohomish County, Washington, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Snohomish County, Washington Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1456",
+    "title": "Health Inequality and Socioeconomic Stress in Denver County, Colorado",
+    "author": "Author G. H.",
+    "publication_year": 2015,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1456",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Denver County, Colorado. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 249141,
+      "data_years": "2012\u20132015",
+      "findings": "In Denver County, Colorado, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Denver County, Colorado, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Denver County, Colorado Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1457",
+    "title": "Health Inequality and Socioeconomic Stress in Washington County, Oregon",
+    "author": "Author H. I.",
+    "publication_year": 2020,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1457",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Washington County, Oregon. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 128634,
+      "data_years": "2017\u20132020",
+      "findings": "In Washington County, Oregon, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Washington County, Oregon, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Washington County, Oregon Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1458",
+    "title": "Health Inequality and Socioeconomic Stress in Anchorage Municipality, Alaska",
+    "author": "Author I. J.",
+    "publication_year": 2016,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1458",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Anchorage Municipality, Alaska. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 35532,
+      "data_years": "2013\u20132016",
+      "findings": "In Anchorage Municipality, Alaska, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Anchorage Municipality, Alaska, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Anchorage Municipality, Alaska Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1459",
+    "title": "Health Inequality and Socioeconomic Stress in New Castle County, Delaware",
+    "author": "Author J. K.",
+    "publication_year": 2015,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1459",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in New Castle County, Delaware. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 111894,
+      "data_years": "2012\u20132015",
+      "findings": "In New Castle County, Delaware, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in New Castle County, Delaware, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "New Castle County, Delaware Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1460",
+    "title": "Health Inequality and Socioeconomic Stress in Bernalillo County, New Mexico",
+    "author": "Author K. L.",
+    "publication_year": 2016,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1460",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Bernalillo County, New Mexico. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 282591,
+      "data_years": "2013\u20132016",
+      "findings": "In Bernalillo County, New Mexico, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Bernalillo County, New Mexico, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Bernalillo County, New Mexico Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1461",
+    "title": "Health Inequality and Socioeconomic Stress in Chittenden County, Vermont",
+    "author": "Author L. M.",
+    "publication_year": 2021,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1461",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Chittenden County, Vermont. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 129744,
+      "data_years": "2018\u20132021",
+      "findings": "In Chittenden County, Vermont, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Chittenden County, Vermont, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Chittenden County, Vermont Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1462",
+    "title": "Health Inequality and Socioeconomic Stress in Washtenaw County, Michigan",
+    "author": "Author M. N.",
+    "publication_year": 2023,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1462",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Washtenaw County, Michigan. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 282455,
+      "data_years": "2020\u20132023",
+      "findings": "In Washtenaw County, Michigan, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Washtenaw County, Michigan, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Washtenaw County, Michigan Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1463",
+    "title": "Health Inequality and Socioeconomic Stress in Boone County, Missouri",
+    "author": "Author N. O.",
+    "publication_year": 2023,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1463",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Boone County, Missouri. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 64717,
+      "data_years": "2020\u20132023",
+      "findings": "In Boone County, Missouri, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Boone County, Missouri, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Boone County, Missouri Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1464",
+    "title": "Health Inequality and Socioeconomic Stress in Knox County, Tennessee",
+    "author": "Author O. P.",
+    "publication_year": 2023,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1464",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Knox County, Tennessee. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 87064,
+      "data_years": "2020\u20132023",
+      "findings": "In Knox County, Tennessee, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Knox County, Tennessee, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Knox County, Tennessee Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1465",
+    "title": "Health Inequality and Socioeconomic Stress in Spokane County, Washington",
+    "author": "Author P. Q.",
+    "publication_year": 2016,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1465",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Spokane County, Washington. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 284315,
+      "data_years": "2013\u20132016",
+      "findings": "In Spokane County, Washington, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Spokane County, Washington, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Spokane County, Washington Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1466",
+    "title": "Health Inequality and Socioeconomic Stress in Leon County, Florida",
+    "author": "Author Q. R.",
+    "publication_year": 2017,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1466",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Leon County, Florida. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 233136,
+      "data_years": "2014\u20132017",
+      "findings": "In Leon County, Florida, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Leon County, Florida, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Leon County, Florida Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1467",
+    "title": "Health Inequality and Socioeconomic Stress in Charleston County, South Carolina",
+    "author": "Author R. S.",
+    "publication_year": 2023,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1467",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Charleston County, South Carolina. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 194643,
+      "data_years": "2020\u20132023",
+      "findings": "In Charleston County, South Carolina, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Charleston County, South Carolina, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Charleston County, South Carolina Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1468",
+    "title": "Health Inequality and Socioeconomic Stress in Lancaster County, Pennsylvania",
+    "author": "Author S. T.",
+    "publication_year": 2023,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1468",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Lancaster County, Pennsylvania. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 170889,
+      "data_years": "2020\u20132023",
+      "findings": "In Lancaster County, Pennsylvania, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Lancaster County, Pennsylvania, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Lancaster County, Pennsylvania Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1469",
+    "title": "Health Inequality and Socioeconomic Stress in York County, Pennsylvania",
+    "author": "Author T. U.",
+    "publication_year": 2018,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1469",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in York County, Pennsylvania. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 219392,
+      "data_years": "2015\u20132018",
+      "findings": "In York County, Pennsylvania, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in York County, Pennsylvania, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "York County, Pennsylvania Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1470",
+    "title": "Health Inequality and Socioeconomic Stress in Dane County, Wisconsin",
+    "author": "Author U. V.",
+    "publication_year": 2020,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1470",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Dane County, Wisconsin. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 208653,
+      "data_years": "2017\u20132020",
+      "findings": "In Dane County, Wisconsin, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Dane County, Wisconsin, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Dane County, Wisconsin Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1471",
+    "title": "Health Inequality and Socioeconomic Stress in Ada County, Idaho",
+    "author": "Author V. W.",
+    "publication_year": 2018,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1471",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Ada County, Idaho. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 222121,
+      "data_years": "2015\u20132018",
+      "findings": "In Ada County, Idaho, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Ada County, Idaho, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Ada County, Idaho Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1472",
+    "title": "Health Inequality and Socioeconomic Stress in Richland County, South Carolina",
+    "author": "Author W. X.",
+    "publication_year": 2018,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1472",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Richland County, South Carolina. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 255884,
+      "data_years": "2015\u20132018",
+      "findings": "In Richland County, South Carolina, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Richland County, South Carolina, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Richland County, South Carolina Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1473",
+    "title": "Health Inequality and Socioeconomic Stress in Lubbock County, Texas",
+    "author": "Author X. Y.",
+    "publication_year": 2017,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1473",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Lubbock County, Texas. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 114852,
+      "data_years": "2014\u20132017",
+      "findings": "In Lubbock County, Texas, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Lubbock County, Texas, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Lubbock County, Texas Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1474",
+    "title": "Health Inequality and Socioeconomic Stress in Tuscaloosa County, Alabama",
+    "author": "Author Y. Z.",
+    "publication_year": 2016,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1474",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Tuscaloosa County, Alabama. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 63729,
+      "data_years": "2013\u20132016",
+      "findings": "In Tuscaloosa County, Alabama, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Tuscaloosa County, Alabama, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Tuscaloosa County, Alabama Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1475",
+    "title": "Health Inequality and Socioeconomic Stress in Polk County, Iowa",
+    "author": "Author Z. [.",
+    "publication_year": 2016,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1475",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Polk County, Iowa. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 25729,
+      "data_years": "2013\u20132016",
+      "findings": "In Polk County, Iowa, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Polk County, Iowa, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Polk County, Iowa Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1476",
+    "title": "Health Inequality and Socioeconomic Stress in Summit County, Ohio",
+    "author": "Author A. B.",
+    "publication_year": 2020,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1476",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Summit County, Ohio. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 166407,
+      "data_years": "2017\u20132020",
+      "findings": "In Summit County, Ohio, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Summit County, Ohio, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Summit County, Ohio Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1477",
+    "title": "Health Inequality and Socioeconomic Stress in Chatham County, Georgia",
+    "author": "Author B. C.",
+    "publication_year": 2017,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1477",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Chatham County, Georgia. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 275513,
+      "data_years": "2014\u20132017",
+      "findings": "In Chatham County, Georgia, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Chatham County, Georgia, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Chatham County, Georgia Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1478",
+    "title": "Health Inequality and Socioeconomic Stress in Douglas County, Nebraska",
+    "author": "Author C. D.",
+    "publication_year": 2018,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1478",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Douglas County, Nebraska. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 161684,
+      "data_years": "2015\u20132018",
+      "findings": "In Douglas County, Nebraska, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Douglas County, Nebraska, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Douglas County, Nebraska Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1479",
+    "title": "Health Inequality and Socioeconomic Stress in Worcester County, Massachusetts",
+    "author": "Author D. E.",
+    "publication_year": 2017,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1479",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Worcester County, Massachusetts. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 80364,
+      "data_years": "2014\u20132017",
+      "findings": "In Worcester County, Massachusetts, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Worcester County, Massachusetts, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Worcester County, Massachusetts Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1480",
+    "title": "Health Inequality and Socioeconomic Stress in Onondaga County, New York",
+    "author": "Author E. F.",
+    "publication_year": 2021,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1480",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Onondaga County, New York. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 113960,
+      "data_years": "2018\u20132021",
+      "findings": "In Onondaga County, New York, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Onondaga County, New York, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Onondaga County, New York Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1481",
+    "title": "Health Inequality and Socioeconomic Stress in Madison County, Illinois",
+    "author": "Author F. G.",
+    "publication_year": 2023,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1481",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Madison County, Illinois. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 228453,
+      "data_years": "2020\u20132023",
+      "findings": "In Madison County, Illinois, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Madison County, Illinois, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Madison County, Illinois Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1482",
+    "title": "Health Inequality and Socioeconomic Stress in Lucas County, Ohio",
+    "author": "Author G. H.",
+    "publication_year": 2018,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1482",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Lucas County, Ohio. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 235186,
+      "data_years": "2015\u20132018",
+      "findings": "In Lucas County, Ohio, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Lucas County, Ohio, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Lucas County, Ohio Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1483",
+    "title": "Health Inequality and Socioeconomic Stress in Mobile County, Alabama",
+    "author": "Author H. I.",
+    "publication_year": 2022,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1483",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Mobile County, Alabama. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 101523,
+      "data_years": "2019\u20132022",
+      "findings": "In Mobile County, Alabama, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Mobile County, Alabama, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Mobile County, Alabama Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1484",
+    "title": "Health Inequality and Socioeconomic Stress in Placer County, California",
+    "author": "Author I. J.",
+    "publication_year": 2020,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1484",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Placer County, California. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 110220,
+      "data_years": "2017\u20132020",
+      "findings": "In Placer County, California, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Placer County, California, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Placer County, California Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1485",
+    "title": "Health Inequality and Socioeconomic Stress in Weld County, Colorado",
+    "author": "Author J. K.",
+    "publication_year": 2022,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1485",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Weld County, Colorado. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 230426,
+      "data_years": "2019\u20132022",
+      "findings": "In Weld County, Colorado, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Weld County, Colorado, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Weld County, Colorado Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1486",
+    "title": "Health Inequality and Socioeconomic Stress in St. Louis County, Missouri",
+    "author": "Author K. L.",
+    "publication_year": 2022,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1486",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in St. Louis County, Missouri. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 147739,
+      "data_years": "2019\u20132022",
+      "findings": "In St. Louis County, Missouri, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in St. Louis County, Missouri, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "St. Louis County, Missouri Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1487",
+    "title": "Health Inequality and Socioeconomic Stress in Lake County, Illinois",
+    "author": "Author L. M.",
+    "publication_year": 2017,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1487",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Lake County, Illinois. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 254742,
+      "data_years": "2014\u20132017",
+      "findings": "In Lake County, Illinois, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Lake County, Illinois, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Lake County, Illinois Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1488",
+    "title": "Health Inequality and Socioeconomic Stress in Butler County, Ohio",
+    "author": "Author M. N.",
+    "publication_year": 2019,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1488",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Butler County, Ohio. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 225897,
+      "data_years": "2016\u20132019",
+      "findings": "In Butler County, Ohio, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Butler County, Ohio, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Butler County, Ohio Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1489",
+    "title": "Health Inequality and Socioeconomic Stress in Berks County, Pennsylvania",
+    "author": "Author N. O.",
+    "publication_year": 2019,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1489",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Berks County, Pennsylvania. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 290938,
+      "data_years": "2016\u20132019",
+      "findings": "In Berks County, Pennsylvania, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Berks County, Pennsylvania, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Berks County, Pennsylvania Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1490",
+    "title": "Health Inequality and Socioeconomic Stress in Cameron County, Texas",
+    "author": "Author O. P.",
+    "publication_year": 2022,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1490",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Cameron County, Texas. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 33904,
+      "data_years": "2019\u20132022",
+      "findings": "In Cameron County, Texas, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Cameron County, Texas, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Cameron County, Texas Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1491",
+    "title": "Health Inequality and Socioeconomic Stress in Passaic County, New Jersey",
+    "author": "Author P. Q.",
+    "publication_year": 2018,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1491",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Passaic County, New Jersey. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 268775,
+      "data_years": "2015\u20132018",
+      "findings": "In Passaic County, New Jersey, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Passaic County, New Jersey, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Passaic County, New Jersey Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1492",
+    "title": "Health Inequality and Socioeconomic Stress in Cumberland County, Maine",
+    "author": "Author Q. R.",
+    "publication_year": 2020,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1492",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Cumberland County, Maine. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 196882,
+      "data_years": "2017\u20132020",
+      "findings": "In Cumberland County, Maine, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Cumberland County, Maine, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Cumberland County, Maine Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1493",
+    "title": "Health Inequality and Socioeconomic Stress in Clermont County, Ohio",
+    "author": "Author R. S.",
+    "publication_year": 2023,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1493",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Clermont County, Ohio. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 44340,
+      "data_years": "2020\u20132023",
+      "findings": "In Clermont County, Ohio, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Clermont County, Ohio, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Clermont County, Ohio Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1494",
+    "title": "Health Inequality and Socioeconomic Stress in Orange County, North Carolina",
+    "author": "Author S. T.",
+    "publication_year": 2015,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1494",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Orange County, North Carolina. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 155491,
+      "data_years": "2012\u20132015",
+      "findings": "In Orange County, North Carolina, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Orange County, North Carolina, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Orange County, North Carolina Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1495",
+    "title": "Health Inequality and Socioeconomic Stress in Winnebago County, Illinois",
+    "author": "Author T. U.",
+    "publication_year": 2023,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1495",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Winnebago County, Illinois. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 44576,
+      "data_years": "2020\u20132023",
+      "findings": "In Winnebago County, Illinois, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Winnebago County, Illinois, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Winnebago County, Illinois Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1496",
+    "title": "Health Inequality and Socioeconomic Stress in Stark County, Ohio",
+    "author": "Author U. V.",
+    "publication_year": 2019,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1496",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Stark County, Ohio. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 114611,
+      "data_years": "2016\u20132019",
+      "findings": "In Stark County, Ohio, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Stark County, Ohio, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Stark County, Ohio Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1497",
+    "title": "Health Inequality and Socioeconomic Stress in Lowndes County, Georgia",
+    "author": "Author V. W.",
+    "publication_year": 2018,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1497",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Lowndes County, Georgia. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 109238,
+      "data_years": "2015\u20132018",
+      "findings": "In Lowndes County, Georgia, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Lowndes County, Georgia, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Lowndes County, Georgia Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1498",
+    "title": "Health Inequality and Socioeconomic Stress in Kane County, Illinois",
+    "author": "Author W. X.",
+    "publication_year": 2023,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1498",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Kane County, Illinois. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 160688,
+      "data_years": "2020\u20132023",
+      "findings": "In Kane County, Illinois, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Kane County, Illinois, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Kane County, Illinois Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  },
+  {
+    "paper_id": "RP1499",
+    "title": "Health Inequality and Socioeconomic Stress in Camden County, New Jersey",
+    "author": "Author X. Y.",
+    "publication_year": 2022,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1499",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This analysis focuses on the effects of income disparity, employment status, and education access on healthcare usage in Camden County, New Jersey. It investigates hospital readmissions, vaccination coverage, and chronic disease trends linked to socio-economic pressures.",
+    "statistical_analysis": {
+      "methods_used": "Logistic regression, stratified analysis",
+      "key_variables": [
+        "income inequality",
+        "employment rate",
+        "education level",
+        "chronic disease occurrence"
+      ],
+      "sample_size": 166604,
+      "data_years": "2019\u20132022",
+      "findings": "In Camden County, New Jersey, limited access to preventive care and higher unemployment correlated with a 26% increase in preventable hospitalizations. Disparities in health outcomes were more pronounced in low-income ZIP codes (p < 0.05).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "This study recommends the expansion of localized health outreach and mobile clinics in Camden County, New Jersey, alongside education grants to support long-term improvements in social determinants of health.",
+    "references": [
+      "Camden County, New Jersey Community Health Needs Assessment",
+      "CDC County Health Rankings",
+      "U.S. Health and Human Services Reports"
+    ]
+  }
+]

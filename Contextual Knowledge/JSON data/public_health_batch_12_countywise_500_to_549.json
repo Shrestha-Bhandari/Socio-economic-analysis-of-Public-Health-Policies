@@ -1,0 +1,1502 @@
+[
+  {
+    "paper_id": "RP1500",
+    "title": "Evaluating Health Inequities and Social Determinants in Delaware County, Ohio",
+    "author": "Author A. B.",
+    "publication_year": 2018,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1500",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Delaware County, Ohio. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 77405,
+      "data_years": "2015\u20132018",
+      "findings": "Residents in Delaware County, Ohio with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Delaware County, Ohio include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Delaware County, Ohio Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1501",
+    "title": "Evaluating Health Inequities and Social Determinants in Will County, Illinois",
+    "author": "Author B. C.",
+    "publication_year": 2015,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1501",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Will County, Illinois. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 220396,
+      "data_years": "2012\u20132015",
+      "findings": "Residents in Will County, Illinois with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Will County, Illinois include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Will County, Illinois Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1502",
+    "title": "Evaluating Health Inequities and Social Determinants in Ocean County, New Jersey",
+    "author": "Author C. D.",
+    "publication_year": 2023,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1502",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Ocean County, New Jersey. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 302871,
+      "data_years": "2020\u20132023",
+      "findings": "Residents in Ocean County, New Jersey with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Ocean County, New Jersey include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Ocean County, New Jersey Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1503",
+    "title": "Evaluating Health Inequities and Social Determinants in Porter County, Indiana",
+    "author": "Author D. E.",
+    "publication_year": 2021,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1503",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Porter County, Indiana. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 335102,
+      "data_years": "2018\u20132021",
+      "findings": "Residents in Porter County, Indiana with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Porter County, Indiana include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Porter County, Indiana Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1504",
+    "title": "Evaluating Health Inequities and Social Determinants in Yolo County, California",
+    "author": "Author E. F.",
+    "publication_year": 2023,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1504",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Yolo County, California. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 449438,
+      "data_years": "2020\u20132023",
+      "findings": "Residents in Yolo County, California with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Yolo County, California include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Yolo County, California Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1505",
+    "title": "Evaluating Health Inequities and Social Determinants in Monterey County, California",
+    "author": "Author F. G.",
+    "publication_year": 2015,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1505",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Monterey County, California. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 83432,
+      "data_years": "2012\u20132015",
+      "findings": "Residents in Monterey County, California with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Monterey County, California include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Monterey County, California Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1506",
+    "title": "Evaluating Health Inequities and Social Determinants in Washington County, Arkansas",
+    "author": "Author G. H.",
+    "publication_year": 2020,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1506",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Washington County, Arkansas. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 320758,
+      "data_years": "2017\u20132020",
+      "findings": "Residents in Washington County, Arkansas with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Washington County, Arkansas include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Washington County, Arkansas Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1507",
+    "title": "Evaluating Health Inequities and Social Determinants in McLennan County, Texas",
+    "author": "Author H. I.",
+    "publication_year": 2021,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1507",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in McLennan County, Texas. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 239031,
+      "data_years": "2018\u20132021",
+      "findings": "Residents in McLennan County, Texas with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for McLennan County, Texas include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "McLennan County, Texas Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1508",
+    "title": "Evaluating Health Inequities and Social Determinants in Winona County, Minnesota",
+    "author": "Author I. J.",
+    "publication_year": 2015,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1508",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Winona County, Minnesota. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 347528,
+      "data_years": "2012\u20132015",
+      "findings": "Residents in Winona County, Minnesota with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Winona County, Minnesota include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Winona County, Minnesota Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1509",
+    "title": "Evaluating Health Inequities and Social Determinants in Mohave County, Arizona",
+    "author": "Author J. K.",
+    "publication_year": 2018,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1509",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Mohave County, Arizona. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 223475,
+      "data_years": "2015\u20132018",
+      "findings": "Residents in Mohave County, Arizona with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Mohave County, Arizona include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Mohave County, Arizona Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1510",
+    "title": "Evaluating Health Inequities and Social Determinants in Bay County, Florida",
+    "author": "Author K. L.",
+    "publication_year": 2018,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1510",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Bay County, Florida. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 444684,
+      "data_years": "2015\u20132018",
+      "findings": "Residents in Bay County, Florida with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Bay County, Florida include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Bay County, Florida Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1511",
+    "title": "Evaluating Health Inequities and Social Determinants in Craven County, North Carolina",
+    "author": "Author L. M.",
+    "publication_year": 2017,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1511",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Craven County, North Carolina. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 59013,
+      "data_years": "2014\u20132017",
+      "findings": "Residents in Craven County, North Carolina with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Craven County, North Carolina include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Craven County, North Carolina Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1512",
+    "title": "Evaluating Health Inequities and Social Determinants in Cascade County, Montana",
+    "author": "Author M. N.",
+    "publication_year": 2019,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1512",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Cascade County, Montana. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 287629,
+      "data_years": "2016\u20132019",
+      "findings": "Residents in Cascade County, Montana with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Cascade County, Montana include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Cascade County, Montana Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1513",
+    "title": "Evaluating Health Inequities and Social Determinants in Rapides Parish, Louisiana",
+    "author": "Author N. O.",
+    "publication_year": 2017,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1513",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Rapides Parish, Louisiana. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 431753,
+      "data_years": "2014\u20132017",
+      "findings": "Residents in Rapides Parish, Louisiana with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Rapides Parish, Louisiana include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Rapides Parish, Louisiana Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1514",
+    "title": "Evaluating Health Inequities and Social Determinants in Rankin County, Mississippi",
+    "author": "Author O. P.",
+    "publication_year": 2023,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1514",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Rankin County, Mississippi. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 496405,
+      "data_years": "2020\u20132023",
+      "findings": "Residents in Rankin County, Mississippi with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Rankin County, Mississippi include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Rankin County, Mississippi Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1515",
+    "title": "Evaluating Health Inequities and Social Determinants in Tazewell County, Illinois",
+    "author": "Author P. Q.",
+    "publication_year": 2021,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1515",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Tazewell County, Illinois. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 83444,
+      "data_years": "2018\u20132021",
+      "findings": "Residents in Tazewell County, Illinois with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Tazewell County, Illinois include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Tazewell County, Illinois Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1516",
+    "title": "Evaluating Health Inequities and Social Determinants in Walker County, Georgia",
+    "author": "Author Q. R.",
+    "publication_year": 2022,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1516",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Walker County, Georgia. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 344340,
+      "data_years": "2019\u20132022",
+      "findings": "Residents in Walker County, Georgia with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Walker County, Georgia include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Walker County, Georgia Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1517",
+    "title": "Evaluating Health Inequities and Social Determinants in Sebastian County, Arkansas",
+    "author": "Author R. S.",
+    "publication_year": 2018,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1517",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Sebastian County, Arkansas. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 44492,
+      "data_years": "2015\u20132018",
+      "findings": "Residents in Sebastian County, Arkansas with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Sebastian County, Arkansas include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Sebastian County, Arkansas Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1518",
+    "title": "Evaluating Health Inequities and Social Determinants in Yavapai County, Arizona",
+    "author": "Author S. T.",
+    "publication_year": 2018,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1518",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Yavapai County, Arizona. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 300499,
+      "data_years": "2015\u20132018",
+      "findings": "Residents in Yavapai County, Arizona with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Yavapai County, Arizona include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Yavapai County, Arizona Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1519",
+    "title": "Evaluating Health Inequities and Social Determinants in Ouachita Parish, Louisiana",
+    "author": "Author T. U.",
+    "publication_year": 2018,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1519",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Ouachita Parish, Louisiana. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 476561,
+      "data_years": "2015\u20132018",
+      "findings": "Residents in Ouachita Parish, Louisiana with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Ouachita Parish, Louisiana include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Ouachita Parish, Louisiana Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1520",
+    "title": "Evaluating Health Inequities and Social Determinants in Beaver County, Pennsylvania",
+    "author": "Author U. V.",
+    "publication_year": 2021,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1520",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Beaver County, Pennsylvania. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 88931,
+      "data_years": "2018\u20132021",
+      "findings": "Residents in Beaver County, Pennsylvania with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Beaver County, Pennsylvania include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Beaver County, Pennsylvania Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1521",
+    "title": "Evaluating Health Inequities and Social Determinants in Chautauqua County, New York",
+    "author": "Author V. W.",
+    "publication_year": 2021,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1521",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Chautauqua County, New York. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 490028,
+      "data_years": "2018\u20132021",
+      "findings": "Residents in Chautauqua County, New York with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Chautauqua County, New York include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Chautauqua County, New York Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1522",
+    "title": "Evaluating Health Inequities and Social Determinants in Oneida County, New York",
+    "author": "Author W. X.",
+    "publication_year": 2021,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1522",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Oneida County, New York. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 186095,
+      "data_years": "2018\u20132021",
+      "findings": "Residents in Oneida County, New York with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Oneida County, New York include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Oneida County, New York Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1523",
+    "title": "Evaluating Health Inequities and Social Determinants in Garfield County, Colorado",
+    "author": "Author X. Y.",
+    "publication_year": 2019,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1523",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Garfield County, Colorado. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 218336,
+      "data_years": "2016\u20132019",
+      "findings": "Residents in Garfield County, Colorado with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Garfield County, Colorado include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Garfield County, Colorado Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1524",
+    "title": "Evaluating Health Inequities and Social Determinants in Jackson County, Oregon",
+    "author": "Author Y. Z.",
+    "publication_year": 2023,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1524",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Jackson County, Oregon. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 193160,
+      "data_years": "2020\u20132023",
+      "findings": "Residents in Jackson County, Oregon with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Jackson County, Oregon include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Jackson County, Oregon Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1525",
+    "title": "Evaluating Health Inequities and Social Determinants in Columbia County, Georgia",
+    "author": "Author Z. [.",
+    "publication_year": 2021,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1525",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Columbia County, Georgia. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 280615,
+      "data_years": "2018\u20132021",
+      "findings": "Residents in Columbia County, Georgia with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Columbia County, Georgia include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Columbia County, Georgia Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1526",
+    "title": "Evaluating Health Inequities and Social Determinants in Warren County, Kentucky",
+    "author": "Author A. B.",
+    "publication_year": 2015,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1526",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Warren County, Kentucky. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 387154,
+      "data_years": "2012\u20132015",
+      "findings": "Residents in Warren County, Kentucky with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Warren County, Kentucky include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Warren County, Kentucky Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1527",
+    "title": "Evaluating Health Inequities and Social Determinants in Aiken County, South Carolina",
+    "author": "Author B. C.",
+    "publication_year": 2016,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1527",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Aiken County, South Carolina. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 136497,
+      "data_years": "2013\u20132016",
+      "findings": "Residents in Aiken County, South Carolina with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Aiken County, South Carolina include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Aiken County, South Carolina Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1528",
+    "title": "Evaluating Health Inequities and Social Determinants in St. Lawrence County, New York",
+    "author": "Author C. D.",
+    "publication_year": 2019,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1528",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in St. Lawrence County, New York. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 207374,
+      "data_years": "2016\u20132019",
+      "findings": "Residents in St. Lawrence County, New York with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for St. Lawrence County, New York include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "St. Lawrence County, New York Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1529",
+    "title": "Evaluating Health Inequities and Social Determinants in Rock County, Wisconsin",
+    "author": "Author D. E.",
+    "publication_year": 2015,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1529",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Rock County, Wisconsin. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 437783,
+      "data_years": "2012\u20132015",
+      "findings": "Residents in Rock County, Wisconsin with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Rock County, Wisconsin include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Rock County, Wisconsin Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1530",
+    "title": "Evaluating Health Inequities and Social Determinants in Anderson County, Tennessee",
+    "author": "Author E. F.",
+    "publication_year": 2021,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1530",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Anderson County, Tennessee. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 198037,
+      "data_years": "2018\u20132021",
+      "findings": "Residents in Anderson County, Tennessee with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Anderson County, Tennessee include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Anderson County, Tennessee Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1531",
+    "title": "Evaluating Health Inequities and Social Determinants in Cache County, Utah",
+    "author": "Author F. G.",
+    "publication_year": 2017,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1531",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Cache County, Utah. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 107525,
+      "data_years": "2014\u20132017",
+      "findings": "Residents in Cache County, Utah with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Cache County, Utah include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Cache County, Utah Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1532",
+    "title": "Evaluating Health Inequities and Social Determinants in Jefferson Parish, Louisiana",
+    "author": "Author G. H.",
+    "publication_year": 2021,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1532",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Jefferson Parish, Louisiana. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 246609,
+      "data_years": "2018\u20132021",
+      "findings": "Residents in Jefferson Parish, Louisiana with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Jefferson Parish, Louisiana include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Jefferson Parish, Louisiana Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1533",
+    "title": "Evaluating Health Inequities and Social Determinants in Wicomico County, Maryland",
+    "author": "Author H. I.",
+    "publication_year": 2023,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1533",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Wicomico County, Maryland. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 477717,
+      "data_years": "2020\u20132023",
+      "findings": "Residents in Wicomico County, Maryland with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Wicomico County, Maryland include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Wicomico County, Maryland Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1534",
+    "title": "Evaluating Health Inequities and Social Determinants in Rockingham County, New Hampshire",
+    "author": "Author I. J.",
+    "publication_year": 2020,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1534",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Rockingham County, New Hampshire. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 373515,
+      "data_years": "2017\u20132020",
+      "findings": "Residents in Rockingham County, New Hampshire with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Rockingham County, New Hampshire include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Rockingham County, New Hampshire Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1535",
+    "title": "Evaluating Health Inequities and Social Determinants in Kenai Peninsula Borough, Alaska",
+    "author": "Author J. K.",
+    "publication_year": 2016,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1535",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Kenai Peninsula Borough, Alaska. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 248924,
+      "data_years": "2013\u20132016",
+      "findings": "Residents in Kenai Peninsula Borough, Alaska with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Kenai Peninsula Borough, Alaska include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Kenai Peninsula Borough, Alaska Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1536",
+    "title": "Evaluating Health Inequities and Social Determinants in Muskegon County, Michigan",
+    "author": "Author K. L.",
+    "publication_year": 2019,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1536",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Muskegon County, Michigan. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 151128,
+      "data_years": "2016\u20132019",
+      "findings": "Residents in Muskegon County, Michigan with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Muskegon County, Michigan include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Muskegon County, Michigan Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1537",
+    "title": "Evaluating Health Inequities and Social Determinants in Stearns County, Minnesota",
+    "author": "Author L. M.",
+    "publication_year": 2015,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1537",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Stearns County, Minnesota. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 435602,
+      "data_years": "2012\u20132015",
+      "findings": "Residents in Stearns County, Minnesota with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Stearns County, Minnesota include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Stearns County, Minnesota Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1538",
+    "title": "Evaluating Health Inequities and Social Determinants in Scott County, Iowa",
+    "author": "Author M. N.",
+    "publication_year": 2020,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1538",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Scott County, Iowa. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 327620,
+      "data_years": "2017\u20132020",
+      "findings": "Residents in Scott County, Iowa with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Scott County, Iowa include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Scott County, Iowa Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1539",
+    "title": "Evaluating Health Inequities and Social Determinants in Portage County, Ohio",
+    "author": "Author N. O.",
+    "publication_year": 2021,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1539",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Portage County, Ohio. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 30085,
+      "data_years": "2018\u20132021",
+      "findings": "Residents in Portage County, Ohio with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Portage County, Ohio include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Portage County, Ohio Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1540",
+    "title": "Evaluating Health Inequities and Social Determinants in Walton County, Florida",
+    "author": "Author O. P.",
+    "publication_year": 2017,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1540",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Walton County, Florida. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 297740,
+      "data_years": "2014\u20132017",
+      "findings": "Residents in Walton County, Florida with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Walton County, Florida include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Walton County, Florida Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1541",
+    "title": "Evaluating Health Inequities and Social Determinants in Frederick County, Maryland",
+    "author": "Author P. Q.",
+    "publication_year": 2016,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1541",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Frederick County, Maryland. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 164680,
+      "data_years": "2013\u20132016",
+      "findings": "Residents in Frederick County, Maryland with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Frederick County, Maryland include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Frederick County, Maryland Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1542",
+    "title": "Evaluating Health Inequities and Social Determinants in Isanti County, Minnesota",
+    "author": "Author Q. R.",
+    "publication_year": 2022,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1542",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Isanti County, Minnesota. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 299400,
+      "data_years": "2019\u20132022",
+      "findings": "Residents in Isanti County, Minnesota with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Isanti County, Minnesota include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Isanti County, Minnesota Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1543",
+    "title": "Evaluating Health Inequities and Social Determinants in Wood County, Ohio",
+    "author": "Author R. S.",
+    "publication_year": 2017,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1543",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Wood County, Ohio. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 325186,
+      "data_years": "2014\u20132017",
+      "findings": "Residents in Wood County, Ohio with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Wood County, Ohio include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Wood County, Ohio Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1544",
+    "title": "Evaluating Health Inequities and Social Determinants in Chesterfield County, Virginia",
+    "author": "Author S. T.",
+    "publication_year": 2023,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1544",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Chesterfield County, Virginia. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 228161,
+      "data_years": "2020\u20132023",
+      "findings": "Residents in Chesterfield County, Virginia with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Chesterfield County, Virginia include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Chesterfield County, Virginia Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1545",
+    "title": "Evaluating Health Inequities and Social Determinants in Brazos County, Texas",
+    "author": "Author T. U.",
+    "publication_year": 2017,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1545",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Brazos County, Texas. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 162583,
+      "data_years": "2014\u20132017",
+      "findings": "Residents in Brazos County, Texas with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Brazos County, Texas include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Brazos County, Texas Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1546",
+    "title": "Evaluating Health Inequities and Social Determinants in Washington County, Minnesota",
+    "author": "Author U. V.",
+    "publication_year": 2019,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1546",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Washington County, Minnesota. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 264939,
+      "data_years": "2016\u20132019",
+      "findings": "Residents in Washington County, Minnesota with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Washington County, Minnesota include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Washington County, Minnesota Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1547",
+    "title": "Evaluating Health Inequities and Social Determinants in Hancock County, Indiana",
+    "author": "Author V. W.",
+    "publication_year": 2023,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1547",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Hancock County, Indiana. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 65377,
+      "data_years": "2020\u20132023",
+      "findings": "Residents in Hancock County, Indiana with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Hancock County, Indiana include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Hancock County, Indiana Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1548",
+    "title": "Evaluating Health Inequities and Social Determinants in Floyd County, Georgia",
+    "author": "Author W. X.",
+    "publication_year": 2016,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1548",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Floyd County, Georgia. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 444015,
+      "data_years": "2013\u20132016",
+      "findings": "Residents in Floyd County, Georgia with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Floyd County, Georgia include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Floyd County, Georgia Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  },
+  {
+    "paper_id": "RP1549",
+    "title": "Evaluating Health Inequities and Social Determinants in Kootenai County, Idaho",
+    "author": "Author X. Y.",
+    "publication_year": 2022,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1549",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This study investigates how social determinants of health\u2014such as education, housing affordability, and access to care\u2014affect health disparities in Kootenai County, Idaho. Special focus is given to underserved populations and chronic condition prevalence.",
+    "statistical_analysis": {
+      "methods_used": "Geospatial trend analysis, logistic regression",
+      "key_variables": [
+        "access to care",
+        "preventable hospitalizations",
+        "education attainment",
+        "income-to-need ratio"
+      ],
+      "sample_size": 482084,
+      "data_years": "2019\u20132022",
+      "findings": "Residents in Kootenai County, Idaho with low socioeconomic status experienced 1.7x greater rates of ER admissions and lower rates of preventive screening (p < 0.05). Areas with improved primary care access showed measurable improvement in health outcomes.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Recommendations for Kootenai County, Idaho include expanding Medicaid, increasing local primary care availability, and strengthening educational outreach around chronic disease prevention.",
+    "references": [
+      "Kootenai County, Idaho Health Department Indicators Report",
+      "County Health Rankings & Roadmaps",
+      "NIH Chronic Disease Prevention Brief"
+    ]
+  }
+]

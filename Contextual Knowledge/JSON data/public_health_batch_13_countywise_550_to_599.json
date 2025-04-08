@@ -1,0 +1,1502 @@
+[
+  {
+    "paper_id": "RP1550",
+    "title": "Linking Social Stressors and Health System Gaps in Madison County, Kentucky",
+    "author": "Author A. B.",
+    "publication_year": 2021,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1550",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Madison County, Kentucky. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 179281,
+      "data_years": "2018\u20132021",
+      "findings": "Among residents of Madison County, Kentucky, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Madison County, Kentucky include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Madison County, Kentucky Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1551",
+    "title": "Linking Social Stressors and Health System Gaps in Webb County, Texas",
+    "author": "Author B. C.",
+    "publication_year": 2021,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1551",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Webb County, Texas. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 165846,
+      "data_years": "2018\u20132021",
+      "findings": "Among residents of Webb County, Texas, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Webb County, Texas include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Webb County, Texas Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1552",
+    "title": "Linking Social Stressors and Health System Gaps in Bayou La Batre, Alabama",
+    "author": "Author C. D.",
+    "publication_year": 2022,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1552",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Bayou La Batre, Alabama. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 234258,
+      "data_years": "2019\u20132022",
+      "findings": "Among residents of Bayou La Batre, Alabama, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Bayou La Batre, Alabama include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Bayou La Batre, Alabama Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1553",
+    "title": "Linking Social Stressors and Health System Gaps in McLean County, Illinois",
+    "author": "Author D. E.",
+    "publication_year": 2021,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1553",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in McLean County, Illinois. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 273056,
+      "data_years": "2018\u20132021",
+      "findings": "Among residents of McLean County, Illinois, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for McLean County, Illinois include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "McLean County, Illinois Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1554",
+    "title": "Linking Social Stressors and Health System Gaps in Clark County, Indiana",
+    "author": "Author E. F.",
+    "publication_year": 2018,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1554",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Clark County, Indiana. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 255178,
+      "data_years": "2015\u20132018",
+      "findings": "Among residents of Clark County, Indiana, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Clark County, Indiana include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Clark County, Indiana Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1555",
+    "title": "Linking Social Stressors and Health System Gaps in Christian County, Missouri",
+    "author": "Author F. G.",
+    "publication_year": 2023,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1555",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Christian County, Missouri. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 180304,
+      "data_years": "2020\u20132023",
+      "findings": "Among residents of Christian County, Missouri, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Christian County, Missouri include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Christian County, Missouri Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1556",
+    "title": "Linking Social Stressors and Health System Gaps in Haywood County, North Carolina",
+    "author": "Author G. H.",
+    "publication_year": 2021,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1556",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Haywood County, North Carolina. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 85595,
+      "data_years": "2018\u20132021",
+      "findings": "Among residents of Haywood County, North Carolina, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Haywood County, North Carolina include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Haywood County, North Carolina Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1557",
+    "title": "Linking Social Stressors and Health System Gaps in Eagle County, Colorado",
+    "author": "Author H. I.",
+    "publication_year": 2021,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1557",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Eagle County, Colorado. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 278282,
+      "data_years": "2018\u20132021",
+      "findings": "Among residents of Eagle County, Colorado, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Eagle County, Colorado include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Eagle County, Colorado Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1558",
+    "title": "Linking Social Stressors and Health System Gaps in Putnam County, Tennessee",
+    "author": "Author I. J.",
+    "publication_year": 2021,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1558",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Putnam County, Tennessee. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 89522,
+      "data_years": "2018\u20132021",
+      "findings": "Among residents of Putnam County, Tennessee, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Putnam County, Tennessee include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Putnam County, Tennessee Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1559",
+    "title": "Linking Social Stressors and Health System Gaps in Tehama County, California",
+    "author": "Author J. K.",
+    "publication_year": 2019,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1559",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Tehama County, California. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 100478,
+      "data_years": "2016\u20132019",
+      "findings": "Among residents of Tehama County, California, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Tehama County, California include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Tehama County, California Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1560",
+    "title": "Linking Social Stressors and Health System Gaps in Benton County, Oregon",
+    "author": "Author K. L.",
+    "publication_year": 2018,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1560",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Benton County, Oregon. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 89585,
+      "data_years": "2015\u20132018",
+      "findings": "Among residents of Benton County, Oregon, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Benton County, Oregon include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Benton County, Oregon Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1561",
+    "title": "Linking Social Stressors and Health System Gaps in Linn County, Iowa",
+    "author": "Author L. M.",
+    "publication_year": 2016,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1561",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Linn County, Iowa. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 65155,
+      "data_years": "2013\u20132016",
+      "findings": "Among residents of Linn County, Iowa, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Linn County, Iowa include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Linn County, Iowa Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1562",
+    "title": "Linking Social Stressors and Health System Gaps in Otter Tail County, Minnesota",
+    "author": "Author M. N.",
+    "publication_year": 2023,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1562",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Otter Tail County, Minnesota. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 258829,
+      "data_years": "2020\u20132023",
+      "findings": "Among residents of Otter Tail County, Minnesota, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Otter Tail County, Minnesota include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Otter Tail County, Minnesota Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1563",
+    "title": "Linking Social Stressors and Health System Gaps in Taylor County, Texas",
+    "author": "Author N. O.",
+    "publication_year": 2017,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1563",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Taylor County, Texas. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 162878,
+      "data_years": "2014\u20132017",
+      "findings": "Among residents of Taylor County, Texas, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Taylor County, Texas include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Taylor County, Texas Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1564",
+    "title": "Linking Social Stressors and Health System Gaps in Jones County, Mississippi",
+    "author": "Author O. P.",
+    "publication_year": 2016,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1564",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Jones County, Mississippi. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 264651,
+      "data_years": "2013\u20132016",
+      "findings": "Among residents of Jones County, Mississippi, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Jones County, Mississippi include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Jones County, Mississippi Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1565",
+    "title": "Linking Social Stressors and Health System Gaps in Rockwall County, Texas",
+    "author": "Author P. Q.",
+    "publication_year": 2016,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1565",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Rockwall County, Texas. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 81193,
+      "data_years": "2013\u20132016",
+      "findings": "Among residents of Rockwall County, Texas, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Rockwall County, Texas include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Rockwall County, Texas Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1566",
+    "title": "Linking Social Stressors and Health System Gaps in Cecil County, Maryland",
+    "author": "Author Q. R.",
+    "publication_year": 2016,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1566",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Cecil County, Maryland. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 236630,
+      "data_years": "2013\u20132016",
+      "findings": "Among residents of Cecil County, Maryland, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Cecil County, Maryland include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Cecil County, Maryland Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1567",
+    "title": "Linking Social Stressors and Health System Gaps in Del Norte County, California",
+    "author": "Author R. S.",
+    "publication_year": 2015,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1567",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Del Norte County, California. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 108892,
+      "data_years": "2012\u20132015",
+      "findings": "Among residents of Del Norte County, California, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Del Norte County, California include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Del Norte County, California Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1568",
+    "title": "Linking Social Stressors and Health System Gaps in Merced County, California",
+    "author": "Author S. T.",
+    "publication_year": 2023,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1568",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Merced County, California. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 78386,
+      "data_years": "2020\u20132023",
+      "findings": "Among residents of Merced County, California, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Merced County, California include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Merced County, California Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1569",
+    "title": "Linking Social Stressors and Health System Gaps in Saginaw County, Michigan",
+    "author": "Author T. U.",
+    "publication_year": 2019,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1569",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Saginaw County, Michigan. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 253306,
+      "data_years": "2016\u20132019",
+      "findings": "Among residents of Saginaw County, Michigan, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Saginaw County, Michigan include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Saginaw County, Michigan Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1570",
+    "title": "Linking Social Stressors and Health System Gaps in White County, Arkansas",
+    "author": "Author U. V.",
+    "publication_year": 2020,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1570",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in White County, Arkansas. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 273995,
+      "data_years": "2017\u20132020",
+      "findings": "Among residents of White County, Arkansas, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for White County, Arkansas include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "White County, Arkansas Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1571",
+    "title": "Linking Social Stressors and Health System Gaps in Lafayette County, Louisiana",
+    "author": "Author V. W.",
+    "publication_year": 2021,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1571",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Lafayette County, Louisiana. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 142711,
+      "data_years": "2018\u20132021",
+      "findings": "Among residents of Lafayette County, Louisiana, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Lafayette County, Louisiana include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Lafayette County, Louisiana Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1572",
+    "title": "Linking Social Stressors and Health System Gaps in Davie County, North Carolina",
+    "author": "Author W. X.",
+    "publication_year": 2019,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1572",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Davie County, North Carolina. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 89623,
+      "data_years": "2016\u20132019",
+      "findings": "Among residents of Davie County, North Carolina, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Davie County, North Carolina include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Davie County, North Carolina Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1573",
+    "title": "Linking Social Stressors and Health System Gaps in Sherburne County, Minnesota",
+    "author": "Author X. Y.",
+    "publication_year": 2021,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1573",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Sherburne County, Minnesota. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 46246,
+      "data_years": "2018\u20132021",
+      "findings": "Among residents of Sherburne County, Minnesota, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Sherburne County, Minnesota include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Sherburne County, Minnesota Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1574",
+    "title": "Linking Social Stressors and Health System Gaps in Pike County, Kentucky",
+    "author": "Author Y. Z.",
+    "publication_year": 2022,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1574",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Pike County, Kentucky. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 118731,
+      "data_years": "2019\u20132022",
+      "findings": "Among residents of Pike County, Kentucky, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Pike County, Kentucky include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Pike County, Kentucky Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1575",
+    "title": "Linking Social Stressors and Health System Gaps in Warren County, Mississippi",
+    "author": "Author Z. [.",
+    "publication_year": 2023,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1575",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Warren County, Mississippi. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 166001,
+      "data_years": "2020\u20132023",
+      "findings": "Among residents of Warren County, Mississippi, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Warren County, Mississippi include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Warren County, Mississippi Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1576",
+    "title": "Linking Social Stressors and Health System Gaps in Columbia County, Oregon",
+    "author": "Author A. B.",
+    "publication_year": 2019,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1576",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Columbia County, Oregon. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 204945,
+      "data_years": "2016\u20132019",
+      "findings": "Among residents of Columbia County, Oregon, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Columbia County, Oregon include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Columbia County, Oregon Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1577",
+    "title": "Linking Social Stressors and Health System Gaps in Union County, New Jersey",
+    "author": "Author B. C.",
+    "publication_year": 2015,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1577",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Union County, New Jersey. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 131909,
+      "data_years": "2012\u20132015",
+      "findings": "Among residents of Union County, New Jersey, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Union County, New Jersey include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Union County, New Jersey Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1578",
+    "title": "Linking Social Stressors and Health System Gaps in Geauga County, Ohio",
+    "author": "Author C. D.",
+    "publication_year": 2020,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1578",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Geauga County, Ohio. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 159187,
+      "data_years": "2017\u20132020",
+      "findings": "Among residents of Geauga County, Ohio, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Geauga County, Ohio include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Geauga County, Ohio Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1579",
+    "title": "Linking Social Stressors and Health System Gaps in Bayfield County, Wisconsin",
+    "author": "Author D. E.",
+    "publication_year": 2018,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1579",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Bayfield County, Wisconsin. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 25015,
+      "data_years": "2015\u20132018",
+      "findings": "Among residents of Bayfield County, Wisconsin, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Bayfield County, Wisconsin include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Bayfield County, Wisconsin Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1580",
+    "title": "Linking Social Stressors and Health System Gaps in Oconee County, Georgia",
+    "author": "Author E. F.",
+    "publication_year": 2015,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1580",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Oconee County, Georgia. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 25198,
+      "data_years": "2012\u20132015",
+      "findings": "Among residents of Oconee County, Georgia, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Oconee County, Georgia include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Oconee County, Georgia Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1581",
+    "title": "Linking Social Stressors and Health System Gaps in Jefferson County, Missouri",
+    "author": "Author F. G.",
+    "publication_year": 2017,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1581",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Jefferson County, Missouri. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 241117,
+      "data_years": "2014\u20132017",
+      "findings": "Among residents of Jefferson County, Missouri, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Jefferson County, Missouri include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Jefferson County, Missouri Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1582",
+    "title": "Linking Social Stressors and Health System Gaps in New Hanover County, North Carolina",
+    "author": "Author G. H.",
+    "publication_year": 2016,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1582",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in New Hanover County, North Carolina. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 291771,
+      "data_years": "2013\u20132016",
+      "findings": "Among residents of New Hanover County, North Carolina, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for New Hanover County, North Carolina include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "New Hanover County, North Carolina Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1583",
+    "title": "Linking Social Stressors and Health System Gaps in Androscoggin County, Maine",
+    "author": "Author H. I.",
+    "publication_year": 2017,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1583",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Androscoggin County, Maine. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 206242,
+      "data_years": "2014\u20132017",
+      "findings": "Among residents of Androscoggin County, Maine, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Androscoggin County, Maine include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Androscoggin County, Maine Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1584",
+    "title": "Linking Social Stressors and Health System Gaps in Comanche County, Oklahoma",
+    "author": "Author I. J.",
+    "publication_year": 2021,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1584",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Comanche County, Oklahoma. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 151708,
+      "data_years": "2018\u20132021",
+      "findings": "Among residents of Comanche County, Oklahoma, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Comanche County, Oklahoma include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Comanche County, Oklahoma Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1585",
+    "title": "Linking Social Stressors and Health System Gaps in Faulkner County, Arkansas",
+    "author": "Author J. K.",
+    "publication_year": 2016,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1585",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Faulkner County, Arkansas. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 26831,
+      "data_years": "2013\u20132016",
+      "findings": "Among residents of Faulkner County, Arkansas, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Faulkner County, Arkansas include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Faulkner County, Arkansas Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1586",
+    "title": "Linking Social Stressors and Health System Gaps in Orangeburg County, South Carolina",
+    "author": "Author K. L.",
+    "publication_year": 2020,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1586",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Orangeburg County, South Carolina. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 244329,
+      "data_years": "2017\u20132020",
+      "findings": "Among residents of Orangeburg County, South Carolina, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Orangeburg County, South Carolina include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Orangeburg County, South Carolina Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1587",
+    "title": "Linking Social Stressors and Health System Gaps in Pueblo County, Colorado",
+    "author": "Author L. M.",
+    "publication_year": 2022,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1587",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Pueblo County, Colorado. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 213782,
+      "data_years": "2019\u20132022",
+      "findings": "Among residents of Pueblo County, Colorado, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Pueblo County, Colorado include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Pueblo County, Colorado Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1588",
+    "title": "Linking Social Stressors and Health System Gaps in Flathead County, Montana",
+    "author": "Author M. N.",
+    "publication_year": 2018,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1588",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Flathead County, Montana. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 116517,
+      "data_years": "2015\u20132018",
+      "findings": "Among residents of Flathead County, Montana, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Flathead County, Montana include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Flathead County, Montana Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1589",
+    "title": "Linking Social Stressors and Health System Gaps in St. Clair County, Illinois",
+    "author": "Author N. O.",
+    "publication_year": 2016,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1589",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in St. Clair County, Illinois. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 156610,
+      "data_years": "2013\u20132016",
+      "findings": "Among residents of St. Clair County, Illinois, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for St. Clair County, Illinois include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "St. Clair County, Illinois Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1590",
+    "title": "Linking Social Stressors and Health System Gaps in Randolph County, North Carolina",
+    "author": "Author O. P.",
+    "publication_year": 2023,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1590",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Randolph County, North Carolina. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 117535,
+      "data_years": "2020\u20132023",
+      "findings": "Among residents of Randolph County, North Carolina, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Randolph County, North Carolina include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Randolph County, North Carolina Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1591",
+    "title": "Linking Social Stressors and Health System Gaps in Laramie County, Wyoming",
+    "author": "Author P. Q.",
+    "publication_year": 2022,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1591",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Laramie County, Wyoming. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 128903,
+      "data_years": "2019\u20132022",
+      "findings": "Among residents of Laramie County, Wyoming, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Laramie County, Wyoming include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Laramie County, Wyoming Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1592",
+    "title": "Linking Social Stressors and Health System Gaps in Sevier County, Tennessee",
+    "author": "Author Q. R.",
+    "publication_year": 2022,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1592",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Sevier County, Tennessee. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 276782,
+      "data_years": "2019\u20132022",
+      "findings": "Among residents of Sevier County, Tennessee, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Sevier County, Tennessee include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Sevier County, Tennessee Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1593",
+    "title": "Linking Social Stressors and Health System Gaps in Woodford County, Kentucky",
+    "author": "Author R. S.",
+    "publication_year": 2019,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1593",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Woodford County, Kentucky. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 99075,
+      "data_years": "2016\u20132019",
+      "findings": "Among residents of Woodford County, Kentucky, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Woodford County, Kentucky include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Woodford County, Kentucky Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1594",
+    "title": "Linking Social Stressors and Health System Gaps in Taney County, Missouri",
+    "author": "Author S. T.",
+    "publication_year": 2017,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1594",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Taney County, Missouri. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 226193,
+      "data_years": "2014\u20132017",
+      "findings": "Among residents of Taney County, Missouri, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Taney County, Missouri include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Taney County, Missouri Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1595",
+    "title": "Linking Social Stressors and Health System Gaps in Gallatin County, Montana",
+    "author": "Author T. U.",
+    "publication_year": 2019,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1595",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Gallatin County, Montana. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 129716,
+      "data_years": "2016\u20132019",
+      "findings": "Among residents of Gallatin County, Montana, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Gallatin County, Montana include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Gallatin County, Montana Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1596",
+    "title": "Linking Social Stressors and Health System Gaps in Tompkins County, New York",
+    "author": "Author U. V.",
+    "publication_year": 2022,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1596",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Tompkins County, New York. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 254164,
+      "data_years": "2019\u20132022",
+      "findings": "Among residents of Tompkins County, New York, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Tompkins County, New York include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Tompkins County, New York Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1597",
+    "title": "Linking Social Stressors and Health System Gaps in Martin County, Florida",
+    "author": "Author V. W.",
+    "publication_year": 2021,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1597",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Martin County, Florida. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 285644,
+      "data_years": "2018\u20132021",
+      "findings": "Among residents of Martin County, Florida, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Martin County, Florida include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Martin County, Florida Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1598",
+    "title": "Linking Social Stressors and Health System Gaps in Augusta County, Virginia",
+    "author": "Author W. X.",
+    "publication_year": 2022,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1598",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Augusta County, Virginia. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 279395,
+      "data_years": "2019\u20132022",
+      "findings": "Among residents of Augusta County, Virginia, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Augusta County, Virginia include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Augusta County, Virginia Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  },
+  {
+    "paper_id": "RP1599",
+    "title": "Linking Social Stressors and Health System Gaps in Clarendon County, South Carolina",
+    "author": "Author X. Y.",
+    "publication_year": 2022,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1599",
+    "topic_category": "County-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper examines how structural determinants such as education, food insecurity, and employment influence public health challenges in Clarendon County, South Carolina. The study evaluates both clinical outcomes and barriers to care among low-income groups.",
+    "statistical_analysis": {
+      "methods_used": "Stratified logistic regression, multivariate models",
+      "key_variables": [
+        "education level",
+        "employment rate",
+        "nutrition insecurity",
+        "hospital utilization"
+      ],
+      "sample_size": 75504,
+      "data_years": "2019\u20132022",
+      "findings": "Among residents of Clarendon County, South Carolina, food insecurity and unemployment were associated with increased rates of untreated chronic illness and hospital readmissions (p < 0.01). Counties with targeted community-based interventions saw modest improvement over time.",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "Suggested actions for Clarendon County, South Carolina include strengthening food assistance programs, expanding public transit to medical facilities, and introducing community health worker programs in underserved zones.",
+    "references": [
+      "Clarendon County, South Carolina Department of Public Health Report",
+      "CDC SDOH Database",
+      "Health Resources and Services Administration (HRSA)"
+    ]
+  }
+]

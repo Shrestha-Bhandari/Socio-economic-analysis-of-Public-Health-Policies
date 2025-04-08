@@ -1,0 +1,1502 @@
+[
+  {
+    "paper_id": "RP1250",
+    "title": "Socio-economic factors affecting healthcare in Missouri",
+    "author": "Author A. B.",
+    "publication_year": 2015,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1250",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Missouri \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 82460,
+      "data_years": "2011\u20132015",
+      "findings": "Regions within Missouri with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Missouri, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Missouri Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1251",
+    "title": "Socio-economic factors affecting healthcare in Massachusetts",
+    "author": "Author B. C.",
+    "publication_year": 2021,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1251",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Massachusetts \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 76790,
+      "data_years": "2017\u20132021",
+      "findings": "Regions within Massachusetts with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Massachusetts, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Massachusetts Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1252",
+    "title": "Socio-economic factors affecting healthcare in Illinois",
+    "author": "Author C. D.",
+    "publication_year": 2022,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1252",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Illinois \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 51413,
+      "data_years": "2018\u20132022",
+      "findings": "Regions within Illinois with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Illinois, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Illinois Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1253",
+    "title": "Socio-economic factors affecting healthcare in Arizona",
+    "author": "Author D. E.",
+    "publication_year": 2017,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1253",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Arizona \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 38068,
+      "data_years": "2013\u20132017",
+      "findings": "Regions within Arizona with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Arizona, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Arizona Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1254",
+    "title": "Socio-economic factors affecting healthcare in Rhode Island",
+    "author": "Author E. F.",
+    "publication_year": 2016,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1254",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Rhode Island \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 128310,
+      "data_years": "2012\u20132016",
+      "findings": "Regions within Rhode Island with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Rhode Island, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Rhode Island Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1255",
+    "title": "Socio-economic factors affecting healthcare in Washington",
+    "author": "Author F. G.",
+    "publication_year": 2023,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1255",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Washington \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 38780,
+      "data_years": "2019\u20132023",
+      "findings": "Regions within Washington with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Washington, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Washington Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1256",
+    "title": "Socio-economic factors affecting healthcare in Wisconsin",
+    "author": "Author G. H.",
+    "publication_year": 2020,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1256",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Wisconsin \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 72974,
+      "data_years": "2016\u20132020",
+      "findings": "Regions within Wisconsin with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Wisconsin, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Wisconsin Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1257",
+    "title": "Socio-economic factors affecting healthcare in New York",
+    "author": "Author H. I.",
+    "publication_year": 2018,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1257",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in New York \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 55858,
+      "data_years": "2014\u20132018",
+      "findings": "Regions within New York with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in New York, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "New York Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1258",
+    "title": "Socio-economic factors affecting healthcare in Indiana",
+    "author": "Author I. J.",
+    "publication_year": 2017,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1258",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Indiana \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 18326,
+      "data_years": "2013\u20132017",
+      "findings": "Regions within Indiana with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Indiana, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Indiana Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1259",
+    "title": "Socio-economic factors affecting healthcare in South Carolina",
+    "author": "Author J. K.",
+    "publication_year": 2022,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1259",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in South Carolina \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 149232,
+      "data_years": "2018\u20132022",
+      "findings": "Regions within South Carolina with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in South Carolina, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "South Carolina Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1260",
+    "title": "Socio-economic factors affecting healthcare in Oklahoma",
+    "author": "Author K. L.",
+    "publication_year": 2017,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1260",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Oklahoma \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 144855,
+      "data_years": "2013\u20132017",
+      "findings": "Regions within Oklahoma with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Oklahoma, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Oklahoma Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1261",
+    "title": "Socio-economic factors affecting healthcare in Mississippi",
+    "author": "Author L. M.",
+    "publication_year": 2022,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1261",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Mississippi \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 70942,
+      "data_years": "2018\u20132022",
+      "findings": "Regions within Mississippi with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Mississippi, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Mississippi Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1262",
+    "title": "Socio-economic factors affecting healthcare in Pennsylvania",
+    "author": "Author M. N.",
+    "publication_year": 2023,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1262",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Pennsylvania \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 62801,
+      "data_years": "2019\u20132023",
+      "findings": "Regions within Pennsylvania with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Pennsylvania, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Pennsylvania Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1263",
+    "title": "Socio-economic factors affecting healthcare in Louisiana",
+    "author": "Author N. O.",
+    "publication_year": 2016,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1263",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Louisiana \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 82614,
+      "data_years": "2012\u20132016",
+      "findings": "Regions within Louisiana with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Louisiana, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Louisiana Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1264",
+    "title": "Socio-economic factors affecting healthcare in New Hampshire",
+    "author": "Author O. P.",
+    "publication_year": 2015,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1264",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in New Hampshire \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 18733,
+      "data_years": "2011\u20132015",
+      "findings": "Regions within New Hampshire with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in New Hampshire, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "New Hampshire Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1265",
+    "title": "Socio-economic factors affecting healthcare in Hawaii",
+    "author": "Author P. Q.",
+    "publication_year": 2016,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1265",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Hawaii \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 75279,
+      "data_years": "2012\u20132016",
+      "findings": "Regions within Hawaii with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Hawaii, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Hawaii Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1266",
+    "title": "Socio-economic factors affecting healthcare in Texas",
+    "author": "Author Q. R.",
+    "publication_year": 2019,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1266",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Texas \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 24283,
+      "data_years": "2015\u20132019",
+      "findings": "Regions within Texas with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Texas, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Texas Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1267",
+    "title": "Socio-economic factors affecting healthcare in Minnesota",
+    "author": "Author R. S.",
+    "publication_year": 2015,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1267",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Minnesota \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 48394,
+      "data_years": "2011\u20132015",
+      "findings": "Regions within Minnesota with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Minnesota, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Minnesota Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1268",
+    "title": "Socio-economic factors affecting healthcare in Michigan",
+    "author": "Author S. T.",
+    "publication_year": 2021,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1268",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Michigan \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 110722,
+      "data_years": "2017\u20132021",
+      "findings": "Regions within Michigan with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Michigan, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Michigan Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1269",
+    "title": "Socio-economic factors affecting healthcare in North Carolina",
+    "author": "Author T. U.",
+    "publication_year": 2018,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1269",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in North Carolina \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 141378,
+      "data_years": "2014\u20132018",
+      "findings": "Regions within North Carolina with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in North Carolina, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "North Carolina Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1270",
+    "title": "Socio-economic factors affecting healthcare in Georgia",
+    "author": "Author U. V.",
+    "publication_year": 2017,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1270",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Georgia \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 57340,
+      "data_years": "2013\u20132017",
+      "findings": "Regions within Georgia with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Georgia, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Georgia Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1271",
+    "title": "Socio-economic factors affecting healthcare in Maine",
+    "author": "Author V. W.",
+    "publication_year": 2017,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1271",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Maine \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 135462,
+      "data_years": "2013\u20132017",
+      "findings": "Regions within Maine with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Maine, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Maine Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1272",
+    "title": "Socio-economic factors affecting healthcare in South Dakota",
+    "author": "Author W. X.",
+    "publication_year": 2019,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1272",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in South Dakota \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 39851,
+      "data_years": "2015\u20132019",
+      "findings": "Regions within South Dakota with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in South Dakota, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "South Dakota Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1273",
+    "title": "Socio-economic factors affecting healthcare in Montana",
+    "author": "Author X. Y.",
+    "publication_year": 2015,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1273",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Montana \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 31005,
+      "data_years": "2011\u20132015",
+      "findings": "Regions within Montana with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Montana, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Montana Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1274",
+    "title": "Socio-economic factors affecting healthcare in Maryland",
+    "author": "Author Y. Z.",
+    "publication_year": 2017,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1274",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Maryland \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 140958,
+      "data_years": "2013\u20132017",
+      "findings": "Regions within Maryland with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Maryland, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Maryland Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1275",
+    "title": "Socio-economic factors affecting healthcare in Wyoming",
+    "author": "Author Z. [.",
+    "publication_year": 2020,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1275",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Wyoming \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 109483,
+      "data_years": "2016\u20132020",
+      "findings": "Regions within Wyoming with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Wyoming, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Wyoming Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1276",
+    "title": "Socio-economic factors affecting healthcare in Delaware",
+    "author": "Author A. B.",
+    "publication_year": 2020,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1276",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Delaware \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 141005,
+      "data_years": "2016\u20132020",
+      "findings": "Regions within Delaware with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Delaware, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Delaware Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1277",
+    "title": "Socio-economic factors affecting healthcare in Nevada",
+    "author": "Author B. C.",
+    "publication_year": 2016,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1277",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Nevada \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 82325,
+      "data_years": "2012\u20132016",
+      "findings": "Regions within Nevada with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Nevada, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Nevada Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1278",
+    "title": "Socio-economic factors affecting healthcare in West Virginia",
+    "author": "Author C. D.",
+    "publication_year": 2017,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1278",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in West Virginia \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 17312,
+      "data_years": "2013\u20132017",
+      "findings": "Regions within West Virginia with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in West Virginia, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "West Virginia Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1279",
+    "title": "Socio-economic factors affecting healthcare in Idaho",
+    "author": "Author D. E.",
+    "publication_year": 2023,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1279",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Idaho \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 78171,
+      "data_years": "2019\u20132023",
+      "findings": "Regions within Idaho with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Idaho, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Idaho Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1280",
+    "title": "Socio-economic factors affecting healthcare in Ohio",
+    "author": "Author E. F.",
+    "publication_year": 2018,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1280",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Ohio \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 27855,
+      "data_years": "2014\u20132018",
+      "findings": "Regions within Ohio with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Ohio, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Ohio Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1281",
+    "title": "Socio-economic factors affecting healthcare in Alaska",
+    "author": "Author F. G.",
+    "publication_year": 2017,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1281",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Alaska \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 124692,
+      "data_years": "2013\u20132017",
+      "findings": "Regions within Alaska with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Alaska, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Alaska Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1282",
+    "title": "Socio-economic factors affecting healthcare in Virginia",
+    "author": "Author G. H.",
+    "publication_year": 2020,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1282",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Virginia \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 12759,
+      "data_years": "2016\u20132020",
+      "findings": "Regions within Virginia with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Virginia, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Virginia Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1283",
+    "title": "Socio-economic factors affecting healthcare in Iowa",
+    "author": "Author H. I.",
+    "publication_year": 2016,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1283",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Iowa \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 92728,
+      "data_years": "2012\u20132016",
+      "findings": "Regions within Iowa with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Iowa, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Iowa Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1284",
+    "title": "Socio-economic factors affecting healthcare in Kentucky",
+    "author": "Author I. J.",
+    "publication_year": 2021,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1284",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Kentucky \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 118950,
+      "data_years": "2017\u20132021",
+      "findings": "Regions within Kentucky with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Kentucky, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Kentucky Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1285",
+    "title": "Socio-economic factors affecting healthcare in Kansas",
+    "author": "Author J. K.",
+    "publication_year": 2016,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1285",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Kansas \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 32101,
+      "data_years": "2012\u20132016",
+      "findings": "Regions within Kansas with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Kansas, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Kansas Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1286",
+    "title": "Socio-economic factors affecting healthcare in North Dakota",
+    "author": "Author K. L.",
+    "publication_year": 2020,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1286",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in North Dakota \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 87997,
+      "data_years": "2016\u20132020",
+      "findings": "Regions within North Dakota with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in North Dakota, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "North Dakota Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1287",
+    "title": "Socio-economic factors affecting healthcare in Tennessee",
+    "author": "Author L. M.",
+    "publication_year": 2015,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1287",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Tennessee \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 115804,
+      "data_years": "2011\u20132015",
+      "findings": "Regions within Tennessee with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Tennessee, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Tennessee Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1288",
+    "title": "Socio-economic factors affecting healthcare in New Jersey",
+    "author": "Author M. N.",
+    "publication_year": 2020,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1288",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in New Jersey \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 65692,
+      "data_years": "2016\u20132020",
+      "findings": "Regions within New Jersey with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in New Jersey, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "New Jersey Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1289",
+    "title": "Socio-economic factors affecting healthcare in Colorado",
+    "author": "Author N. O.",
+    "publication_year": 2023,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1289",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Colorado \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 64004,
+      "data_years": "2019\u20132023",
+      "findings": "Regions within Colorado with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Colorado, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Colorado Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1290",
+    "title": "Socio-economic factors affecting healthcare in Vermont",
+    "author": "Author O. P.",
+    "publication_year": 2021,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1290",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Vermont \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 86090,
+      "data_years": "2017\u20132021",
+      "findings": "Regions within Vermont with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Vermont, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Vermont Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1291",
+    "title": "Socio-economic factors affecting healthcare in California",
+    "author": "Author P. Q.",
+    "publication_year": 2019,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1291",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in California \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 67564,
+      "data_years": "2015\u20132019",
+      "findings": "Regions within California with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in California, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "California Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1292",
+    "title": "Socio-economic factors affecting healthcare in Connecticut",
+    "author": "Author Q. R.",
+    "publication_year": 2020,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1292",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Connecticut \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 13709,
+      "data_years": "2016\u20132020",
+      "findings": "Regions within Connecticut with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Connecticut, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Connecticut Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1293",
+    "title": "Socio-economic factors affecting healthcare in Alabama",
+    "author": "Author R. S.",
+    "publication_year": 2022,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1293",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Alabama \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 76942,
+      "data_years": "2018\u20132022",
+      "findings": "Regions within Alabama with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Alabama, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Alabama Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1294",
+    "title": "Socio-economic factors affecting healthcare in Florida",
+    "author": "Author S. T.",
+    "publication_year": 2021,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1294",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Florida \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 84572,
+      "data_years": "2017\u20132021",
+      "findings": "Regions within Florida with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Florida, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Florida Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1295",
+    "title": "Socio-economic factors affecting healthcare in New Mexico",
+    "author": "Author T. U.",
+    "publication_year": 2020,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1295",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in New Mexico \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 81401,
+      "data_years": "2016\u20132020",
+      "findings": "Regions within New Mexico with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in New Mexico, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "New Mexico Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1296",
+    "title": "Socio-economic factors affecting healthcare in Arkansas",
+    "author": "Author U. V.",
+    "publication_year": 2019,
+    "source": "Health Affairs",
+    "doi_or_url": "https://example-research.org/article/1296",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Arkansas \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 78863,
+      "data_years": "2015\u20132019",
+      "findings": "Regions within Arkansas with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Arkansas, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Arkansas Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1297",
+    "title": "Socio-economic factors affecting healthcare in Oregon",
+    "author": "Author V. W.",
+    "publication_year": 2021,
+    "source": "American Journal of Public Health",
+    "doi_or_url": "https://example-research.org/article/1297",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Oregon \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 137923,
+      "data_years": "2017\u20132021",
+      "findings": "Regions within Oregon with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Oregon, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Oregon Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1298",
+    "title": "Socio-economic factors affecting healthcare in Nebraska",
+    "author": "Author W. X.",
+    "publication_year": 2020,
+    "source": "CDC Reports",
+    "doi_or_url": "https://example-research.org/article/1298",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Nebraska \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 43643,
+      "data_years": "2016\u20132020",
+      "findings": "Regions within Nebraska with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Nebraska, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Nebraska Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  },
+  {
+    "paper_id": "RP1299",
+    "title": "Socio-economic factors affecting healthcare in Utah",
+    "author": "Author X. Y.",
+    "publication_year": 2018,
+    "source": "NIH",
+    "doi_or_url": "https://example-research.org/article/1299",
+    "topic_category": "State-Level Analysis",
+    "document_type": "Peer-reviewed Article",
+    "summary": "This paper analyzes the impact of multiple socio-economic indicators in Utah \u2014 including income, employment, and housing stability \u2014 on public health outcomes such as chronic disease prevalence, ER visits, and preventative service uptake.",
+    "statistical_analysis": {
+      "methods_used": "Hierarchical regression, stratified survey analysis",
+      "key_variables": [
+        "poverty rate",
+        "insurance status",
+        "housing cost burden",
+        "preventive service usage"
+      ],
+      "sample_size": 90327,
+      "data_years": "2014\u20132018",
+      "findings": "Regions within Utah with limited access to primary care and higher socioeconomic stress reported a 17\u201324% increase in ER visits. Preventative care usage was notably lower in low-income rural counties (p < 0.01).",
+      "confidence_level": "95%"
+    },
+    "policy_implication": "The findings suggest a need for targeted policy actions in Utah, including expanding Medicaid access, boosting public transit to healthcare centers, and launching education-based health awareness campaigns in underserved areas.",
+    "references": [
+      "Utah Department of Health Annual Reports",
+      "CDC Social Determinants Index",
+      "KFF State Health Facts"
+    ]
+  }
+]
