@@ -6,42 +6,115 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SocioLens Chat Interface</title>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
-
     <style>
         body {
             margin: 0;
             padding: 0;
             font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-            /* background-color: #1a1a1a; */
             background: linear-gradient(35deg, #0D151D, #091933);
             color: #ffffff;
             display: flex;
             height: 100vh;
         }
 
-
-        .window-controls {
-            position: absolute;
-            top: 10px;
-            left: 10px;
+        /* --- Header and Theme Manager --- */
+        .header {
+            padding: 15px 20px;
+            border-radius: 10px;
+            background-color: rgba(105, 104, 104, 0.2);
             display: flex;
-            gap: 6px;
+            align-items: center;
+            justify-content: space-between;
+            /* Space between title and theme manager */
         }
 
-        .control {
-            width: 12px;
-            height: 12px;
+        .header-title,
+        .separator,
+        .model-name {
+            /* keeping existing header styles */
+            font-size: 16px;
+            font-weight: 500;
+        }
+
+        .separator {
+            margin: 0 10px;
+            color: #e7e4e4;
+            font-size: 20px;
+        }
+
+        .model-name {
+            color: #b6b4b4;
+            font-size: 14px;
+        }
+
+        /* Theme manager button (placed at top right in header) */
+        /* .theme-manager button {
+            background: none;
+            border: 1px solid #fff;
+            border-radius: 4px;
+            color: #fff;
+            padding: 4px 8px;
+            cursor: pointer;
+            font-family: inherit;
+            font-size: 14px;
+        } */
+        /* Toggle Switch Styles */
+        .theme-manager .toggle-switch {
+            position: relative;
+            display: inline-block;
+            width: 50px;
+            height: 24px;
+        }
+
+        .theme-manager .toggle-switch input {
+            opacity: 0;
+            width: 0;
+            height: 0;
+        }
+
+        .theme-manager .toggle-switch .slider {
+            position: absolute;
+            cursor: pointer;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: #fff;
+            transition: 0.4s;
+            border-radius: 24px;
+        }
+
+        /* The knob */
+        .theme-manager .toggle-switch .slider:before {
+            position: absolute;
+            content: "";
+            height: 20px;
+            width: 20px;
+            left: 2px;
+            bottom: 2px;
+            background-color: #0D151D;
+            /* Default knob color for dark theme */
+            transition: 0.4s;
             border-radius: 50%;
         }
 
+        /* When checkbox is checked, change background and slide knob */
+        .theme-manager .toggle-switch input:checked+.slider {
+            background-color: #ccc;
+        }
+
+        .theme-manager .toggle-switch input:checked+.slider:before {
+            transform: translateX(26px);
+            background-color: #000;
+        }
+
+
+        /* --- Sidebar --- */
         .sidebar {
             width: 270px;
             margin: 10px;
             border-radius: 10px;
-            /* background-color: #212121; */
             background-color: rgba(105, 104, 104, 0.2);
-            /* background-color: #69686833; */
-            /* border-right: 1px solid #333; */
             padding: 20px 0;
             display: flex;
             flex-direction: column;
@@ -85,49 +158,121 @@
 
         .chat-item:hover {
             margin: 10px;
-            /* background-color: #2a2a2a; */
             background-color: rgba(175, 175, 175, 0.2);
         }
 
         .chat-item.active {
             margin: 10px;
-            /* background-color: #333; */
             background-color: rgba(175, 175, 175, 0.2);
-
         }
 
-        .main-content {
-            flex: 1;
-            margin: 10px 10px 10px 0px;
-            border-radius: 10px;
+        /* Header right container to group the theme manager and model info button */
+        .header-right {
             display: flex;
-            flex-direction: column;
-        }
-
-        .header {
-            padding: 15px 20px;
-            border-radius: 10px;
-            /* border-bottom: 1px solid #333; */
-            /* background-color: #212121; */
-            background-color: rgba(105, 104, 104, 0.2);
-            display: flex;
+            gap: 10px;
             align-items: center;
         }
 
-        .header-title {
-            font-size: 16px;
-            font-weight: 500;
+        /* --- Theme Toggle Switch Styles (if not already defined) --- */
+        .toggle-switch {
+            position: relative;
+            display: inline-block;
+            width: 50px;
+            height: 24px;
         }
 
-        .separator {
-            margin: 0 10px;
-            color: #e7e4e4;
+        .toggle-switch input {
+            opacity: 0;
+            width: 0;
+            height: 0;
+        }
+
+        .slider {
+            position: absolute;
+            cursor: pointer;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: #fff;
+            transition: 0.4s;
+            border-radius: 24px;
+        }
+
+        .slider:before {
+            position: absolute;
+            content: "";
+            height: 20px;
+            width: 20px;
+            left: 2px;
+            bottom: 2px;
+            background-color: #0D151D;
+            transition: 0.4s;
+            border-radius: 50%;
+        }
+
+        .toggle-switch input:checked+.slider {
+            background-color: #ccc;
+        }
+
+        .toggle-switch input:checked+.slider:before {
+            transform: translateX(26px);
+            background-color: #000;
+        }
+
+        /* --- Model Information (Info Button & Tooltip) --- */
+        .model-info {
+            position: relative;
+            display: inline-block;
+        }
+
+        .info-button {
+            background: none;
+            border: 0px solid #fff;
+            border-radius: 50%;
+            color: #fff;
+            padding: 4px;
+            cursor: pointer;
             font-size: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
         }
 
-        .model-name {
-            color: #b6b4b4;
-            font-size: 14px;
+
+        /* Tooltip styling */
+        .info-tooltip {
+            visibility: hidden;
+            opacity: 0;
+            width: 220px;
+            background-color: #fff;
+            color: #000;
+            text-align: center;
+            border-radius: 6px;
+            padding: 5px;
+            position: absolute;
+            z-index: 1;
+            top: 125%;
+            /* Position above the button */
+            left: 50%;
+            transform: translateX(-90%);
+            transition: opacity 0.3s;
+            font-size: 12px;
+        }
+
+        /* Show tooltip on hover */
+        .model-info:hover .info-tooltip {
+            visibility: visible;
+            opacity: 1;
+        }
+
+        /* --- Main Content --- */
+        .main-content {
+            flex: 1;
+            margin: 10px 10px 10px 0;
+            border-radius: 10px;
+            display: flex;
+            flex-direction: column;
         }
 
         .chat-area {
@@ -149,14 +294,17 @@
             font-size: 24px;
             margin-bottom: 10px;
             font-weight: 400;
-            /* Create a gradient that transitions from white to a gold-like color and back */
             background: linear-gradient(90deg, #ffffff, #6f6f7b, #ffffff);
             background-size: 200% auto;
-            /* Make the background larger than the text to allow animation */
             background-clip: text;
             -webkit-background-clip: text;
             color: transparent;
             animation: shimmer 3s linear infinite;
+        }
+
+        .welcome-message h1 {
+            font-size: 28px;
+            margin-top: 0;
         }
 
         @keyframes shimmer {
@@ -169,12 +317,6 @@
             }
         }
 
-
-        .welcome-message h1 {
-            font-size: 28px;
-            margin-top: 0;
-        }
-
         .input-area {
             padding: 20px;
             display: flex;
@@ -184,16 +326,12 @@
         .message-input {
             width: 80%;
             margin: auto;
-            /* background-color: #333; */
             background-color: rgba(105, 104, 104, 0.2);
-
             border-radius: 12px;
             padding: 15px;
             display: flex;
             flex-direction: column;
-            /* Stack textarea & row vertically */
             gap: 10px;
-            /* Optional spacing between elements */
         }
 
         .message-input textarea {
@@ -203,12 +341,10 @@
             color: #fff;
             font-size: 16px;
             resize: vertical;
-            /* Allows vertical expansion */
             outline: none;
             min-height: 40px;
         }
 
-        /* Row holding icons on left and send button on right */
         .icon-row {
             display: flex;
             align-items: center;
@@ -219,50 +355,25 @@
             display: flex;
             align-items: center;
             gap: 10px;
-            /* Spacing between link & plus icons */
         }
 
-        /* Icons & send button share common styling */
         .attachment-btn,
         .plus-btn,
         .send-button {
             cursor: pointer;
             font-size: 20px;
-            color: #999;
+            color: #fff;
             background: none;
             border: none;
             outline: none;
         }
 
-        .input-left {
-            display: flex;
-            gap: 10px;
-            align-items: center;
-        }
-
-        .input-placeholder {
-            color: #999;
-        }
-
-        .send-button {
-            background-color: transparent;
-            border: none;
-            color: #fff;
-            cursor: pointer;
-            font-size: 25px;
-            padding: 0;
-        }
-
         .attachment-btn {
-            color: #fff;
-            cursor: pointer;
             margin-right: 8px;
             font-size: 24px;
         }
 
         .plus-btn {
-            color: #fff;
-            cursor: pointer;
             margin-right: 8px;
             width: 24px;
             height: 24px;
@@ -272,6 +383,56 @@
             justify-content: center;
             font-size: 24px;
         }
+
+        .send-button {
+            font-size: 25px;
+        }
+
+        /* --- White Theme Overrides --- */
+        .white-theme {
+            background: linear-gradient(35deg, #ffffff, #f0f0f0) !important;
+            color: #000 !important;
+        }
+
+        .white-theme .header,
+        .white-theme .sidebar,
+        .white-theme .message-input {
+            background-color: rgba(228, 228, 229, 0.8) !important;
+        }
+
+        .white-theme .chat-item:hover,
+        .white-theme .chat-item.active {
+            background-color: rgba(200, 200, 200, 0.4) !important;
+        }
+
+        .white-theme .send-button,
+        .white-theme .info-button,
+        .white-theme .attachment-btn,
+        .white-theme .plus-btn {
+            color: #000 !important;
+        }
+
+        .white-theme .info-tooltip {
+            background-color: rgba(0, 0, 0, 0.8);
+            color: #fff;
+        }
+
+        .white-theme .welcome-message h2 {
+            font-size: 24px;
+            margin-bottom: 10px;
+            font-weight: 400;
+
+            background: linear-gradient(90deg, #bfbebe, #6f6f7b, #bfbebe);
+            background-size: 200% auto;
+
+            background-clip: text;
+            -webkit-background-clip: text;
+
+            color: transparent;
+            -webkit-text-fill-color: transparent;
+            animation: shimmer 3s linear infinite;
+            display: inline-block;
+        }
     </style>
     <!-- Ionicons Scripts -->
     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
@@ -279,7 +440,6 @@
 </head>
 
 <body>
-
     <div class="sidebar">
         <div class="user-profile">
             <div class="avatar">
@@ -289,14 +449,12 @@
                 <strong>Hi, Yash</strong>
             </div>
         </div>
-
         <div class="chat-list">
             <!-- Active item with open-folder icon -->
             <div class="chat-item active">
                 <ion-icon name="folder-open"></ion-icon>
                 Chat Title
             </div>
-
             <!-- Inactive items with closed-folder icon -->
             <div class="chat-item">
                 <ion-icon name="folder"></ion-icon>
@@ -320,12 +478,30 @@
             </div>
         </div>
     </div>
-
     <div class="main-content">
         <div class="header">
-            <span class="header-title">Research Title</span>
-            <span class="separator">•</span>
-            <span class="model-name">PH-Llama-3.0</span>
+            <div class="header-left">
+                <span class="header-title">Research Title</span>
+                <span class="separator">•</span>
+                <span class="model-name">PH-Llama-3.0</span>
+            </div>
+            <!-- New header-right container for theme toggle and model information -->
+            <div class="header-right">
+                <div class="theme-manager">
+                    <label class="toggle-switch">
+                        <input type="checkbox" id="theme-toggle">
+                        <span class="slider"></span>
+                    </label>
+                </div>
+                <div class="model-info">
+                    <button class="info-button">
+                        <ion-icon name="information-circle-outline"></ion-icon>
+                    </button>
+                    <div class="info-tooltip">
+                        The model can make mistakes; check your information carefully.
+                    </div>
+                </div>
+            </div>
         </div>
 
         <div class="chat-area">
@@ -334,7 +510,6 @@
                 <h2>How may I assist you today?</h2>
             </div>
         </div>
-
         <div class="input-area">
             <div class="message-input">
                 <!-- Editable & expandable text area -->
@@ -359,6 +534,16 @@
             </div>
         </div>
     </div>
+
+    <!-- Theme Toggle Script -->
+    <script>
+        const themeToggle = document.getElementById('theme-toggle');
+
+        themeToggle.addEventListener('change', function () {
+            document.body.classList.toggle('white-theme', this.checked);
+        });
+    </script>
+
 </body>
 
 </html>
