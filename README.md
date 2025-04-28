@@ -77,9 +77,9 @@ This project investigates whether public health policies reduce or reinforce soc
   - HTTPS endpoints with token‐based auth  
 - **Reliability & Monitoring:**  
   - 99.5% service uptime  
-  - Logging & alerts (Prometheus + Grafana)  
+  
 - **Portability:**  
-  - Dockerized components for multi-cloud deployment (AWS/GCP/Azure)  
+  - Dockerized components for multi-cloud deployment (AWS/GCP)  
 
 ---
 
@@ -93,7 +93,6 @@ Other minor requirements and considerations like Cloud deployable solution etc.
 
 ### 📦 Required Resources
 - Hardware & OS: Linux dev machine (or cloud VM)
-- Edge Device: Raspberry Pi Pico W (for field data capture)
 - IDE: JupyterLab, VS Code
 - Version Control: Git/GitHub
 - Model Tool: HuggingFace 
