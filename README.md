@@ -1,14 +1,16 @@
-# Socio-economic analysis of Public Health Policies
+# Socio-economic Analysis of Public Health Policies
 
-## About 
-<P>Term: Spring 2025
-<P>Team: Team 7-Orange
-<p> Yash Nayi
-<p> Parin Patel
-<p> Shrestha Bhandari
+## About  
+**Term:** Spring 2025  
+**Team:** Team 7-Orange  
+- **Yash Nayi**  
+- **Parin Patel**  
+- **Shrestha Bhandari**
 
-#️⃣ **Keywords**:  MLOps, Python, LLM
+## Keywords  
+MLOps · Python · LLM · NLP · Data Science · Policy Analysis
 
+---
 ## 💻 Project Abstract:  
 <P>Public health policies play a crucial role in shaping healthcare access and outcomes, yet their socioeconomic impact is often unclear. This project leverages data science and NLP techniques to analyze how public health policies affect different socioeconomic groups. By integrating structured datasets , we aim to build an AI-driven system that evaluates policy effectiveness. A fine-tuned language model  will summarize policies, detect misinformation, and correlate policy implementation with socioeconomic indicators.
 
@@ -26,75 +28,92 @@ This project investigates whether public health policies reduce or reinforce soc
 <P>We are currently focusing on the World Bank as our primary data source, the system must be designed to efficiently extract, preprocess, and analyze datasets available through the World Bank Open Data portal. This includes key socioeconomic indicators such as income distribution, healthcare access, employment rates, education levels, and poverty metrics. The system should support API-based data retrieval, automated updates to ensure real-time insights, and structured storage for seamless integration with our analytical models. Given the structured nature of World Bank data, preprocessing will involve handling missing values, standardizing formats, and ensuring compatibility with NLP and machine learning pipelines for summarization, comparative analysis, and predictive modeling of policy impacts. </P>
 
 
+## 📈 High-Level Requirements  
+1. **Data Acquisition**  
+   - World Bank Open Data (income distribution, health access, employment, education) via API  
+   - Policy document collection (federal/state health policy PDFs & text)  
+   - Social media & news streams for public sentiment  
+2. **Data Processing & Pipelines**  
+   - Automated ETL: ingestion → cleaning → feature engineering  
+   - Scalable storage (relational or NoSQL) for structured & unstructured data  
+3. **Modeling & Analysis**  
+   - Fine-tune LLM (e.g. GPT/FLAN) for policy summarization & misinformation detection  
+   - Train classifiers/regressors to correlate policy interventions with socioeconomic metrics  
+   - Sentiment analysis pipeline (e.g. spaCy, Transformers)  
+4. **Reporting & Visualization**  
+   - Automated report generation with key insights & recommendations  
+   - Dashboards for interactive exploration of policy impacts  
+5. **Scalability & Maintainability**  
+   - Modular, containerized microservices (Docker)  
+   - CI/CD with MLOps tooling (MLflow, Prefect/Apache Airflow)  
+
+---
+
+## 📋 Functional Requirements  
+- **World Bank API Integration**  
+  - Retrieve and update socioeconomic indicators on a schedule  
+- **Policy Document Ingestion**  
+  - PDF/text extraction → cleaning → storage  
+- **NLP Services**  
+  - Summarization endpoint  
+  - Misinformation detection endpoint  
+  - Sentiment analysis endpoint  
+- **Correlation Engine**  
+  - Statistical analysis module to compute effect sizes and significances  
+- **Dashboard & Reports**  
+  - Web-based UI (Streamlit/Flask or React) showing:  
+    - Time-series of indicators vs. policy dates  
+    - Geographic heatmaps of impact  
+    - Top misinfo topics  
+
+---
+
+## ✅ Non-Functional Requirements  
+- **Performance:**  
+  - Summarization requests < 5 s  
+  - Batch jobs complete -daily within 2 hours  
+- **Security:**  
+  - Secure API keys via environment variables  
+  - HTTPS endpoints with token‐based auth  
+- **Reliability & Monitoring:**  
+  - 99.5% service uptime  
+  - Logging & alerts (Prometheus + Grafana)  
+- **Portability:**  
+  - Dockerized components for multi-cloud deployment (AWS/GCP/Azure)  
+
+---
+
+## ✍🏼 Methodology  
+![image](https://github.com/user-attachments/assets/297e116f-861c-4f73-92e6-ed4517a6a702)
 
 ###  ✅ Non functional Requirements
 
 Other minor requirements and considerations like Cloud deployable solution etc.
 
-### ✍🏼 Conceptual Design
-
-
-
-
-### 🛠️ Technical Design
-
 
 ### 📦 Required Resources
+- Hardware & OS: Linux dev machine (or cloud VM)
+- Edge Device: Raspberry Pi Pico W (for field data capture)
+- IDE: JupyterLab, VS Code
+- Version Control: Git/GitHub
+- Model Tool: HuggingFace 
+- Languages & Frameworks:
+- Python 3.10+
+- PyTorch, Transformers, scikit-learn
+- Fine-Tuning Tech: PEFT, LoRA, QLoRA (4-bit Quantization)
 
-Linux Development Machine
-Raspberry Pi Pico W
-Mobile Application Development Environment
-IDE/Text Editor
-Project Management (Jira)
-Version Control management (GitHub/Git)
-Database (MYSQL)
-PyTorch
-Jupyter
-
-
-### Project Plan :  
-
-
-
-## 🏁 Milestones 
-
-L
+🧪 Test Cases
+- World Bank API returns latest indicator data within expected schema.
+- Policy Extractor correctly parses text from a sample PDF.
+- Summarizer produces coherent 3–5 sentence abstracts.
+- Misinformation Detector flags injected fake statements with ≥ 85% precision.
+- Correlation Module reproduces known effect estimates on synthetic data.
+- Dashboard loads within 3 s and updates when new data arrives.
 
 
+## Installation Instructions
 
-### 🧪 Test Cases
-
-
-### 👩🏻‍🏫 Installation Instructions
-
-These instructions are to help build and run the project locally on your system.
-
-#### Minimum Requirements
-
-
-
-
-### 👩🏻‍💻🧑🏻‍💻 Collaborators
-
-[//]: # ( readme: collaborators -start )
-<table>
-<tr>
-    <td align="center">
-        <a href="https://github.com/digitaldiv">
-            <img src="https://avatars.githubusercontent.com/u/1842870?v=4" width="100;" alt="Div Pithadia"/>
-            <br />
-            <sub><b>Div Pithadia</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/chargershub">
-            <img src="https://avatars.githubusercontent.com/u/160267476?v=4" width="100;" alt="Chargers hub"/>
-            <br />
-            <sub><b>Chargers Hub</b></sub>
-        </a>
-    </td></tr>
-</table>
-
-[//]: # ( readme: collaborators -end )
-
-
+```bash
+git clone https://github.com/UNH-TCOE-ECECS/Team07-Orange/.git
+cd socioeconomic-policy-analysis
+```
