@@ -12,102 +12,129 @@ MLOps · Python · LLM · NLP · Data Science · Policy Analysis
 
 ---
 ## 💻 Project Abstract:  
-<P>Public health policies play a crucial role in shaping healthcare access and outcomes, yet their socioeconomic impact is often unclear. This project leverages data science and NLP techniques to analyze how public health policies affect different socioeconomic groups. By integrating structured datasets , we aim to build an AI-driven system that evaluates policy effectiveness. A fine-tuned language model  will summarize policies, detect misinformation, and correlate policy implementation with socioeconomic indicators.
+<P>This project addresses the challenges faced by policy analysts who spend excessive time analyzing raw data by integrating AI and LLM-based techniques to evaluate public health policies. By leveraging a fine-tuned LLaMA 3.2B model and structured datasets, our system provides a scalable, evidence-driven framework that transforms complex socioeconomic data into meaningful insights. The platform enables policy analysts to quickly perform general analysis, comparative analysis, and predictive analysis of public health policies and their socioeconomic impacts, bridging the gap between policy design and on-ground realities.
 
 
 ### 🫧 Background
 
-This project investigates whether public health policies reduce or reinforce socioeconomic disparities by analyzing their intended impact, real-world effects, and public perceptions. Policies such as Medicaid expansion, vaccination programs, and mental health funding aim to improve healthcare access and outcomes, but their socioeconomic impact remains uncertain. To address this, we will analyze policy documents using NLP-based summarization to understand their objectives, leverage structured datasets (income, healthcare access, employment rates) to measure actual effects, and assess public sentiment through social media and news analysis to detect perceptions and misinformation. Finally, we will develop an AI model to correlate policies with socioeconomic indicators, generating data-driven reports and recommendations.
+<P>Policy analysts often spend excessive time buried in raw data and documents when evaluating public health policies. The direct and indirect socioeconomic impacts of these policies remain uncertain and hard to quantify using traditional methods. Our end-to-end lifecycle solution addresses this challenge by:
 
-## High Level Requirement
-<P>To effectively measure the socioeconomic impact of public health policies, the project requires a robust system integrating data acquisition, processing, and AI modeling. First, structured and unstructured data sources must be gathered, including health statistics, economic indicators, policy documents, and public sentiment data. Data processing will involve cleaning, feature engineering, and pipeline automation to ensure scalability. An LLM/SLM will be fine-tuned for policy summarization, misinformation detection, and sentiment analysis, while predictive models will assess policy effectiveness by correlating socioeconomic indicators. The system will be designed for scalability and integration, ensuring efficient handling of large datasets and adaptability for further expansion. </P>
+1. Ingesting raw data from multiple sources
+2. Converting it to meaningful context for LLM learning
+3. Fine-tuning LLaMA 3.2B on this specialized dataset
+4. Providing an intuitive interface for general, comparative, and predictive analysis
+
+This enables analysts to quickly detect trends, understand policy implications, and identify inequities without manual data processing. </P>
 
 
-### 📋 Functional Requirements
+## 💻 System Architecture
 
-<P>We are currently focusing on the World Bank as our primary data source, the system must be designed to efficiently extract, preprocess, and analyze datasets available through the World Bank Open Data portal. This includes key socioeconomic indicators such as income distribution, healthcare access, employment rates, education levels, and poverty metrics. The system should support API-based data retrieval, automated updates to ensure real-time insights, and structured storage for seamless integration with our analytical models. Given the structured nature of World Bank data, preprocessing will involve handling missing values, standardizing formats, and ensuring compatibility with NLP and machine learning pipelines for summarization, comparative analysis, and predictive modeling of policy impacts. </P>
+The system consists of four main components:
 
+1. **Data Collection**
+   - Research papers
+   - Census data
+   - Policy outcomes
 
-## 📈 High-Level Requirements  
-1. **Data Acquisition**  
-   - World Bank Open Data (income distribution, health access, employment, education) via API  
-   - Policy document collection (federal/state health policy PDFs & text)  
-   - Social media & news streams for public sentiment  
-2. **Data Processing & Pipelines**  
-   - Automated ETL: ingestion → cleaning → feature engineering  
-   - Scalable storage (relational or NoSQL) for structured & unstructured data  
-3. **Modeling & Analysis**  
-   - Fine-tune LLM (e.g. GPT/FLAN) for policy summarization & misinformation detection  
-   - Train classifiers/regressors to correlate policy interventions with socioeconomic metrics  
-   - Sentiment analysis pipeline (e.g. spaCy, Transformers)  
-4. **Reporting & Visualization**  
-   - Automated report generation with key insights & recommendations  
-   - Dashboards for interactive exploration of policy impacts  
-5. **Scalability & Maintainability**  
-   - Modular, containerized microservices (Docker)  
-   - CI/CD with MLOps tooling (MLflow, Prefect/Apache Airflow)  
+2. **Data Processing & Feature Engineering**
+   - Text extraction
+   - Data cleaning
+   - Feature engineering
+   - Training dataset creation
 
----
+3. **Model Fine-tuning**
+   - LLaMA 3.2B with LoRA adaptation
+   - LLaMA 3.2B with QLoRA adaptation
+   - Cross-encoder reranker (ms-marco-MiniLM-L-6-v2)
 
-## 📋 Functional Requirements  
-- **World Bank API Integration**  
-  - Retrieve and update socioeconomic indicators on a schedule  
-- **Policy Document Ingestion**  
-  - PDF/text extraction → cleaning → storage  
-- **NLP Services**  
-  - Summarization endpoint  
-  - Misinformation detection endpoint  
-  - Sentiment analysis endpoint  
-- **Correlation Engine**  
-  - Statistical analysis module to compute effect sizes and significances  
-- **Dashboard & Reports**  
-  - Web-based UI (Streamlit/Flask or React) showing:  
-    - Time-series of indicators vs. policy dates  
-    - Geographic heatmaps of impact  
-    - Top misinfo topics  
-
----
-
-## ✅ Non-Functional Requirements  
-- **Performance:**  
-  - Summarization requests < 5 s  
-  - Batch jobs complete -daily within 2 hours  
-- **Security:**  
-  - Secure API keys via environment variables  
-  - HTTPS endpoints with token‐based auth  
-- **Reliability & Monitoring:**  
-  - 99.5% service uptime  
-  
-- **Portability:**  
-  - Dockerized components for multi-cloud deployment (AWS/GCP)  
-
----
+4. **Evaluation & Deployment**
+   - Metrics: Accuracy, Perplexity, ROUGE Score, Inference Speed, Policy Relevance
+   - StreamlitGradio interface for interactive use
 
 ## ✍🏼 Methodology  
 ![image](https://github.com/user-attachments/assets/297e116f-861c-4f73-92e6-ed4517a6a702)
 
-###  ✅ Non functional Requirements
+## 📋 Requirements
 
-Other minor requirements and considerations like Cloud deployable solution etc.
+### High-Level Requirements
+
+1. Analyze socioeconomic impacts of public health policies through AI-powered insights
+2. Provide intuitive visualization tools for policy impact analysis
+3. Support real-time misinformation detection and trend monitoring
+4. Enable comparative analysis across different demographic groups and regions
+5. Generate evidence-based policy recommendations
+
+### Functional Requirements
+
+1. **Data Processing**
+   - Ingest and process structured data from US Census, World Bank, and KFF
+   - Extract meaningful information from unstructured policy documents
+   - Clean and normalize datasets for consistent analysis
+   - Create and maintain FAISS vector database for semantic search
+
+2. **Analysis Capabilities**
+   - Perform general analysis of public health policies
+   - Generate comparative analysis between policies and regions
+   - Provide predictive analysis for policy outcomes
+   - Detect and summarize misinformation trends
+   - Track public sentiment related to policies
+
+3. **User Interface**
+   - Dynamic policy querying through Streamlit/Gradio
+   - Interactive visualization of policy impacts
+   - Customizable reporting features
+   - Multi-level access for different user types
+
+### Non-Functional Requirements
+
+1. **Performance**
+   - Support response times under 2 seconds for queries
+   - Handle concurrent users with minimal latency
+   - Optimize memory usage during inference
+
+2. **Scalability**
+   - Support expansion to additional policy domains
+   - Scale to accommodate growing datasets
+   - Allow for model updates and improvements
+
+3. **Security**
+   - Ensure data privacy and compliance with regulations
+   - Provide secure access controls
+   - Maintain audit logs of system usage
+
+4. **Reliability**
+   - Ensure high availability of the system
+   - Implement error handling and recovery mechanisms
+   - Regular backups of datasets and model weights
 
 
-### 📦 Required Resources
-- Hardware & OS: Linux dev machine (or cloud VM)
-- IDE: JupyterLab, VS Code
-- Version Control: Git/GitHub
-- Model Tool: HuggingFace 
-- Languages & Frameworks:
-- Python 3.10+
-- PyTorch, Transformers, scikit-learn
-- Fine-Tuning Tech: PEFT, LoRA, QLoRA (4-bit Quantization)
 
-🧪 Test Cases
-- World Bank API returns latest indicator data within expected schema.
-- Policy Extractor correctly parses text from a sample PDF.
-- Summarizer produces coherent 3–5 sentence abstracts.
-- Misinformation Detector flags injected fake statements with ≥ 85% precision.
-- Correlation Module reproduces known effect estimates on synthetic data.
-- Dashboard loads within 3 s and updates when new data arrives.
+---
+
+
+
+## 🛠️ Technologies Used
+
+- **Programming Language**: Python
+- **LLM Model**: LLaMA 3.2B Parameters
+- **Fine-tuning**: LoRA technique
+- **Data Pipeline**: AWS Platform
+- **Libraries**: Hugging Face Transformers
+- **Vector Database**: FAISS for high-speed semantic search
+- **Frontend**: Streamlit interface
+
+## 📊 Data Sources
+
+### Structured Data
+- US Census socioeconomic indicators (income, employment, education, healthcare access)
+- World Bank data
+- KFF (Kaiser Family Foundation) health policy data
+
+### Unstructured Data
+- Public health policy documents (Medicaid expansions, vaccination programs, mental health acts)
+- Research papers summarizing policy impacts
+- Social media posts and news reports capturing public sentiment
+
 
 
 ## Installation Instructions
