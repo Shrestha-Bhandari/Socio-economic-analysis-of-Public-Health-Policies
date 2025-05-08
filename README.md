@@ -131,9 +131,9 @@ The system consists of four main components:
 - KFF (Kaiser Family Foundation) health policy data
 
 ### Unstructured Data
-- Public health policy documents (Medicaid expansions, vaccination programs, mental health acts)
+- Public health policy documents
 - Research papers summarizing policy impacts
-- Social media posts and news reports capturing public sentiment
+
 
 
 
