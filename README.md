@@ -3,9 +3,9 @@
 ## About  
 **Term:** Spring 2025  
 **Team:** Team 7-Orange  
-- **Yash Nayi**  
+- **Shrestha Bhandari**  
 - **Parin Patel**  
-- **Shrestha Bhandari**
+- **Yash Nayi**
 
 ## Keywords  
 MLOps · Python · LLM · NLP · Data Science · Policy Analysis
